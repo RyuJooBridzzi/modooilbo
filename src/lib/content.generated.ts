@@ -136933,6 +136933,672 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-15-chungju-post-carrier-mail-arrival-rules",
+    "slug": "2026-11-15-chungju-post-carrier-mail-arrival-rules",
+    "title": "충주우체국 기간제 집배원 채용…이메일 19일, 등기는 20일 도착까지",
+    "summary": "충주우체국이 전일제 기간제 집배원 한 명을 채용한다. 방문·이메일 접수와 달리 등기에는 다음 영업일 도착 기준이 적용된다.",
+    "body": [
+      "충주우체국이 기간제 상시계약집배원 한 명을 모집한다. 근무형태는 주 5일 하루 8시간이며 계약은 11월 중 시작해 12월 31일까지다. 응시자가 원서를 보내는 경로에 따라 도착 기준이 다르다.",
+      "## 전자우편 마감과 등기 도착일 구분",
+      "원서 접수는 11월 19일 오후 6시까지다. 전자우편 서류는 그 시각까지 도착해야 하고 서명한 자료를 PDF 또는 JPG로 첨부한다. 등기우편은 공고가 다음 영업일인 11월 20일 도착분까지 인정한다. 면허·증빙 서류를 보낼 때 경로별 기한을 혼용하지 않는 것이 중요하다. 서류전형 발표는 23일, 실기와 면접은 24일, 최종 발표는 26일 예정이다.",
+      "## 두 종류의 면허가 각각 필요",
+      "응시자격은 1종 또는 2종 보통운전면허와 별도로, 2종 소형이나 2종 원동기장치자전거 면허 중 하나를 요구한다. 보통면허 한 종류만으로 두 요건을 충족한다고 보면 안 된다. 공고가 정한 기간 안에 취득한 국민체력100 3등급 이상 인증서를 제출하면 체력 검정을 면제받을 수 있으므로 해당자는 발급일과 서류 목록을 함께 확인할 필요가 있다.",
+      "## 출처 메모",
+      "- 우정사업본부 집배원 채용 상세: https://www.koreapost.go.kr/postman/sub/sub0201_view.do?bbsDataIdx=100102438 - 충주우체국 공식 공고 PDF: https://www.koreapost.go.kr/common/file.down?bbsSetIdx=256&dataType=bbs&fileIdx=100115505"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-15T06:29:00Z",
+    "eventEndsAt": "2026-11-19T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "충주우체국의 채용 상세와 공고 PDF에서 이메일·등기 도착 기준, 면허 조합과 체력 검정 면제 조건을 확인했습니다.",
+    "addedValue": "서로 다른 면허 두 종류 확인, 접수 경로별 도착일 선택, 체력 인증 유효기간 점검에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "충주우체국이 전일제 기간제 집배원 한 명을 채용한다. 방문·이메일 접수와 달리 등기에는 다음 영업일 도착 기준이 적용된다.",
+    "readerChecklist": [
+      "서로 다른 면허 두 종류 확인",
+      "접수 경로별 도착일 선택",
+      "체력 인증 유효기간 점검"
+    ],
+    "imageUrl": "/stock/2026-11-15-chungju-post-carrier-mail-arrival-rules.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "충주우체국",
+      "충주",
+      "집배원",
+      "기간제",
+      "운전면허",
+      "체력검정",
+      "등기우편",
+      "채용"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-daejeon-ces-presummit-travel-settlement",
+    "slug": "2026-11-15-daejeon-ces-presummit-travel-settlement",
+    "title": "대전 CES 연계 실증 지원, 항공·숙박 최대 300만원…20일 16시 마감",
+    "summary": "대전 소재 기업 대상 CES 연계 프로그램은 전시 부스비를 지원하지 않는다. 행사 참여와 지출 증빙을 갖춘 뒤 인정 비용을 정산한다.",
+    "body": [
+      "대전 지역 기업이 CES 2027 일정에 맞춰 북미 수요처와 실증 협력을 추진한다면, 전시 참가 여부뿐 아니라 연계 행사 참여 계획을 함께 확인할 필요가 있다.",
+      "대전창조경제혁신센터가 접수하는 사전검증 지원은 항공료와 숙박비를 합산해 기업당 최대 300만원을 지원한다. 전시 부스 참가비를 보전하는 사업은 아니다.",
+      "## 대전 사업장과 해외 실증 조건",
+      "대전에 본사·지사·기업부설연구소 중 하나가 있는 기업을 대상으로 한다. 대전시 공공기술 연계 사회문제 해결 연구개발·사업화 사업 수행기업 또는 글로벌 사회문제 해결 과제에 연계해 해외 실증을 할 수 있는 AI·딥테크 기업이 대상에 포함된다. 선정 규모는 세 곳 안팎이며, 별도 통역이 제공되지 않는다고 공고는 안내했다. 현지 미팅 담당 인력과 영어 제안 자료를 출장 일정과 함께 점검할 필요가 있다.",
+      "## 이메일 마감과 비용 청구는 별개",
+      "접수 마감은 11월 20일 오후 4시다. 신청서와 증빙은 한 PDF로 합쳐 공고에 기재된 센터 이메일로 보내고 담당 창구에서 접수 여부를 확인하는 절차다. 선정 후에는 연계 행사에 참가하고 결과보고서와 결제 증빙을 제출한 뒤 인정된 실제 지출을 정산한다. 300만원은 정액 지급액이 아니며, 프로그램에 참여하지 않으면 비용 지원을 받을 수 없다.",
+      "## 출처 메모",
+      "- 기업마당 참여기업 모집: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127908 - 대전창조경제혁신센터 원공고: https://ccei.creativekorea.or.kr/daejeon/allim/allim_view.do?div_code=1&no=16425 - 대전창조경제혁신센터 공고 PDF: https://bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000779771&downloadToken=eyJhbGciOiJIUzI1NiJ9.eyJwdXJwb3NlIjoiZmlsZV9kb3dubG9hZCIsImlhdCI6MTc5NDY2NzMyOSwiYXRjaEZpbGVJZCI6IkZJTEVfMDAwMDAwMDAwNzc5NzcxIiwiZmlsZVNuIjoiMCJ9.ZdtlivrkUPFfnEB9-E3tGsHtHbokx-mDy78gt5H1Szg&fileSn=0"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-15T06:27:00Z",
+    "eventEndsAt": "2026-11-20T16:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "대전창조경제혁신센터의 모집 공고에서 대전 소재 요건, 연계 행사 참여 조건과 항공·숙박비 정산 기준을 확인했습니다.",
+    "addedValue": "대전 소재 증빙 확인, 연계 행사 참여 인력 확정, 신청 PDF와 정산 증빙 구분에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "대전 소재 기업 대상 CES 연계 프로그램은 전시 부스비를 지원하지 않는다. 행사 참여와 지출 증빙을 갖춘 뒤 인정 비용을 정산한다.",
+    "readerChecklist": [
+      "대전 소재 증빙 확인",
+      "연계 행사 참여 인력 확정",
+      "신청 PDF와 정산 증빙 구분"
+    ],
+    "imageUrl": "/stock/2026-11-15-daejeon-ces-presummit-travel-settlement.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "대전",
+      "CES 2027",
+      "Pre-Summit",
+      "북미",
+      "실증",
+      "항공료",
+      "숙박비",
+      "딥테크"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-gyeongnam-secaas-security-cost-share",
+    "slug": "2026-11-15-gyeongnam-secaas-security-cost-share",
+    "title": "경남 클라우드 보안 지원 최대 360만원…자부담에 부가세도 포함",
+    "summary": "경남테크노파크가 정한 보안서비스 지원은 공급가액의 80%가 기준이다. 기본 상품의 기업 부담은 공급가액 자부담과 부가세를 합쳐 계산한다.",
+    "body": [
+      "경남테크노파크가 공고한 ICT 기업 정보보호 사업은 클라우드형 보안서비스(SECaaS) 이용을 지원한다. 지역 전략산업을 영위하거나 침해사고 피해를 입은 경남 중소기업이 우선 대상이며, 해당하지 않는 업종에는 기타 신청 항목이 있다. 신청서를 접수한 순서에 따라 자격을 검토하며, 공고상 11월 말까지라도 예산이 소진되면 일찍 마감될 수 있다. 순서대로 검토한다는 점과 접수만으로 선정되는 것은 다르다.",
+      "## 495만원 예시에서 기업이 내는 금액은 135만원",
+      "공고의 10사용자 기본 예시는 공급가액 450만원, 부가세 45만원이다. 정부 지원 360만원을 제외하면 공급가액의 기업 몫 90만원과 부가세 45만원, 합계 135만원을 기업이 부담한다. 한도를 넘는 비용도 수요기업 몫이다. 견적을 비교할 때에는 부가세를 포함한 현금 부담액을 기준으로 보는 편이 정확하다.",
+      "## 기존 지원과 중복되는지 먼저 확인",
+      "같은 대표자의 여러 사업체는 한 곳만 신청할 수 있다. 2024~2025년 이 사업 지원을 받은 기업은 원칙적으로 재신청할 수 없으나 침해사고 피해기업은 공고에 예외가 있다. 올해 유사 정부사업에서 제품 지원을 받은 기업도 중복 지원 제한을 확인해야 한다. 신청은 한국인터넷진흥원 지역정보보호지원센터에서 해당 패키지 메뉴를 통해 접수하며, 사업자등록증과 기업 자격 등 요구 자료는 공고의 발급 기준을 확인한다.",
+      "## 출처 메모",
+      "- 경남테크노파크 지원사업 원공고 및 첨부: https://gntp.or.kr/biz/applyInfo/3843 - 한국인터넷진흥원 지역정보보호지원센터: https://risc.kisa.or.kr/"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-15T06:28:00Z",
+    "eventEndsAt": "2026-11-30T13:39:00Z",
+    "reporting": "desk",
+    "verificationNote": "경남테크노파크 공고에서 보안서비스 공급가액 분담률과 부가세 부담, 조기 마감 가능성을 확인했습니다.",
+    "addedValue": "중복 지원 여부 확인, 부가세 포함 자부담 계산, 지역정보보호지원센터 신청에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "경남테크노파크가 정한 보안서비스 지원은 공급가액의 80%가 기준이다. 기본 상품의 기업 부담은 공급가액 자부담과 부가세를 합쳐 계산한다.",
+    "readerChecklist": [
+      "중복 지원 여부 확인",
+      "부가세 포함 자부담 계산",
+      "지역정보보호지원센터 신청"
+    ],
+    "imageUrl": "/stock/2026-11-15-gyeongnam-secaas-security-cost-share.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "경남테크노파크",
+      "KISA",
+      "정보보호",
+      "SECaaS",
+      "중소기업",
+      "클라우드",
+      "보안",
+      "자부담"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-halla-incubator-wonju-office-move",
+    "slug": "2026-11-15-halla-incubator-wonju-office-move",
+    "title": "한라대 창업보육센터 30일 18시 마감…사업자 등록·이전 기한 확인",
+    "summary": "원주 한라대가 일반보육실 4개와 1인 보육실 6석을 모집한다. 초기 창업자와 예비창업자의 입주 후 등록 요건이 다르다.",
+    "body": [
+      "한라대학교 창업보육센터가 원주 보육공간 입주 신청을 11월 30일 오후 6시까지 받는다. 일반보육실은 10평형 한 곳, 30평형 두 곳, 50평형 한 곳이며 1인 창업자 보육실은 6석이다. 면적에 따라 필요한 비용과 들어갈 수 있는 인원을 함께 따져볼 필요가 있다.",
+      "## 예비창업자와 기존 기업의 의무가 다르다",
+      "신기술이나 아이디어를 보유한 예비창업자 또는 창업 7년 미만 개인·법인 사업자가 대상이다. 예비창업자는 입주 후 3개월 안에 사업자등록이 가능해야 한다. 기창업자는 공고가 안내한 본사·기업부설연구소·연구개발부서 이전 요건과 입주 후 1개월 일정을 확인해야 한다. 창조경제혁신센터나 청년창업사관학교 졸업기업에는 우대 사항이 있다.",
+      "## 보증금과 운영비를 분리해 비교",
+      "일반보육실 보증금은 ㎡당 5만원이며 면적에 따른 사용료 외에 관리비와 실비 전기료가 별도다. 1인 보육실은 보증금 30만원과 좌석당 사용료 10만원을 안내했다. 입주기간은 2년 뒤 재계약 조건이다. 신청은 센터 이메일로 받으며 대표자 인감증명서 등 개인·법인별 서류가 다르다. 서류심사를 통과해도 운영위원 본심사와 입주계약 체결이 남는다.",
+      "## 출처 메모",
+      "- 한라대학교 창업보육센터 모집 상세: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancSn=179761&schM=view - 한라대학교 입주신청서: https://www.k-startup.go.kr/afile/fileDownload/v1KQAuc6JgkL-FZ_rHhnUR25COBkT1uQ_NPGmeSCK6q1kGnw - 창업공간 플랫폼 센터 안내: https://slp.k-startup.go.kr/fsi/cnterBasinfo.do?cnterId=159"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-15T06:28:00Z",
+    "eventEndsAt": "2026-11-30T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "한라대학교 창업보육센터의 모집 공고와 신청서에서 예비창업자와 기존 기업의 등록·이전 요건을 확인했습니다.",
+    "addedValue": "업력 및 이전 조건 확인, 공간별 비용 비교, 지정 신청서 제출에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "원주 한라대가 일반보육실 4개와 1인 보육실 6석을 모집한다. 초기 창업자와 예비창업자의 입주 후 등록 요건이 다르다.",
+    "readerChecklist": [
+      "업력 및 이전 조건 확인",
+      "공간별 비용 비교",
+      "지정 신청서 제출"
+    ],
+    "imageUrl": "/stock/2026-11-15-halla-incubator-wonju-office-move.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "한라대학교",
+      "원주",
+      "창업보육센터",
+      "예비창업자",
+      "보육실",
+      "입주",
+      "사업장",
+      "창업공간"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-hanam-incubator-tium-kium-seat-terms",
+    "slug": "2026-11-15-hanam-incubator-tium-kium-seat-terms",
+    "title": "하남 창업공간 25개 자리 모집…무료 좌석과 독립실 요건 달라",
+    "summary": "경기창업혁신공간 하남의 틔움 좌석은 무료, 키움 독립실은 연간 선납 조건이다. 신청 전에 업력과 본사 이전 조건을 함께 비교해야 한다.",
+    "body": [
+      "경기창업혁신공간 하남이 개방형 좌석 21석과 독립형 공간 4실을 모집한다.",
+      "경기도경제과학진흥원은 12월 6일 오후 6시까지 이메일로 신청을 받는다. 두 공간은 주소가 같아도 업력과 비용, 입주기간이 다르다.",
+      "## 업력 1년 전후에 갈리는 기준",
+      "틔움은 예비창업자 또는 창업 1년 미만 기업 대상이다. 공간 이용료가 없고 최초 1년만 이용할 수 있다. 키움은 창업 1년 이상 3년 미만이거나, 창업 1년 미만이면서 공고가 정한 매출·투자·고용 조건 중 하나를 충족하는 기업을 받는다. 독립실은 1·2·3·6인실 각 한 곳이며 모집 상세는 비용을 인실 기준 월 1만1000원, 1년분 선납으로 안내한다. 최초 이용기간은 1년이고 연장 시 1년을 추가할 수 있다.",
+      "## 본사 등록·이전 일정까지 고려",
+      "제출 서류는 입주신청서와 사업계획서, 해당 증빙이다. 기창업자는 협약 후 3개월 이내 본사 이전이 필요한 조건을, 틔움 예비창업자는 입주 후 3개월 이내 창업 및 본사 등록 조건을 확인해야 한다. 공고는 12월 9일 서류평가, 18일 발표평가를 예정하고 있으며 운영 사정에 따라 달라질 수 있다.",
+      "## 출처 메모",
+      "- 경기도경제과학진흥원 모집 상세: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancSn=179758&schM=view - 경기도경제과학진흥원 모집 공고문: https://www.k-startup.go.kr/afile/fileDownload/v1mtuNfFGKwWqx9egFBAGjpmPQuHH1KLK2HdtQandhzl4v2Q"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-15T06:28:00Z",
+    "eventEndsAt": "2026-12-06T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "경기도경제과학진흥원의 모집 상세와 첨부 공고문에서 틔움·키움의 업력, 비용과 본사 이전 조건을 비교했습니다.",
+    "addedValue": "공간별 업력 확인, 선납·이전 가능성 검토, 신청서와 증빙 제출에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "경기창업혁신공간 하남의 틔움 좌석은 무료, 키움 독립실은 연간 선납 조건이다. 신청 전에 업력과 본사 이전 조건을 함께 비교해야 한다.",
+    "readerChecklist": [
+      "공간별 업력 확인",
+      "선납·이전 가능성 검토",
+      "신청서와 증빙 제출"
+    ],
+    "imageUrl": "/stock/2026-11-15-hanam-incubator-tium-kium-seat-terms.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "하남",
+      "경기창업혁신공간",
+      "틔움",
+      "키움",
+      "초기창업",
+      "입주",
+      "독립실",
+      "경과원"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-icheon-export-certification-completed-sixth",
+    "slug": "2026-11-15-icheon-export-certification-completed-sixth",
+    "title": "이천 해외인증 6차, 취득 끝낸 제조사에 최대 1500만원…30일 16시까지",
+    "summary": "이천 소재 제조 중소기업의 올해 인증 취득·갱신 비용이 대상이다. 시험성적서만 있는 경우는 제외되고, 인증 건수보다 기업별 금액 한도가 중요하다.",
+    "body": [
+      "이천시와 경기도경제과학진흥원이 해외규격인증 6차 지원 신청을 11월 30일 오후 4시까지 받는다. 마감까지 인증을 확보하지 못한 기업을 위한 선지원은 아니다. 올해 발행된 인증서로 신규 취득이나 갱신 완료 사실을 증명할 수 있는 제조 중소기업이 대상이다.",
+      "## 70% 계산에 넣을 비용부터 구분",
+      "지원 규모는 네 곳 안팎이다. 인증 취득·갱신 비용의 최대 70%, 기업당 최대 1500만원을 공급가액 기준으로 지원한다. 부가가치세와 송금수수료는 빠진다. 인증비·시험비·컨설팅비가 포함되지만 컨설팅비에는 총사업비의 30% 한도가 있고, 시험성적서만 제출하는 건은 인정되지 않는다. 공고는 CE·FCC 등을 포함한 639개 대상 인증 목록을 제공한다. 인증 건수 자체에는 제한이 없지만 기업별 한도는 같다.",
+      "## 본사 또는 공장과 직접 수출액 확인",
+      "사업장 요건은 이천에 본사나 공장이 있는 제조 중소기업이다. 사업자등록증명에 제조업이 명시돼야 하고, 2025년 직접 수출액은 2000만 달러 이하여야 한다. 지방세 완납 여부와 사업 종료까지 소재지 유지 조건도 확인 대상이다. 경기기업비서에서 온라인으로 접수하며, 여러 인증을 신청한다면 인증서 발행일과 증빙 비용의 대응 관계를 먼저 정리하는 편이 좋다.",
+      "## 출처 메모",
+      "- 경기도경제과학진흥원 공고·접수: https://egbiz.or.kr/sp/supportPrjDtl.do?bizCyclId=PD000000057681&listUrl=supportPrjCatList - 기업마당 공고와 첨부 원문: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127905 - 이천시 6차 공고문: https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000779762&downloadToken=eyJhbGciOiJIUzI1NiJ9.eyJwdXJwb3NlIjoiZmlsZV9kb3dubG9hZCIsImlhdCI6MTc5NDY5MDIzNSwiYXRjaEZpbGVJZCI6IkZJTEVfMDAwMDAwMDAwNzc5NzYyIiwiZmlsZVNuIjoiMSJ9.DUDplNV0_3H0Fy2mCNbwMrCexAacOuCSVwV4pf7OwaA&fileSn=1"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-15T06:27:00Z",
+    "eventEndsAt": "2026-11-30T16:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "이천시와 경기도경제과학진흥원의 6차 공고에서 제조기업 자격, 인증서 발행일 기준과 지원 한도를 확인했습니다.",
+    "addedValue": "사업장·제조업·직접 수출 기준 확인, 인증 발행일과 지원 목록 대조, 부가세를 뺀 증빙 준비에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "이천 소재 제조 중소기업의 올해 인증 취득·갱신 비용이 대상이다. 시험성적서만 있는 경우는 제외되고, 인증 건수보다 기업별 금액 한도가 중요하다.",
+    "readerChecklist": [
+      "사업장·제조업·직접 수출 기준 확인",
+      "인증 발행일과 지원 목록 대조",
+      "부가세를 뺀 증빙 준비"
+    ],
+    "imageUrl": "/stock/2026-11-15-icheon-export-certification-completed-sixth.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "이천시",
+      "해외규격인증",
+      "제조업",
+      "수출",
+      "CE",
+      "FCC",
+      "시험비",
+      "컨설팅비"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-jeonju-university-mobile-desk-bid",
+    "slug": "2026-11-15-jeonju-university-mobile-desk-bid",
+    "title": "전주대 이동형 1인 테이블 구매 입찰…26일 11시 등록, 대체 모델 사전승인",
+    "summary": "부가세 포함 2470만원 규모 총액입찰이다. 상세 일정표의 현장 등록 시각과 상단 입찰기한 표기가 달라 등록 시간을 먼저 확인해야 한다.",
+    "body": [
+      "전주대학교가 이동형 1인 테이블을 구매한다. 예산은 부가가치세 포함 2470만원, 납품기한은 계약일로부터 30일 이내다. 공고 페이지 상단에는 입찰기한이 11월 26일 14시로 표시되지만 본문 일정표는 같은 날 11시까지 입찰 등록, 등록 마감 후 30분 이내 투찰·개찰로 구분한다. 참가 업체가 상단 시각만 보고 방문하면 등록 기회를 놓칠 수 있어 제출 전 담당 창구의 최신 안내를 확인하는 것이 안전하다.",
+      "## 대체 모델은 등록 전에 부서 승인",
+      "기준 모델과 다른 물품을 제안하려는 업체는 사용 부서의 사전 승인을 받아 확인서를 등록 때 제출하는 조건이다. 별도 현장설명회 없이 규격서로 대체하는 만큼 품목과 사양을 견적 단계에서 확인하는 편이 좋다. 일반경쟁 총액입찰이며 공동수급은 불가하다.",
+      "## 현장 등록 서류와 밀봉 입찰서를 분리",
+      "등록은 본관 3층 총무지원실, 투찰은 같은 층 소회의실로 안내됐다. 등록서류에는 제품 사양서와 5% 이상 이행보증보험증권, 국세·지방세 완납증명 등이 포함된다. 당일 직찰에는 별도로 밀봉한 입찰서가 필요하다. 예정가격 이하 유효 총액 중 최저가가 기본 낙찰 기준이다.",
+      "## 출처 메모",
+      "- 전주대학교 구매 공고: https://iphak.jj.ac.kr/jj/community/notice06.do?articleNo=535514&mode=view - 전주대학교 물품규격서: https://iphak.jj.ac.kr/jj/community/notice06.do?articleNo=535514&attachNo=265499&mode=download"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-15T06:27:00Z",
+    "eventEndsAt": "2026-11-26T11:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "전주대학교 공고의 상단 입찰기한과 본문 일정표를 각각 확인하고, 규격서와 대체 모델 승인 조건을 함께 살폈습니다.",
+    "addedValue": "11시 등록과 상단 시각 차이 확인, 대체 모델 승인서 확보, 등록서류와 밀봉 입찰서 분리에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "부가세 포함 2470만원 규모 총액입찰이다. 상세 일정표의 현장 등록 시각과 상단 입찰기한 표기가 달라 등록 시간을 먼저 확인해야 한다.",
+    "readerChecklist": [
+      "11시 등록과 상단 시각 차이 확인",
+      "대체 모델 승인서 확보",
+      "등록서류와 밀봉 입찰서 분리"
+    ],
+    "imageUrl": "/stock/2026-11-15-jeonju-university-mobile-desk-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "전주대학교",
+      "테이블",
+      "이동형",
+      "물품구매",
+      "입찰",
+      "현장등록",
+      "대체모델",
+      "납품"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-jntp-physical-ai-alliance-demand-partners",
+    "slug": "2026-11-15-jntp-physical-ai-alliance-demand-partners",
+    "title": "전남테크노파크 로봇·피지컬 AI 협의체 2차 모집…도입 수요기업도 대상",
+    "summary": "로봇·AI 기술 공급업체뿐 아니라 도입을 검토하는 기업도 참여할 수 있다. 공동 실증과 연구 수요를 발굴하는 협의체로 개별 지원금 공고는 아니다.",
+    "body": [
+      "전남테크노파크가 지능형 로봇·피지컬 AI 얼라이언스의 2차 참여 의향을 11월 27일 오후 6시까지 받는다.",
+      "참여 단위는 개인이 아니라 기업·기관이다. 로봇·AI 기술이나 제품을 보유한 곳뿐 아니라 생산 현장에 이를 도입하려는 수요기업도 참여할 수 있다.",
+      "## 도입 과제와 공급 역량을 서로 연결",
+      "공고가 안내한 대상에는 소재·부품·장비, 반도체·전자·통신, 시스템통합 등 관련 산업 기업과 대학, 연구기관, 협회가 포함된다. 주요 활동은 현장 기술 수요와 애로 발굴, 실증 후보 탐색, 공동 연구개발 기획이다. 수요기업은 병목 공정과 현장 제약을, 공급기업은 적용 가능 작업과 보유 장비를 구분해 설명하면 협력 분야를 구체화하는 데 도움이 된다.",
+      "## 참여 의향 제출과 사업 선정은 별개",
+      "공고의 참여의향서 양식을 사용해 ICT로봇융합센터 안내 창구로 제출하는 방식이다. 공고 상세는 담당 이메일과 우편 주소를 함께 안내한다. 모집기간 이후에도 추가로 참여를 신청할 수 있다고 밝혔다. 다만 협의체에서 정리한 수요는 향후 사업 기획의 자료로 활용될 수 있을 뿐, 이번 참여 자체가 실증 수행이나 지원금 지급을 확정하는 것은 아니다.",
+      "## 출처 메모",
+      "- 전남테크노파크 공고 A2026-000086: https://pms.jntp.or.kr/ko/sub02/sub0202?bisProjAnnceIdx=A2026-000086&mode=view - 전남테크노파크 기관 공고: https://jntp.or.kr/base/board/read?boardManagementNo=16&boardNo=5259&menuLevel=2&menuNo=60"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-15T06:28:00Z",
+    "eventEndsAt": "2026-11-27T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "전남테크노파크의 두 모집 상세에서 협의체 참여 대상, 참여의향서 접수 일정과 협력 활동 범위를 확인했습니다.",
+    "addedValue": "기관 단위 참여 확인, 도입 또는 공급 과제 구체화, 참여의향서 제출에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "로봇·AI 기술 공급업체뿐 아니라 도입을 검토하는 기업도 참여할 수 있다. 공동 실증과 연구 수요를 발굴하는 협의체로 개별 지원금 공고는 아니다.",
+    "readerChecklist": [
+      "기관 단위 참여 확인",
+      "도입 또는 공급 과제 구체화",
+      "참여의향서 제출"
+    ],
+    "imageUrl": "/stock/2026-11-15-jntp-physical-ai-alliance-demand-partners.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "전남테크노파크",
+      "피지컬AI",
+      "로봇",
+      "제조업",
+      "실증",
+      "공급기업",
+      "수요기업",
+      "공동연구"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-khu-metaverse-studio-sensor-cms-bid",
+    "slug": "2026-11-15-khu-metaverse-studio-sensor-cms-bid",
+    "title": "경희대 메타버스 스튜디오 센서·CMS 구축, 26일 오전 나라장터 입찰",
+    "summary": "사업비는 부가세를 포함해 5500만원이다. 업종 등록과 중소기업 증빙을 갖추고 참가서류와 전자 가격입찰을 구분해야 한다.",
+    "body": [
+      "경희대학교 산학협력단이 메타버스 스튜디오에 센서와 콘텐츠 관리 시스템(CMS)을 구축할 사업자를 모집한다.",
+      "예산은 부가가치세 포함 5500만원이며 계약 이행 기간은 2027년 1월 29일까지다. 참가 신청과 투찰 마감은 11월 26일 오전 10시다.",
+      "## 중소기업 확인서와 등록 업종 함께 확인",
+      "소프트웨어 관련 등록 업종은 디지털 콘텐츠 개발 서비스 1469, 컴퓨터 관련 서비스 1468, 패키지 소프트웨어 개발·공급 1426 가운데 하나 이상이다. 중소기업 또는 소상공인 확인서 요건을 따로 충족해야 하며 공동수급과 하도급은 허용되지 않는다. 신용평가등급 확인서와 실적 증빙도 제출 목록에 있다. 실적증명서 발급이 어려운 경우 입찰공고가 안내한 계약서와 세금계산서 대체 조건을 살펴야 한다.",
+      "## 전자 가격입찰과 제안 자료는 별도",
+      "참가 등록 구비서류 중 공고가 지정한 항목은 순서대로 합친 PDF로 나라장터에 제출한다. 별도 제안서 항목과 전자 가격입찰도 빠뜨리지 않아야 한다. 보증보험증권은 입찰금액의 5% 이상이고, 업체 평가는 기술 80점과 가격 20점으로 나뉜다. 장비 납품만 가능한 업체라면 제안요청서의 센서 연동과 CMS 구현 범위를 먼저 대조해 계약기간 안에 수행 가능한지 판단할 필요가 있다.",
+      "## 출처 메모",
+      "- 경희대학교 입찰공고: https://www.khu.ac.kr/kor/user/bbs/BMSR00040/view.do?boardId=323558&menuNo=200282 - 경희대학교 입찰공고문: https://www.khu.ac.kr/kor/cmmn/file/fileDown.do?atchFileId=239beb5068c04135b67696a967d7d58f&bbsId=BMSR00040&fileSn=2&menuNo=200282 - 경희대학교 제안요청서: https://www.khu.ac.kr/kor/cmmn/file/fileDown.do?atchFileId=239beb5068c04135b67696a967d7d58f&bbsId=BMSR00040&fileSn=1&menuNo=200282"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-15T06:27:00Z",
+    "eventEndsAt": "2026-11-26T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "경희대학교 입찰 공고와 제안요청서에서 나라장터 등록 시각, 업종 코드와 기술·가격 평가 비중을 확인했습니다.",
+    "addedValue": "등록 업종과 기업 확인서 확인, 제안서와 병합 PDF 구분, 보증증권과 전자투찰 확인에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "사업비는 부가세를 포함해 5500만원이다. 업종 등록과 중소기업 증빙을 갖추고 참가서류와 전자 가격입찰을 구분해야 한다.",
+    "readerChecklist": [
+      "등록 업종과 기업 확인서 확인",
+      "제안서와 병합 PDF 구분",
+      "보증증권과 전자투찰 확인"
+    ],
+    "imageUrl": "/stock/2026-11-15-khu-metaverse-studio-sensor-cms-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "경희대학교",
+      "나라장터",
+      "메타버스",
+      "센서",
+      "CMS",
+      "소프트웨어",
+      "구축",
+      "입찰"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-nrc-used-furniture-310-onbid-inspection",
+    "slug": "2026-11-15-nrc-used-furniture-310-onbid-inspection",
+    "title": "국립재활원 불용품 310점 매각…16일 현장 확인, 온비드는 17일부터",
+    "summary": "국립재활원이 스툴의자 등 불용품 310점을 매각한다. 작동 상태가 보장되지 않으며 인수·운반과 시설 보양 비용을 응찰가에 반영할 필요가 있다.",
+    "body": [
+      "국립재활원이 서울 강북구에 보관 중인 스툴의자 등 불용품 310점을 예정가격 575만4000원에 매각 공고했다. 기관의 11월 11일 공고 기준 현장 확인 가능일 중 남은 날은 16일이다. 방문 전 일반 물품과 전산 물품의 담당자에게 각각 전화하는 절차를 안내한다.",
+      "## 온비드 접수와 보증금 마감",
+      "전자입찰은 11월 17일 오전 9시부터 19일 오후 6시까지 온비드에서만 진행하며, 20일 오전 10시에 개찰한다. 예정가격 이상에서 최고가를 낸 유효 응찰자가 낙찰 대상이다. 입찰보증금은 응찰가의 5% 이상으로, 마감 전 지정 계좌 납부 또는 공고가 안내한 전자보증서 방식이 가능하다. 입찰서 송신과 보증 처리가 모두 마감 전 끝났는지 확인할 필요가 있다.",
+      "## 반출과 상태 위험은 매수인 부담",
+      "물품은 현 상태로 넘긴다. 공고는 컴퓨터 일부에 부품이 없거나 정상 작동하지 않을 수 있다고 알렸다. 낙찰자는 원칙적으로 낙찰일로부터 10일 안에 계약하고 계약과 동시에 대금을 전액 납부하며 계약일 후 30일 안에 반출한다. 인수와 운반 비용, 엘리베이터와 바닥 보호 작업도 고려해야 한다.",
+      "## 출처 메모",
+      "- 국립재활원 11월 11일 공고 2026-144호: https://www.nrc.go.kr/nrc/board/boardView.do?bn=newsView&board_id=NRC_NOTICE_BOARD&fno=1&menu_cd=01_01&no=24208&pageIndex=1 - 한국자산관리공사 전자자산처분시스템: https://www.onbid.co.kr/"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-15T06:29:00Z",
+    "eventEndsAt": "2026-11-19T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "국립재활원의 11월 11일 매각 공고에서 현장 확인일과 온비드 마감, 보증금 및 물품 반출 조건을 확인했습니다.",
+    "addedValue": "공고번호와 목록 확인, 상태·운반 비용 점검, 온비드 입찰·보증 완료 확인에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "국립재활원이 스툴의자 등 불용품 310점을 매각한다. 작동 상태가 보장되지 않으며 인수·운반과 시설 보양 비용을 응찰가에 반영할 필요가 있다.",
+    "readerChecklist": [
+      "공고번호와 목록 확인",
+      "상태·운반 비용 점검",
+      "온비드 입찰·보증 완료 확인"
+    ],
+    "imageUrl": "/stock/2026-11-15-nrc-used-furniture-310-onbid-inspection.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "국립재활원",
+      "불용품",
+      "온비드",
+      "스툴의자",
+      "현장확인",
+      "매각",
+      "반출",
+      "입찰보증"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-seodaejeon-post-office-sorting-fixed-term",
+    "slug": "2026-11-15-seodaejeon-post-office-sorting-fixed-term",
+    "title": "서대전우체국 우편물 분류 인력 1명…20일 18시 도착분까지",
+    "summary": "서대전우체국이 우편물 구분과 교부를 보조할 전일제 기간제 근로자를 채용한다. 이메일·우편 모두 도착 시각이 기준이다.",
+    "body": [
+      "서대전우체국이 대전 중구에서 우편물을 분류하고 교부 등을 보조하는 기간제 우정실무원 한 명을 뽑는다.",
+      "공무원 채용이 아니다. 계약기간은 12월 1일부터 2027년 5월 31일까지이고, 공고상 주 5일 하루 8시간 근무다. 기본급은 하루 8만2560원이며 수당은 공고 기준에 따라 별도 적용된다.",
+      "## 우편도 접수 마감에 도착해야",
+      "원서 접수는 11월 18일부터 20일까지 매일 09시부터 18시까지다. 방문·등기우편·이메일을 받되 등기와 이메일 모두 20일 오후 6시까지 도착한 원서가 유효하다. 우편 발송일을 기준으로 하지 않는다. 이메일로 보내는 경우 공고가 지정한 이름으로 PDF 또는 JPG 파일을 첨부한다. 접수 후 응시번호는 응시원서에 적은 휴대전화로 안내한다.",
+      "## 연령 기준과 면접 일정을 따로 확인",
+      "원서 마감일 기준 만 18세 이상 만 60세 미만이 연령 요건이다. 응시자는 공고의 공통자격과 우대조건 적용 기준을 구분해야 한다. 서류전형 합격자 발표는 11월 24일, 면접은 25일 예정이다. 면접 장소와 시간은 서류전형 결과 공고에서 안내하며, 면접 대상자는 지정 신분증을 준비해야 한다.",
+      "## 출처 메모",
+      "- 우정사업본부 채용 상세: https://koreapost.go.kr/user/extra/kpost/95/294/bbs/recnotice/recNoticeView/jsp/ExtraUser.do?bbsDataIdx=100102471 - 서대전우체국 공고 PDF: https://koreapost.go.kr/common/proc/kpost/bbs/95/fileDownLoad/100115539.do"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-15T06:29:00Z",
+    "eventEndsAt": "2026-11-20T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "서대전우체국의 채용 상세와 공고 PDF에서 계약기간, 경로별 접수 방법과 최종 도착 시각을 확인했습니다.",
+    "addedValue": "마감일 기준 연령 확인, 지정 양식과 첨부 형식 점검, 도착 시각과 응시번호 확인에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "서대전우체국이 우편물 구분과 교부를 보조할 전일제 기간제 근로자를 채용한다. 이메일·우편 모두 도착 시각이 기준이다.",
+    "readerChecklist": [
+      "마감일 기준 연령 확인",
+      "지정 양식과 첨부 형식 점검",
+      "도착 시각과 응시번호 확인"
+    ],
+    "imageUrl": "/stock/2026-11-15-seodaejeon-post-office-sorting-fixed-term.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "서대전우체국",
+      "대전중구",
+      "우정실무원",
+      "기간제",
+      "채용",
+      "우편물",
+      "이메일접수",
+      "근로계약"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-15-syu-nowon-fuel-site-lease-sealed-bid",
+    "slug": "2026-11-15-syu-nowon-fuel-site-lease-sealed-bid",
+    "title": "삼육학원 노원 주유소 부동산 임대, 20일 정오 도착…보증금 1억5000만원",
+    "summary": "서울 노원구 임대 대상의 최저가격은 연 1억3200만원이다. 입찰 보증과 고정 임대보증금을 구분하고 희망 업종의 인허가를 먼저 확인해야 한다.",
+    "body": [
+      "학교법인 삼육학원이 서울 노원구 화랑로의 주유소 부동산 임차인을 일반경쟁입찰로 선정한다.",
+      "임대기간은 2027년 1월부터 2028년 12월까지 24개월이다. 고정 임대보증금은 1억5000만원이고 연간 임대료 최저입찰가격은 부가가치세를 포함해 1억3200만원이다.",
+      "## 20일 발송이 아니라 정오까지 도착",
+      "11월 16일부터 20일 정오까지 법인 사무실에서 방문 또는 등기우편으로 접수한다. 이메일·팩스는 받지 않고, 가격입찰서는 다른 서류와 구분해 밀봉·날인한다. 입찰보증은 임대료 총액의 5% 이상을 증권으로 내는 조건이며 계약 때 낼 고정 임대보증금과 다르다. 개찰은 12월 1일 오전 11시다. 유효 입찰이 두 건 이상이면 최저가격 이상에서 연 임대료 최고가를 제시한 참가자를 낙찰자로 선정한다.",
+      "## 낙찰이 영업 허가를 보장하지 않는다",
+      "별도 현장설명회는 없다. 현장 출입은 담당자와 사전에 협의하고 임대 범위, 토지이용계획과 희망 업종의 인허가 가능성은 계약 전 확인할 필요가 있다. 용도·시설 변경에는 법인의 서면동의가 필요할 수 있으며 허가·신고 비용은 임차인이 부담하는 조건이다. 낙찰자는 통보일부터 7일 안에 방문 계약하고 고정 임대보증금을 납부한다.",
+      "## 출처 메모",
+      "- 학교법인 삼육학원 임차인 선정 원공고: https://www.syu.ac.kr/blog/%ED%95%99%EA%B5%90%EB%B2%95%EC%9D%B8-%EC%82%BC%EC%9C%A1%ED%95%99%EC%9B%90-%EC%9E%84%EB%8C%80%EC%82%AC%EC%97%85%EB%B6%80-%EB%B6%80%EB%8F%99%EC%82%B0%EB%85%B8%EC%9B%90%EA%B5%AC-%ED%99%94%EB%9E%91/ - 국토교통부 토지이음: https://www.eum.go.kr/"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-15T06:29:00Z",
+    "eventEndsAt": "2026-11-20T12:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "삼육학원 임대 공고에서 연간 최저 임대료, 입찰보증과 고정 임대보증금의 차이 및 정오 도착 기준을 확인했습니다.",
+    "addedValue": "현장 및 인허가 확인, 보증증권·입찰서 밀봉, 정오 전 도착 확인에 필요한 조건을 나누어 비교했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-15T06:16:00Z",
+    "reporterInsight": "서울 노원구 임대 대상의 최저가격은 연 1억3200만원이다. 입찰 보증과 고정 임대보증금을 구분하고 희망 업종의 인허가를 먼저 확인해야 한다.",
+    "readerChecklist": [
+      "현장 및 인허가 확인",
+      "보증증권·입찰서 밀봉",
+      "정오 전 도착 확인"
+    ],
+    "imageUrl": "/stock/2026-11-15-syu-nowon-fuel-site-lease-sealed-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "삼육학원",
+      "노원구",
+      "주유소",
+      "부동산",
+      "임대",
+      "보증금",
+      "입찰",
+      "인허가"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "keco-small-business-esg-support-2026",
     "slug": "keco-small-business-esg-support-2026",
     "title": "한국환경공단 ESG 지원 5개사 내외…400만원 이내 컨설팅·평가, 물기업 가점",
