@@ -137599,6 +137599,671 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-16-anyang-postal-sorting-three-shifts",
+    "slug": "2026-11-16-anyang-postal-sorting-three-shifts",
+    "title": "안양우편집중국 기간제 8명 모집…석근·야근 중복 지원 불가",
+    "summary": "안양우편집중국이 발착석근 2명, 통상야근 1명, 특수석근 5명을 모집한다. 세 형태는 근무시간과 계약기간이 다르다.",
+    "body": [
+      "안양우편집중국이 기간제 우정실무원 8명을 모집한다.",
+      "발착석근 2명과 특수석근 5명은 오후 6시부터 10시까지 근무한다. 통상야근 1명은 오후 10시부터 다음 날 오전 7시까지 근무하는 형태다.",
+      "## 같은 석근이어도 업무와 계약기간이 다르다",
+      "발착석근은 상하차, 우편물 분류와 운반 보조 업무가 포함된다. 통상야근과 특수석근은 분류·부대업무를 맡는다. 시작 예정일은 12월 1일이고, 발착석근과 통상야근은 2027년 5월 31일까지, 특수석근은 같은 해 2월 28일까지다. 근무형태 간 중복 지원은 불가하며 공고가 정한 야간근로자의 특수건강진단 조건도 확인할 필요가 있다.",
+      "## 모든 접수 방식에 같은 도착 기준",
+      "원서는 11월 18일부터 20일 오후 5시까지 도착해야 한다. 방문 접수는 오전 9시부터 오후 5시 사이이며 오전 11시 30분부터 오후 1시까지는 받지 않는다. 이메일로 보낼 때에는 서명한 서류를 스캔해 첨부한다. 등기우편도 발송 시점이 아니라 도착이 기준이므로 제출 방식과 시간을 함께 정해야 한다.",
+      "## 출처 메모",
+      "- 우정사업본부 채용 상세: https://jodal.koreapost.go.kr/user/extra/kpost/95/294/bbs/recnotice/recNoticeView/jsp/ExtraUser.do?bbsDataIdx=100102489 - 안양우편집중국 공고 PDF: https://jodal.koreapost.go.kr/common/proc/kpost/bbs/95/fileDownLoad/100115581.do"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-16T06:32:00Z",
+    "eventEndsAt": "2026-11-20T17:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "안양우편집중국 공고 PDF에서 세 근무형태별 인원과 기간, 방문·우편·이메일 도착 기준을 확인했습니다.",
+    "addedValue": "근무 유형 하나 선택, 계약기간과 건강진단 확인, 20일 17시 전 도착 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "안양우편집중국이 발착석근 2명, 통상야근 1명, 특수석근 5명을 모집한다. 세 형태는 근무시간과 계약기간이 다르다.",
+    "readerChecklist": [
+      "근무 유형 하나 선택",
+      "계약기간과 건강진단 확인",
+      "20일 17시 전 도착 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-anyang-postal-sorting-three-shifts.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "안양우편집중국",
+      "우정실무원",
+      "기간제",
+      "우편물",
+      "야간근로",
+      "채용",
+      "안양",
+      "우편집중국"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-busan-kimes-joint-booth-cost-share",
+    "slug": "2026-11-16-busan-kimes-joint-booth-cost-share",
+    "title": "부산 의료·고령친화 기업 KIMES 공동관 모집…27일 18시 마감",
+    "summary": "부산테크노파크가 KIMES 2027 부산공동관에 참여할 기업을 모집한다. 부스 임차·장치 지원과 기업 부담 항목이 나뉜다.",
+    "body": [
+      "부산테크노파크가 2027년 국제의료기기·병원설비전시회(KIMES) 부산공동관에 들어갈 기업을 12곳 안팎 모집한다.",
+      "접수는 11월 27일 오후 6시까지 도착한 이메일을 받는다.",
+      "## 본사만 아니라 부산 내 공장·연구소·지사도 대상",
+      "부산에 본사, 공장, 연구소 또는 지사가 있고 공고일에 영업 중인 법인 또는 개인사업자가 대상이다. 고령친화산업 또는 연관 분야의 제품을 개발·생산하는 기업이어야 한다. 전시회는 2027년 3월 18일부터 21일까지 서울 코엑스에서 열린다. 신청 사업장의 주소와 실제 출시하거나 시연할 제품을 함께 확인해야 참가 목적을 명확히 제시할 수 있다.",
+      "## 공동관 지원에 자부담이 없는 것은 아니다",
+      "진흥기관은 부산공동관의 임차·장치, 비품 등을 지원한다. 공고에 적힌 기업 부담은 임차료와 장치비의 10% 이상이며 부가가치세는 별도다. 신청 단계에서는 지원 항목과 자체 준비 비용을 구분해 두는 편이 낫다. 지정 신청서에 서명·날인한 뒤 스캔해 부산테크노파크 담당 이메일로 제출한다. 이메일 발송 기록과 실제 도착 여부는 구분해 확인할 필요가 있다.",
+      "## 출처 메모",
+      "- 부산테크노파크 모집 안내: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127874 - 부산테크노파크 공동관 공고 원문: https://bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000779635&downloadToken=eyJhbGciOiJIUzI1NiJ9.eyJwdXJwb3NlIjoiZmlsZV9kb3dubG9hZCIsImlhdCI6MTc5NDc3Mjc5MiwiYXRjaEZpbGVJZCI6IkZJTEVfMDAwMDAwMDAwNzc5NjM1IiwiZmlsZVNuIjoiMSJ9.EQb5UjyqLmliLcwh1galRKlaqEK7Kk4OzqlHzpVemNY&fileSn=1"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-16T06:31:00Z",
+    "eventEndsAt": "2026-11-27T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "부산테크노파크 공동관 공고에서 참여 기업의 소재 기준과 모집 규모, 기업 부담 및 이메일 마감 조건을 확인했습니다.",
+    "addedValue": "부산 사업장과 제품 분야 확인, 부스 자부담과 부가세 구분, 신청 서류 도착 여부 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "부산테크노파크가 KIMES 2027 부산공동관에 참여할 기업을 모집한다. 부스 임차·장치 지원과 기업 부담 항목이 나뉜다.",
+    "readerChecklist": [
+      "부산 사업장과 제품 분야 확인",
+      "부스 자부담과 부가세 구분",
+      "신청 서류 도착 여부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-busan-kimes-joint-booth-cost-share.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "부산",
+      "KIMES",
+      "의료기기",
+      "고령친화",
+      "공동관",
+      "코엑스",
+      "전시회",
+      "부산테크노파크"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-cbnu-postbi-office-interview-application",
+    "slug": "2026-11-16-cbnu-postbi-office-interview-application",
+    "title": "충북대 G테크벤처센터 입주 모집…서류 제출 뒤 팀장 면담까지",
+    "summary": "충북대 창업보육공간의 신청 화면은 30일 18시까지로 안내한다. 서류 업로드만으로는 접수가 끝나지 않고 면담도 필요하다.",
+    "body": [
+      "충북대학교 글로벌테크벤처센터가 청주 창업보육공간에 입주할 기업을 모집한다. K-Startup의 이번 공고가 표시한 접수 마감은 11월 30일 오후 6시다. 같은 공고의 절차 설명에 기업 충원 시까지라는 문구도 있어, 향후 빈 공간 모집 여부와 이번 온라인 마감을 구분해야 한다.",
+      "## 업로드와 면담 모두 필요",
+      "공고는 창업 후 7년이 지나지 않은 기업을 신청 대상으로 안내하며 본사, 연구소, 지점 사업자와 창업보육센터 졸업기업의 입주 가능성을 제시했다. 지정 한글 신청서, 엑셀 요약서와 관련 증빙을 함께 압축해 올리는 절차다. 서류를 보낸 뒤 센터와 팀장 면담을 협의해야 접수가 완료된다.",
+      "## 공간별 보육료와 선납 조건 비교",
+      "공고는 독립형 공간별 월 보육료를 부가가치세 별도로 표시하고 여러 호실의 선납보증금을 월 보육료 6개월분으로 안내했다. 별도 공간은 보증금과 관리비가 다르다. 예산을 짤 때에는 면적과 월 보육료뿐 아니라 선납 금액·입주 예정 시점도 같이 비교해야 한다. 일반 보육 공간은 매년 평가를 거쳐 최장 5년까지 입주할 수 있다.",
+      "## 출처 메모",
+      "- 충북대학교 입주기업 모집 상세: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancSn=179786&schM=view - 충북대학교 입주 양식: https://www.k-startup.go.kr/afile/fileDownload/v1emWNfANHI2lZ9eJDfCuLhJkirV9RpW_SC6ZAQ3lnr2vDtQ - 충북대학교 글로벌테크벤처센터: https://cb-postbi.cbnu.ac.kr"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-16T06:32:00Z",
+    "eventEndsAt": "2026-11-30T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "충북대학교 모집 상세와 입주 양식에서 접수 시각, 면담 요건과 보육료·보증금 안내를 확인했습니다.",
+    "addedValue": "업력·입주 형태 대조, 신청서·요약서 압축 제출, 팀장 면담 일정 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "충북대 창업보육공간의 신청 화면은 30일 18시까지로 안내한다. 서류 업로드만으로는 접수가 끝나지 않고 면담도 필요하다.",
+    "readerChecklist": [
+      "업력·입주 형태 대조",
+      "신청서·요약서 압축 제출",
+      "팀장 면담 일정 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-cbnu-postbi-office-interview-application.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "충북대학교",
+      "청주",
+      "G테크벤처센터",
+      "입주기업",
+      "창업보육",
+      "면담",
+      "사업장",
+      "보육료"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-dpi-research-administration-first-application",
+    "slug": "2026-11-16-dpi-research-administration-first-application",
+    "title": "대구정책연구원 정규직 접수 오늘 시작…20일 17시 이메일 마감",
+    "summary": "정책 연구와 기획·행정 직군을 모집한다. 첫 원서와 서류 합격 뒤 증빙 제출 기한은 나뉘며 직종·분야 중복 지원은 안 된다.",
+    "body": [
+      "대구정책연구원이 제1차 정규직원 공개채용 원서를 11월 16일부터 접수한다. 마감은 20일 오후 5시다. 연구직과 기획·행정 관리직이 포함되며 직종 또는 분야를 넘겨 중복 지원할 수 없다. 정규직 채용이지만 1년 이내의 수습기간을 두고 평가 결과에 따라 임용할 수 있다.",
+      "## 첫 제출은 서명된 단일 파일",
+      "기관은 이메일로 원서를 받으며, 서류에 서명한 뒤 스캔한 하나의 파일을 보내도록 안내했다. 지원자 이름과 직종·분야를 표기하는 파일명 규칙도 별도로 있다. 출신학교 표기는 직군에 따라 다르다. 연구직은 출신학교 표기가 필수이고, 관리직은 출신학교명을 적지 않는다. 지원자가 가진 경력과 자격은 증빙 가능 여부를 기준으로 작성할 필요가 있다.",
+      "## 면접 대상자의 증빙 마감은 별도",
+      "서류심사 합격자에 한해 12월 4일 오후 5시까지 해당하는 학위·경력·자격 증빙 등을 추가 제출한다. 공고는 관리직 서류 합격자를 대상으로 인적성검사를 안내했다. 연구직과 관리직의 평가 방식이 같지 않으므로 지원 분야에 해당하는 항목과 일정을 공고 PDF에서 별도로 확인하는 편이 안전하다.",
+      "## 출처 메모",
+      "- 대구정책연구원 정규직 채용 상세: https://dpi.re.kr/board/view?boardId=BOARD00020&menuId=MENU002050200000000&titleId=1ls885U6EM - 대구정책연구원 공개채용 공고 PDF: https://www.dpi.re.kr/fileDownload?fileDownType=C&fileId=1&fileKey=1ls885U6EM&paramMenuId=MENU002050200000000"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-16T06:32:00Z",
+    "eventEndsAt": "2026-11-20T17:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "대구정책연구원 채용 공고 PDF에서 지원 분야, 이메일 도착 기한과 서류 합격자 증빙 절차를 확인했습니다.",
+    "addedValue": "직종·분야 하나 선택, 서명 후 한 파일로 제출, 합격 후 증빙 일정 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "정책 연구와 기획·행정 직군을 모집한다. 첫 원서와 서류 합격 뒤 증빙 제출 기한은 나뉘며 직종·분야 중복 지원은 안 된다.",
+    "readerChecklist": [
+      "직종·분야 하나 선택",
+      "서명 후 한 파일로 제출",
+      "합격 후 증빙 일정 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-dpi-research-administration-first-application.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "대구정책연구원",
+      "정규직",
+      "연구직",
+      "관리직",
+      "대구",
+      "채용",
+      "이메일",
+      "서류심사"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-gwtp-ai-adoption-basic-cost-consortium",
+    "slug": "2026-11-16-gwtp-ai-adoption-basic-cost-consortium",
+    "title": "강원 AI 솔루션 도입 4차…기업 부담 300만원 중 현금은 90만원",
+    "summary": "강원 소재 중소기업의 AI 솔루션 도입을 지원한다. 공급기업 연결 방식과 자체 컨소시엄 방식이 있고, 20일 오후 2시까지 접수한다.",
+    "body": [
+      "강원테크노파크가 AI 솔루션 도입을 희망하는 강원 중소기업을 11월 20일 오후 2시까지 모집한다.",
+      "기초형은 4개사, 기업당 지원금 1000만원 기준이다. 민간 부담 300만원은 현금 90만원과 현물 210만원으로 구분된다.",
+      "## 개선할 업무를 가진 강원 중소기업 대상",
+      "강원에 본사·사업장·연구소 가운데 하나 이상이 있어야 하고, 공정·업무·연구·경영에서 AI로 풀려는 애로가 있어야 한다. 강원창조경제혁신센터의 대전환 교육 사업에 참여하는 기업은 모집 대상에서 제외된다. 장비나 솔루션 이름보다 현재 작업에서 겪는 문제와 적용 후 확인할 지표를 먼저 정리하면 제안 범위를 명확히 할 수 있다.",
+      "## 선정 뒤 매칭과 자체 컨소시엄은 다르다",
+      "강원테크노파크는 공급기업 목록을 활용하는 방식과 희망 공급기업을 정해 자체 컨소시엄을 꾸리는 방식을 구분했다. 자체 구성에는 희망 공급기업 목록과 공고에 명시된 자가진단이 필요하다. 지원기간은 솔루션 공급기간에 따라 기업별로 달라진다. 기업은 공급자의 역할과 현물 부담 인정 조건을 신청 전에 공고와 대조할 필요가 있다.",
+      "## 출처 메모",
+      "- 강원테크노파크 4차 모집 안내: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127876 - 강원테크노파크 수요기업 모집 공고 PDF: https://bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000779649&downloadToken=eyJhbGciOiJIUzI1NiJ9.eyJwdXJwb3NlIjoiZmlsZV9kb3dubG9hZCIsImlhdCI6MTc5NDc1NTg2MCwiYXRjaEZpbGVJZCI6IkZJTEVfMDAwMDAwMDAwNzc5NjQ5IiwiZmlsZVNuIjoiMSJ9.0jDKU2nojh-eYEiFJSWWBA-BnQn7E_vvrBH3NoVj7Wo&fileSn=1"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-16T06:31:00Z",
+    "eventEndsAt": "2026-11-20T14:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "강원테크노파크 4차 공고 PDF에서 대상 기업과 기초형 지원표, 두 가지 공급기업 연결 방식 및 마감을 확인했습니다.",
+    "addedValue": "강원 소재와 업무 애로 정리, 현금과 현물 부담 분리, 공급기업 방식별 첨부 준비에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "강원 소재 중소기업의 AI 솔루션 도입을 지원한다. 공급기업 연결 방식과 자체 컨소시엄 방식이 있고, 20일 오후 2시까지 접수한다.",
+    "readerChecklist": [
+      "강원 소재와 업무 애로 정리",
+      "현금과 현물 부담 분리",
+      "공급기업 방식별 첨부 준비"
+    ],
+    "imageUrl": "/stock/2026-11-16-gwtp-ai-adoption-basic-cost-consortium.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "강원테크노파크",
+      "AI",
+      "제조혁신",
+      "중소기업",
+      "자부담",
+      "컨소시엄",
+      "솔루션",
+      "디지털전환"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-hoseo-seoul-incubator-deposit-move",
+    "slug": "2026-11-16-hoseo-seoul-incubator-deposit-move",
+    "title": "호서대 서울 창업보육실 1곳 모집…20일 18시까지",
+    "summary": "호서대 서울창업보육센터 공고는 54㎡ 보육실 1개를 안내했다. 보증금 납부와 보증보험증권 조건을 구분해야 한다.",
+    "body": [
+      "호서대학교 서울창업보육센터가 서초구 소재 54㎡ 보육실 한 곳의 입주 신청을 11월 20일 오후 6시까지 받는다.",
+      "예비기술창업자 또는 신청일 기준 창업 5년 미만 기업이 대상이다. 예비창업자는 3개월 안에 창업할 수 있어야 한다.",
+      "## 본사 이전과 연구조직 입주 구분",
+      "입주 후 주사업장을 센터로 옮기는 것이 기본 조건이다. 기업부설연구소나 연구개발전담부서의 단독 입주도 공고에 명시됐다. 기업은 신청하려는 주체와 입주 후 옮길 조직을 처음부터 구분해 적을 필요가 있다. 서류 접수 이후 발표 평가가 예정돼 있으며 12월 입주는 기관 사정에 따라 변동될 수 있다.",
+      "## 보증금은 현금과 증권으로 나뉜다",
+      "보증금은 ㎡당 20만원으로, 절반은 계좌 납부하고 절반은 이행보증보험증권을 내는 구조다. 일반관리비와 시설관리비 등은 별도로 안내됐다. 서류는 서울 서초구 센터 경영지원실에 방문해 내거나 우편으로 보내거나, 기관 이메일로 접수할 수 있다. 11월 20일 오후 6시까지 서류가 도착해야 한다. 제출할 호실과 초기 부담금을 신청 전에 공고와 대조할 필요가 있다.",
+      "## 출처 메모",
+      "- 호서대학교 서울창업보육센터 모집 상세: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancSn=179776&schM=view - 호서대학교 입주 모집 공고 PDF: https://www.k-startup.go.kr/afile/fileDownload/v1iRA1Eb8RAYDS6O7kZF0rOfKdS_T4bPchqaYaBJIH5fs65A"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-16T06:32:00Z",
+    "eventEndsAt": "2026-11-20T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "호서대학교 서울창업보육센터 모집 상세와 공고 PDF에서 입주 자격과 호실 규모, 보증금 및 제출 시간을 확인했습니다.",
+    "addedValue": "업력과 이전 예외 확인, 보증금 구성 점검, 방문 또는 이메일 접수에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "호서대 서울창업보육센터 공고는 54㎡ 보육실 1개를 안내했다. 보증금 납부와 보증보험증권 조건을 구분해야 한다.",
+    "readerChecklist": [
+      "업력과 이전 예외 확인",
+      "보증금 구성 점검",
+      "방문·우편·이메일의 마감 전 도착 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-hoseo-seoul-incubator-deposit-move.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "호서대학교",
+      "서울",
+      "서초구",
+      "창업보육",
+      "예비창업",
+      "보증금",
+      "창업공간",
+      "이전"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-keri-changwon-cleanroom-user-responsibility",
+    "slug": "2026-11-16-keri-changwon-cleanroom-user-responsibility",
+    "title": "창원 의료·바이오 청정실 이용기업 모집…제품 책임은 이용 기업에",
+    "summary": "의료·바이오 제조기업이 청정실을 이용하는 모집이다. 시설을 이용한다고 기업의 품목허가나 독립 GMP 인정이 자동으로 부여되지는 않는다.",
+    "body": [
+      "한국전기연구원이 창원지능형의료기기지원센터의 청정실을 이용할 제조기업을 11월 18일까지 이메일로 모집한다. 현장 확인은 11월 16일부터 18일까지 신청하는 일정이다. 기관이 제조 환경을 제공하는 사업이며 원고에서 확인한 공고의 일정표에는 접수 종료 시각이 별도로 적혀 있지 않다.",
+      "## 제조업 허가를 준비 중인 기업도 범위에",
+      "의료기기 제조업체와 제조업 허가를 준비 중인 기업 등이 대상이다. 센터가 인정할 수 있는 품질시스템에 따라 제조·검증·품목허가를 진행할 수 있어야 한다. 청정실은 시제품 제조, 생산, 검사와 보관 등에 이용할 수 있다. 이용료는 면적과 시간 단위로 협의한다.",
+      "## 시설 사용은 기업 자체 GMP 인정이나 품목허가와 별개",
+      "한국전기연구원은 청정실과 기본 비품, 환경 관리와 GMP 인정을 위한 기술 지원을 제공한다. 실제 제조 공정과 제품 품질, 품목허가 책임은 이용기업에 남는다. 센터 이용을 기업 독자 제조시설로 간주하지 않는다고 공고는 명시했다. 이용신청서와 사업자·세금·재무 증빙 등을 제출하고 선정 후 별도 이용 협의와 계약이 이뤄진다.",
+      "## 출처 메모",
+      "- 한국전기연구원 청정실 모집 안내: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127886 - 한국전기연구원 청정실 이용기업 공고 원문: https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000779667&downloadToken=eyJhbGciOiJIUzI1NiJ9.eyJwdXJwb3NlIjoiZmlsZV9kb3dubG9hZCIsImlhdCI6MTc5NDcwMjAxNywiYXRjaEZpbGVJZCI6IkZJTEVfMDAwMDAwMDAwNzc5NjY3IiwiZmlsZVNuIjoiMCJ9.IfJ0e2ommm7Sb1BI1QAEgjGtB2e1F7PlkZ49RLLfKe4&fileSn=0"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-16T06:31:00Z",
+    "reporting": "desk",
+    "verificationNote": "한국전기연구원 공고에서 이메일 접수일과 현장 확인 일정, 사용료 협의와 이용기업 책임 범위를 확인했습니다.",
+    "addedValue": "제조·품질시스템 자격 확인, 면적과 이용 시간 정리, 현장 확인과 서류 접수 구분에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "의료·바이오 제조기업이 청정실을 이용하는 모집이다. 시설을 이용한다고 기업의 품목허가나 독립 GMP 인정이 자동으로 부여되지는 않는다.",
+    "readerChecklist": [
+      "제조·품질시스템 자격 확인",
+      "면적과 이용 시간 정리",
+      "현장 확인과 서류 접수 구분"
+    ],
+    "imageUrl": "/stock/2026-11-16-keri-changwon-cleanroom-user-responsibility.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "한국전기연구원",
+      "창원",
+      "청정실",
+      "의료기기",
+      "바이오",
+      "제조",
+      "GMP",
+      "품질시스템"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-khu-server-gpu-compatibility-approval",
+    "slug": "2026-11-16-khu-server-gpu-compatibility-approval",
+    "title": "경희대 서버 GPU 구매 입찰, 20일 11시 등록…사용 부서 확인 필요",
+    "summary": "경희대 서울캠퍼스의 서버용 그래픽카드 구매는 참가 승인 뒤 같은 날 13~14시에 전자투찰한다. 사양과 용도 적합 확인을 미리 준비해야 한다.",
+    "body": [
+      "경희대학교 서울캠퍼스가 의학계열 AI컴퓨팅센터에 납품할 서버용 그래픽카드를 구매한다. 업체 등록은 11월 20일 오전 11시에 마감한다. 참가 등록을 승인받은 업체만 같은 날 오후 1시부터 2시까지 이비즈포유로 가격을 낼 수 있다.",
+      "## 스펙이 맞아도 사용자 확인이 필요",
+      "대학이 제시한 규격과 동등하거나 그 이상인 사양으로 사용 부서의 용도적합 확인을 받아야 한다. 확인서에는 사용 부서의 날인이 필요하고, 제품별 규격서와 카탈로그도 함께 준비하는 구조다. 제조사의 제품공급 확약과 기술지원 확약은 서로 다른 문서이며, 공동수급과 하도급은 허용되지 않는다.",
+      "## 총액 기준과 납기 확인",
+      "이 입찰은 부가세를 포함한 예정가격 이내 총액 최저가 방식이다. 등록서류는 PDF 합본으로 첨부하며 승인 후 가격산출내역서를 제출한다. 5% 이상 입찰보증과 유효한 납세 증빙이 필요하다. 납기는 계약 체결일부터 50주 이내이고, 납품 장소는 서울캠퍼스 제1의학관이다. 참가 등록 마감 후 누락 서류를 채우기 어려우므로 등록과 가격 제출을 각각 확인해야 한다.",
+      "## 출처 메모",
+      "- 경희대학교 총무팀 원공고: https://www.khu.ac.kr/kor/user/bbs/BMSR00040/view.do?boardId=323560&menuNo=200282 - 경희대학교 공고 제2026-45호 규격 묶음: https://www.khu.ac.kr/kor/cmmn/file/fileDown.do?menuNo=200282&atchFileId=57ade32e19484bb4a4747e58b2eaa67b&fileSn=1&bbsId=BMSR00040"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-16T06:30:00Z",
+    "eventEndsAt": "2026-11-20T11:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "경희대학교 구매 공고에서 등록·투찰 시간과 사용자 적합 확인서, 납기와 기술지원 증빙을 확인했습니다.",
+    "addedValue": "용도적합확인서 준비, 오전 11시까지 등록, 승인 후 가격내역과 전자투찰 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "경희대 서울캠퍼스의 서버용 그래픽카드 구매는 참가 승인 뒤 같은 날 13~14시에 전자투찰한다. 사양과 용도 적합 확인을 미리 준비해야 한다.",
+    "readerChecklist": [
+      "용도적합확인서 준비",
+      "오전 11시까지 등록",
+      "승인 후 가격내역과 전자투찰 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-khu-server-gpu-compatibility-approval.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "경희대학교",
+      "서버",
+      "GPU",
+      "그래픽카드",
+      "입찰",
+      "전자조달",
+      "용도확인",
+      "납품"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-koipa-kconsumer-ip-preemption-response",
+    "slug": "2026-11-16-koipa-kconsumer-ip-preemption-response",
+    "title": "K소비재 한류편승 대응 27일 마감…해외 선점 초기대응은 국내 권리도 증빙",
+    "summary": "해외 지식재산 침해에 대응하는 국내 소비재 수출기업은 품목별 관할 센터에 상담해야 한다. 무단선점 초기대응에는 권리 증빙 예외가 있다.",
+    "body": [
+      "한국지식재산보호원이 국내 소비재 중소·중견기업의 해외 한류편승행위 대응을 지원한다. 신청 관련 전화나 이메일 상담이 11월 27일 오후 6시까지 품목별 관할 센터에 확인된 경우가 마감 범위에 들어간다. 상담은 기업과 사안의 적격 심사 또는 선정과 다르다.",
+      "## 국내 권리만으로 가능한 예외는 초기대응에 한정",
+      "기본 요건은 대응하려는 국가에서 유효한 상표권이나 디자인권을 보유한 국내 사업자다. 다만 해외 무단선점 초기대응이라면 국내에서 유효한 상표·디자인 보유 증빙으로 대신할 수 있다. 이 예외를 다른 침해조치에까지 적용하는 것은 아니다. 실태조사에서 침해가 확인됐거나 공고가 정한 대상 국가와 품목 안에서 대응이 필요한 정황이 있어야 한다.",
+      "## 상품과 국가부터 정리하고 상담",
+      "지원 대상 품목은 화장품, 패션·잡화, 식품, 콘텐츠 등이다. 공고에는 화장품·패션과 식품·콘텐츠의 담당 해외지식재산센터가 각각 표시돼 있다. 기업은 침해 국가, 상품, 권리 보유 증빙과 정황을 구분해 관할 센터에 전달할 필요가 있다. 지원 한도와 기업의 현물 분담은 공고상 유형별 기준에 따르며 계약과 과업 결과 제출 일정은 모집 마감과 별개다.",
+      "## 출처 메모",
+      "- 한국지식재산보호원 변경 공고: https://www.koipa.re.kr/home/board/brdDetail.do?menu_cd=000041&num=7053 - 한국지식재산보호원 모집 공고 PDF: https://bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000773435&downloadToken=eyJhbGciOiJIUzI1NiJ9.eyJwdXJwb3NlIjoiZmlsZV9kb3dubG9hZCIsImlhdCI6MTc5NDc1MTc0NSwiYXRjaEZpbGVJZCI6IkZJTEVfMDAwMDAwMDAwNzczNDM1IiwiZmlsZVNuIjoiMSJ9.LlmYlho1ualpjM7gsBi9UzfJmZYdFbz0YH9Qq8fyKl4&fileSn=1"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-16T06:31:00Z",
+    "eventEndsAt": "2026-11-27T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "한국지식재산보호원의 변경 공고에서 해외 권리 보유 원칙과 무단선점 초기대응 예외, 상담 마감 조건을 확인했습니다.",
+    "addedValue": "품목별 관할 센터 확인, 국가와 권리 증빙 대조, 마감 전 신청 상담 기록 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "해외 지식재산 침해에 대응하는 국내 소비재 수출기업은 품목별 관할 센터에 상담해야 한다. 무단선점 초기대응에는 권리 증빙 예외가 있다.",
+    "readerChecklist": [
+      "품목별 관할 센터 확인",
+      "국가와 권리 증빙 대조",
+      "마감 전 신청 상담 기록 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-koipa-kconsumer-ip-preemption-response.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "한국지식재산보호원",
+      "한류편승",
+      "상표",
+      "디자인",
+      "수출",
+      "중소기업",
+      "중견기업",
+      "무단선점"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-kuh-imaging-ai-supply-registration",
+    "slug": "2026-11-16-kuh-imaging-ai-supply-registration",
+    "title": "건국대병원 영상 AI 구매 입찰, 오늘 10시 방문 등록…가격 입찰은 18일",
+    "summary": "흉부 X선과 유방촬영 진단보조 솔루션 공급 입찰의 등록은 16일 오전, 가격 입찰과 개찰은 18일 오전이다. 인편 등록 조건이 있다.",
+    "body": [
+      "건국대학교병원이 흉부 X선과 유방촬영 AI 진단보조 솔루션 납품업체를 뽑는다.",
+      "업체가 참가하려면 가격 입찰일을 기다리기 전에 11월 16일 오전 10시까지 병원 구매팀 입찰실에 등록서류를 인편으로 내야 한다.",
+      "## 18일 오전은 등록이 아니라 투찰",
+      "가격 입찰과 개찰은 둘 다 11월 18일 오전 10시로 안내됐다. 일반경쟁입찰이며 규격에 하자가 없고 예정가격 이내인 유효 응찰 중 부가가치세 포함 총액 최저가가 기준이다. 낮은 단가 자체보다 공고의 제안 제품 범위와 전체 공급비용을 확인할 필요가 있다. 일정은 병원 사정에 따라 달라질 수 있다고 공고가 안내했다.",
+      "## 등록 단계부터 보증이 필요",
+      "등록 신청서, 확약서와 해당 대리인 증빙 등을 갖추고 입찰 총금액의 5% 이상에 해당하는 보증을 함께 제출한다. 보험증권을 쓰는 경우 공고의 피보험자, 입찰 명칭, 보증 기간 조건을 맞춰야 한다. 선정 이후 정해진 계약 기한을 지키지 않으면 보증이 귀속될 수 있다. 제품 규격과 참가자격은 별도 첨부 공고의 원문이 기준이다.",
+      "## 출처 메모",
+      "- 건국대학교병원 구매팀 원공고: https://www.kuh.ac.kr/intro/bid/view.do?bbs_no=1377 - 건국대학교병원 공고·규격 묶음: https://www.kuh.ac.kr/intro/bid/download.do?bbs_ano=4549"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-16T06:30:00Z",
+    "eventEndsAt": "2026-11-16T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "건국대학교병원 공고문에서 등록과 투찰의 날짜 차이, 방문 제출 방식 및 입찰보증 조건을 확인했습니다.",
+    "addedValue": "당일 방문 등록 시각 확인, 제품 적합·자격 자료 준비, 보증과 가격 입찰 날짜 구분에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "흉부 X선과 유방촬영 진단보조 솔루션 공급 입찰의 등록은 16일 오전, 가격 입찰과 개찰은 18일 오전이다. 인편 등록 조건이 있다.",
+    "readerChecklist": [
+      "당일 방문 등록 시각 확인",
+      "제품 적합·자격 자료 준비",
+      "보증과 가격 입찰 날짜 구분"
+    ],
+    "imageUrl": "/stock/2026-11-16-kuh-imaging-ai-supply-registration.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "건국대병원",
+      "의료기기",
+      "영상AI",
+      "흉부",
+      "유방촬영",
+      "입찰",
+      "현장등록",
+      "공급"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-mokpo-ongum-land-onbid-bid-check",
+    "slug": "2026-11-16-mokpo-ongum-land-onbid-bid-check",
+    "title": "목포 온금동 토지 매각 오늘 10시 시작…30일 16시 온비드 마감",
+    "summary": "목포시가 온금동 토지 63㎡를 예정가 915만5600원에 입찰한다. 공고 첨부의 계약 기한 문구가 서로 달라 참가 전 확인이 필요하다.",
+    "body": [
+      "목포시가 온금동 5-7번지 토지 63㎡를 일반경쟁 전자입찰로 매각한다.",
+      "지목은 대지이며 매각 예정가는 915만5600원이다. 온비드 제출은 11월 16일 오전 10시부터 30일 오후 4시까지다. 개찰은 12월 1일 오전 10시 이후다.",
+      "## 예정가 이상 최고가 방식",
+      "목포시 공고는 예정가격 이상을 제시한 유효 입찰 가운데 최고가를 낙찰 기준으로 둔다. 공고의 무효 사유에는 입찰보증금이 입찰금액의 10%에 못 미치는 경우가 포함된다. 제출 전 온비드 이용 자격과 실제 보증금 처리 여부를 확인할 필요가 있다. 별도 현장설명회가 없으므로 토지 이용 여건과 현황을 스스로 대조해야 한다.",
+      "## 계약 기한에 서로 다른 문구가 있다",
+      "첨부 공고의 계약체결 항목은 낙찰일부터 60일 안이라고 안내한다. 반면 입찰 무효 항목에는 정당한 사유 없이 낙찰일부터 10일 안에 계약하지 않은 경우를 별도로 적었다. 두 기준 중 하나만 적용된다고 단정할 수 없다. 입찰 전에 정정 공고와 담당 회계과의 계약 기한 안내를 확인하는 것이 필요하다.",
+      "## 출처 메모",
+      "- 목포시 공유재산 매각 원공고 및 온금동 첨부: https://seafountain.mokpo.go.kr/www/mokpo_news/notification/public_notice?idx=55584&mode=view - 한국자산관리공사 온비드: https://www.onbid.co.kr/"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-16T06:30:00Z",
+    "eventEndsAt": "2026-11-30T16:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "목포시 고시 상세와 첨부 공고문에서 대상 필지, 예정가, 온비드 일시 및 계약 기한 표기 차이를 확인했습니다.",
+    "addedValue": "토지 현황과 공부 확인, 보증금 입금 확인, 상이한 계약 기한 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "목포시가 온금동 토지 63㎡를 예정가 915만5600원에 입찰한다. 공고 첨부의 계약 기한 문구가 서로 달라 참가 전 확인이 필요하다.",
+    "readerChecklist": [
+      "토지 현황과 공부 확인",
+      "보증금 입금 확인",
+      "상이한 계약 기한 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-mokpo-ongum-land-onbid-bid-check.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "목포시",
+      "온금동",
+      "토지",
+      "공유재산",
+      "온비드",
+      "매각",
+      "전자입찰",
+      "입찰보증금"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-mungyeong-gaeun-industrial-canteen-permit",
+    "slug": "2026-11-16-mungyeong-gaeun-industrial-canteen-permit",
+    "title": "문경 가은농공단지 식당 사용허가 입찰…23일 16시 마감",
+    "summary": "가은농공단지 식당 230.9㎡의 운영자 선정 공고다. 첫해 사용료와 입찰보증금, 계약기간 및 지역 자격을 구분해야 한다.",
+    "body": [
+      "문경시가 가은농공단지 복합문화센터 식당을 운영할 사용허가 대상자를 선정한다. 대상 면적은 230.9㎡, 용도는 일반음식점이다. 예정가격은 부가가치세를 포함해 1105만600원이고 낙찰가는 첫해 사용료에 해당한다.",
+      "## 최초 3년과 2년 갱신을 구분",
+      "공고는 계약기간을 3년으로 정하고 한 차례 2년 갱신할 수 있다고 안내했다. 최대 허가기간이 처음부터 보장되는 것은 아니다. 첫해 낙찰금액 이후 사용료는 공고에 명시된 산식으로 다시 정한다. 문경 주소 또는 주된 영업소 등 지역 요건이 적용되며 국세·지방세 체납 여부도 참가자격에서 확인한다.",
+      "## 보증금까지 23일 오후 4시 전에",
+      "입찰서 제출과 입찰보증금 납부는 11월 23일 오후 4시가 마감이다. 온비드에서만 입찰을 받으며 보증금은 응찰 금액의 10%다. 개찰은 25일 오전 11시 예정이다. 별도 현장설명회는 없지만 공고가 현장 개방 기간을 안내하고 있어, 운영하려는 업체는 설비 상태와 허가·관리 조건을 입찰 전에 함께 확인할 필요가 있다.",
+      "## 출처 메모",
+      "- 문경시 제2026-1560호 원공고: https://www.gbmg.go.kr/portal/saeol/gosi/view.do?mId=0301080000&notAncmtMgtNo=45299&seCode=02 - 문경시 식당 사용허가 입찰 공고문: https://eminwon.gbmg.go.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=%EA%B3%B5%EA%B3%A0%EB%AC%B8(%EA%B0%80%EC%9D%80%EB%86%8D%EA%B3%B5%EB%8B%A8%EC%A7%80%20%EB%B3%B5%ED%95%A9%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0).hwpx&sys_file_nm=%EA%B3%B5%EA%B3%A0%EB%AC%B8(%EA%B0%80%EC%9D%80%EB%86%8D%EA%B3%B5%EB%8B%A8%EC%A7%80%20%EB%B3%B5%ED%95%A9%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0)_ofr_ofr_xpKqHfBYznEWwADo_20261112152800320_1.hwpx&file_path=%2Fntishome%2Ffile%2Fupload%2Fofr%2Fofr%2F20261112"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-16T06:30:00Z",
+    "eventEndsAt": "2026-11-23T16:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "문경시 공고 첨부 원문에서 첫해 사용료, 허가 기간, 문경 지역 요건과 온비드 마감 시각을 확인했습니다.",
+    "addedValue": "문경 소재 자격 확인, 시설과 허가조건 확인, 입찰 및 보증금 납부 확인에 필요한 조건을 구분했습니다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T06:18:00Z",
+    "reporterInsight": "가은농공단지 식당 230.9㎡의 운영자 선정 공고다. 첫해 사용료와 입찰보증금, 계약기간 및 지역 자격을 구분해야 한다.",
+    "readerChecklist": [
+      "문경 소재 자격 확인",
+      "시설과 허가조건 확인",
+      "입찰 및 보증금 납부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-16-mungyeong-gaeun-industrial-canteen-permit.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "문경시",
+      "가은농공단지",
+      "복합문화센터",
+      "식당",
+      "공유재산",
+      "사용허가",
+      "온비드",
+      "일반음식점"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "keco-small-business-esg-support-2026",
     "slug": "keco-small-business-esg-support-2026",
     "title": "한국환경공단 ESG 지원 5개사 내외…400만원 이내 컨설팅·평가, 물기업 가점",
