@@ -137655,6 +137655,55 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-16-asean-biodiversity-specimen-genome-training",
+    "slug": "2026-11-16-asean-biodiversity-specimen-genome-training",
+    "title": "아세안 4개국 연구진·공무원 9명 초청…생물 표본 관리와 유전체 분석 공유",
+    "summary": "20일까지 국립생물자원관·서울식물원 등에서 교육, 공동연구 주제도 논의",
+    "body": [
+      "캄보디아·라오스·미얀마·필리핀에서 생물다양성 업무를 맡은 공무원과 연구자 9명이 국내 생물자원 관리 시설을 살펴보는 교육에 참여한다. 국립생물자원관은 16일부터 20일까지 제15차 해외 생물다양성 인력양성 교육을 운영한다고 밝혔다.",
+      "## 표본 수장고와 소재은행의 역할",
+      "참가자들은 생물종 목록을 만드는 방법을 배우고 표본 수장고와 야생생물 소재은행을 둘러본다. 수장고가 생물의 종류와 분포를 확인할 수 있는 표본을 보관한다면, 소재은행은 연구에 활용할 수 있는 야생생물 유래 자원을 관리한다. 교육에는 유전체 분석과 생물정보 활용 방법도 포함된다.",
+      "## 방문 일정과 공동연구 논의",
+      "일정은 인천 국립생물자원관에만 머물지 않는다. 서울식물원과 경기 포천의 한탄강세계지질공원 일대 등도 방문한다. 참가자들은 각국에서 필요로 하는 연구 주제를 공유하고, 여러 나라가 함께 다룰 수 있는 과제를 찾기 위한 토의에 참여할 예정이다.",
+      "자원관이 2009년부터 진행한 이 교육은 이번 회차 전까지 13개국 181명이 수료했다. 이번 방문에서 논의할 협력 과제와 실제로 착수하는 공동연구는 이후 단계다.",
+      "## 출처 메모",
+      "- 국립생물자원관 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789277 - 국립생물자원관 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590423&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:49:00Z",
+    "reporting": "desk",
+    "verificationNote": "국립생물자원관의 공식 발표와 제공 원자료에 근거해 표본 관리와 유전체 분석 교육 및 방문 일정과 공동연구 논의를 정리했다.",
+    "addedValue": "표본 관리와 유전체 분석 교육 및 방문 일정과 공동연구 논의를 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:38:00Z",
+    "reporterInsight": "20일까지 국립생물자원관·서울식물원 등에서 진행하는 교육과 이후 공동연구 논의를 구분해 정리했습니다.",
+    "imageUrl": "/stock/2026-11-16-asean-biodiversity-specimen-genome-training.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "국립생물자원관",
+      "아세안",
+      "생물다양성",
+      "표본",
+      "소재은행",
+      "유전체",
+      "서울식물원",
+      "인력양성"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-16-busan-kimes-joint-booth-cost-share",
     "slug": "2026-11-16-busan-kimes-joint-booth-cost-share",
     "title": "부산 의료·고령친화 기업 KIMES 공동관 모집…27일 18시 마감",
@@ -137766,6 +137815,55 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-16-culture-digital-innovation-forum-ai-awards",
+    "slug": "2026-11-16-culture-digital-innovation-forum-ai-awards",
+    "title": "인공와우 이용자 맞춤 편곡부터 역사 인물 대화까지…문화 AI 공모작 15점 시상",
+    "summary": "17일 서울 서초구 엘타워 포럼, 공모작 발표와 문화·예술·관광·콘텐츠 분야 논의",
+    "body": [
+      "인공와우 이용자를 위해 음악을 다시 편곡하는 인공지능 서비스와 역사 사료를 바탕으로 역사 인물과 대화할 수 있게 한 서비스가 17일 서울 서초구 엘타워에서 소개된다. 문화체육관광부는 이날 문화·체육·관광 디지털혁신 포럼에서 인공지능·데이터 활용 공모전 수상작 15점을 시상한다고 밝혔다.",
+      "공모전은 신기술 활용, 문화데이터 활용, 데이터 분석 등 세 분야에서 모두 다섯 부문으로 진행됐다. 수상작 15점 가운데 5점이 문체부 장관상을 받는다. 대표작으로는 인공와우 이용자용 편곡 서비스, 역사 사료 기반 대화 서비스, 전래동화에 기반한 어린이 맞춤형 서비스가 제시됐다.",
+      "## 포럼 시간과 현장 체험",
+      "포럼은 문화·체육, 예술, 관광, 콘텐츠 등 네 분과로 나뉘어 진행된다. 예술 분과에선 창작에 AI를 활용할 때 책임 있게 적용하는 방법을, 관광 분과에선 로봇과 실시간 번역의 활용을 다룬다. 콘텐츠 분과는 시각특수효과와 게임 등을 논의하고, 문화·체육 분과는 공공 문화데이터와 체육 분야 적용 사례를 소개한다.",
+      "현장 체험 부스에는 실시간 통번역, 생성형 AI 사진, 체형 분석을 활용한 운동 추천 등이 마련될 예정이다. 공식 행사 안내에 따르면 포럼은 오전 10시부터 오후 4시 20분까지 양재 엘타워 6층 그레이스홀에서 열린다. 사전등록 기간은 13일까지였다.",
+      "## 출처 메모",
+      "- 문화체육관광부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789283 - 문화 디지털혁신 포럼 공식 행사 안내: https://culture.go.kr/digicon/ - 문화체육관광부 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590438&tblKey=GMN"
+    ],
+    "category": "culture",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:34:00Z",
+    "eventEndsAt": "2026-11-17T16:20:00Z",
+    "reporting": "desk",
+    "verificationNote": "문화체육관광부의 공식 발표와 제공 원자료에 근거해 문화 AI 수상작과 네 분과 및 포럼 시간과 현장 체험을 정리했다.",
+    "addedValue": "문화 AI 수상작과 네 분과 및 포럼 시간과 현장 체험을 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "17일 서울 서초구 엘타워 포럼, 공모작 발표와 문화·예술·관광·콘텐츠 분야 논의",
+    "imageUrl": "/stock/2026-11-16-culture-digital-innovation-forum-ai-awards.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "문화체육관광부",
+      "문화데이터",
+      "인공지능",
+      "디지털혁신",
+      "양재",
+      "포럼",
+      "공모전",
+      "콘텐츠"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-16-dpi-research-administration-first-application",
     "slug": "2026-11-16-dpi-research-administration-first-application",
     "title": "대구정책연구원 정규직 접수 오늘 시작…20일 17시 이메일 마감",
@@ -137815,6 +137913,154 @@ export const CONTENT_ARTICLES: Article[] = [
       "채용",
       "이메일",
       "서류심사"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-fishing-harbor-reclamation-plan-four-sites",
+    "slug": "2026-11-16-fishing-harbor-reclamation-plan-four-sites",
+    "title": "홍원항 등 어항 4곳 매립계획에 반영…지구마다 사업 목적 달라",
+    "summary": "총 8,404.8㎡, 홍원항은 소형선 부두 확충·방파제 연장",
+    "body": [
+      "충남 서천 홍원항 등 어항 네 곳에서 소형선 부두를 마련하거나 방파제를 만들기 위한 매립 예정지가 제4차 공유수면매립 기본계획에 포함됐다. 해양수산부는 변경 고시에서 계획에 새로 반영한 면적이 8,404.8㎡라고 밝혔다.",
+      "## 어항별 반영 면적과 시설 목적",
+      "이번에 반영된 면적이 가장 넓은 곳은 홍원항이다. 계획에 포함된 5,516㎡는 전체 신규 면적의 약 65.6%로, 소형선 부두를 확충하고 기존 방파제를 연장할 공간이다. 전남광주통합특별시 무안군의 홀통항 1,200㎡와 경남 고성 당동항 1,128.8㎡는 방파제 신설을 위해 반영됐다. 경남 거제 유교항 560㎡의 목적은 기존 방파제 연장이다.",
+      "## 기본계획 반영 후 남은 절차",
+      "해수부는 신청 사업을 대상으로 전문가 평가와 중앙연안관리심의회 심의를 진행했다고 밝혔다. 네 지구 모두 어항시설 용지를 확보하는 사업으로, 방파제 사업은 기상이 나쁠 때 항 안의 시설과 선박을 보호하는 데 목적이 있다. 소형선 부두 확충은 홍원항 사업에 포함됐다.",
+      "기본계획 반영은 매립 추진에 필요한 선행 단계다. 각 예정지에서 실제 매립을 진행하려면 매립 면허 등 후속 절차를 거쳐야 한다. 주민이 각 사업의 공사 시점을 확인하려면 이후 면허와 사업 공고를 살펴야 한다.",
+      "## 출처 메모",
+      "- 해양수산부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789274 - 공유수면 관리 및 매립에 관한 법률: https://www.law.go.kr/lsInfoP.do?efYd=20261013&lsiSeq=291147 - 해양수산부 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590406&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:35:00Z",
+    "reporting": "desk",
+    "verificationNote": "해양수산부의 공식 발표와 제공 원자료에 근거해 어항별 반영 면적과 시설 목적 및 기본계획 반영 후 남은 절차를 정리했다.",
+    "addedValue": "어항별 반영 면적과 시설 목적 및 기본계획 반영 후 남은 절차를 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "총 8,404.8㎡의 어항별 반영 면적과 홍원항 소형선 부두 확충·방파제 연장 목적을 구분해 정리했습니다.",
+    "imageUrl": "/stock/2026-11-16-fishing-harbor-reclamation-plan-four-sites.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "해양수산부",
+      "어항",
+      "홍원항",
+      "홀통항",
+      "당동항",
+      "유교항",
+      "공유수면매립",
+      "방파제"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-gmo-food-labeling-regional-briefings",
+    "slug": "2026-11-16-gmo-food-labeling-regional-briefings",
+    "title": "간장·당류·식용유 GMO 표시 준비…업체 설명회에서 면제 증빙까지 안내",
+    "summary": "27일까지 6개 권역 12회, 현장 참석이 어려운 업체를 위한 온라인 설명회는 12월 3일 예정",
+    "body": [
+      "유전자변형 원료를 쓴 간장이나 식용유를 제조·수입하는 업체는 최종 제품에 유전자변형 DNA나 단백질이 남지 않아도 표시 대상에 해당하는지 확인해야 한다. 식품의약품안전처는 유전자변형 원료를 쓴 간장·당류·식용유지류로 표시 대상이 확대되는 데 맞춰 16일부터 27일까지 권역별 사업자 설명회를 연다고 밝혔다.",
+      "## 표시 대상과 면제 증빙 안내",
+      "설명회에서는 업체가 제품별 표시 대상 여부를 판단하고, 면제 요건을 충족하는 경우 증빙을 준비하는 방법을 다룬다. 유전자변형 원료를 다른 원료와 구분해 유통·관리하는 방법도 안내한다. 식약처는 표시와 원료 구분관리 기준을 각각 정리한 안내서를 11월 중 공개할 계획이다.",
+      "## 권역별 설명회와 온라인 일정",
+      "현장 설명회는 16일 서울, 17일 광명역, 18일 대전, 25일 광주, 26일 대구, 27일 부산에서 열린다. 각 지역에서 오전 9시 30분과 오후 2시에 한 차례씩 진행한다. 업체별 참가 인원은 1명이고, 원하는 권역을 선택할 수 있다. 다만 16일 서울과 17일 광명에 배정된 설명회는 오전에 수입업체, 오후에 제조업체가 참석하도록 시간을 구분했다.",
+      "현장에 가기 어려운 업체를 위해 12월 3일 온라인 설명회도 예정돼 있다. 안내문은 식품안전나라와 수입식품정보마루에서 참석 방법을 추후 공지한다고 설명하며, 공식 첨부에는 웹엑스(Webex) 참석 링크가 제시돼 있다. 참가 전 공식 안내에서 최신 접속 링크를 확인하는 것이 좋다.",
+      "## 출처 메모",
+      "- 식품의약품안전처 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789281 - 식약처 유전자변형식품 표시 관련 공개 안내: https://mfds.go.kr/brd/m_841/view.do?page=1&seq=46060 - 식품의약품안전처 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590435&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:35:00Z",
+    "eventEndsAt": "2026-12-03T23:59:00Z",
+    "reporting": "desk",
+    "verificationNote": "식품의약품안전처의 공식 발표와 제공 원자료에 근거해 표시 대상과 면제 증빙 안내 및 권역별 설명회와 온라인 일정을 정리했다.",
+    "addedValue": "표시 대상과 면제 증빙 안내 및 권역별 설명회와 온라인 일정을 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "27일까지 6개 권역 12회, 현장 참석이 어려운 업체를 위한 온라인 설명회는 12월 3일 예정",
+    "imageUrl": "/stock/2026-11-16-gmo-food-labeling-regional-briefings.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "식품의약품안전처",
+      "GMO",
+      "간장",
+      "당류",
+      "식용유",
+      "표시제",
+      "설명회",
+      "원료관리"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-green-chemistry-substitution-awards",
+    "slug": "2026-11-16-green-chemistry-substitution-awards",
+    "title": "세척 공정 바꾸고 유해물질 대체…녹색화학 우수기업 8곳 선정",
+    "summary": "진공플랜트·LG전자 최우수상, 공정 개선과 원료 전환 사례 발표 예정",
+    "body": [
+      "세척 장비를 바꿔 작업자의 유해물질 노출을 줄인 사례와 유해물질을 대신할 화학물질을 찾아 실제로 교체한 사례가 녹색화학 공모전 최우수상에 선정됐다. 기후에너지환경부는 16일 서울 용산 서울드래곤시티에서 진공플랜트와 LG전자에 최우수상을 수여할 예정이다. 두 기업은 오전 개회식에서, 우수상 수상 기업 여섯 곳은 오후 사례 발표회에서 상을 받는다.",
+      "## 세척 공정 개선과 대체물질 탐색",
+      "진공플랜트는 밀폐된 공간에서 세척과 건조, 세척액 재생을 하는 장비를 개발·보급했다. 심사에서는 세척 과정에서 트리클로로에틸렌과 염화메틸렌 등 유해물질 사용량과 작업자의 노출량을 줄인 점을 평가했다. LG전자는 화학물질 관리 시스템과 AI 기반 대체물질 탐색 프로그램을 구축해 유해물질 12종을 대체한 사례를 냈다.",
+      "## 우수상과 사례 발표 일정",
+      "우수상 여섯 곳 가운데 어스폼은 버섯 균사체를 활용한 스티로폼 대체 소재를, 대호특수강은 가성소다 사용량을 줄인 공정 개선을 제시했다. 같은 유해물질 저감이라도 원료를 다른 물질로 바꾸는 접근과 장비·작업 공정을 바꾸는 접근이 모두 포함됐다.",
+      "공모는 9월 1일부터 18일까지 국내에서 화학물질을 제조·수입·사용하는 기업을 대상으로 진행됐다. 기후부는 서면과 대면 평가, 현장 검증을 거쳐 수상 사례를 골랐다. 발표회는 오후 1~4시 서울드래곤시티 7층 백제홀에서 열린다. 기후부는 수상 사례를 담은 사례집도 발간할 계획이다.",
+      "## 출처 메모",
+      "- 기후에너지환경부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789276 - 기후에너지환경부 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590421&tblKey=GMN"
+    ],
+    "category": "economy",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:34:00Z",
+    "reporting": "desk",
+    "verificationNote": "기후에너지환경부의 공식 발표와 제공 원자료에 근거해 세척 공정 개선과 대체물질 탐색 및 우수상과 사례 발표 일정을 정리했다.",
+    "addedValue": "세척 공정 개선과 대체물질 탐색 및 우수상과 사례 발표 일정을 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "진공플랜트·LG전자 최우수상과 공정 개선·원료 전환 사례 발표 일정을 구분해 확인할 수 있도록 정리했습니다.",
+    "imageUrl": "/stock/2026-11-16-green-chemistry-substitution-awards.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "기후에너지환경부",
+      "녹색화학",
+      "진공플랜트",
+      "LG전자",
+      "유해물질",
+      "대체물질",
+      "세척공정",
+      "공모전"
     ],
     "isBreaking": false,
     "readCount": 0,
@@ -138042,6 +138288,56 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-16-kimchi-day-yangjae-tasting-and-market",
+    "slug": "2026-11-16-kimchi-day-yangjae-tasting-and-market",
+    "title": "20일 양재 김치의 날 행사…퓨전요리 시식·국산 김치 할인",
+    "summary": "aT센터 제1전시장에서 일반 방문객 맞이, 명인과 함께하는 김장은 사전 모집 인원 중심",
+    "body": [
+      "김치 휘낭시에와 김치 붕어빵 같은 퓨전 먹거리를 맛보고, 여러 업체의 국산 김치를 비교해 살 수 있는 행사가 20일 서울 양재동 aT센터에서 열린다. 농림축산식품부는 김치의 날인 22일을 앞두고 제1전시장에서 김치의 날 기념행사를 연다고 밝혔다. 올해는 일반 방문객에게도 전시와 시식·판매를 개방한다. 행사 포스터에 안내된 기념식 시간은 오전 10시 30분부터 정오까지다.",
+      "## 일반 관람과 사전 모집 김장",
+      "일반 관람과 김장 프로그램은 참여 방식이 다르다. 김치명인의 시연을 보고 직접 배추에 양념을 버무리는 김장 프로그램에는 사전에 모집한 외국인 40명과 초청 출연자가 참여한다. 일반 방문객을 위한 전시에선 대한민국 김치품평회와 어린이 김치 콘텐츠 공모전 수상작 등을 볼 수 있다.",
+      "## 할인 판매와 시식 행사",
+      "판매 행사에는 김치협회 회원사와 올해 품평회 수상 업체 등 약 20곳이 참여할 예정이다. 농식품부는 국산 김치를 평소보다 약 30% 할인해 판매한다고 안내했다. 현장에서 주문한 상품은 원하는 시기에 택배로 받아볼 수도 있다. 약 30%는 행사 안내에 제시된 할인 폭으로, 개별 판매가나 배송 조건은 현장에서 확인할 사항이다.",
+      "시식 행사에는 김치 휘낭시에 외에 김치 소시지 등도 마련된다. 보쌈김치와 김치 주먹밥 등은 푸드트럭에서 판매할 예정이다.",
+      "## 출처 메모",
+      "- 농림축산식품부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789291 - 농림축산식품부 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590456&tblKey=GMN"
+    ],
+    "category": "culture",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:34:00Z",
+    "eventEndsAt": "2026-11-20T23:59:00Z",
+    "reporting": "desk",
+    "verificationNote": "농림축산식품부의 공식 발표와 제공 원자료에 근거해 일반 관람과 사전 모집 김장 및 할인 판매와 시식 행사를 정리했다.",
+    "addedValue": "일반 관람과 사전 모집 김장 및 할인 판매와 시식 행사를 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "aT센터 제1전시장에서 일반 방문객 맞이, 명인과 함께하는 김장은 사전 모집 인원 중심",
+    "imageUrl": "/stock/2026-11-16-kimchi-day-yangjae-tasting-and-market.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "농림축산식품부",
+      "김치의 날",
+      "양재",
+      "aT센터",
+      "국산김치",
+      "시식",
+      "김장",
+      "품평회"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-16-koipa-kconsumer-ip-preemption-response",
     "slug": "2026-11-16-koipa-kconsumer-ip-preemption-response",
     "title": "K소비재 한류편승 대응 27일 마감…해외 선점 초기대응은 국내 권리도 증빙",
@@ -138091,6 +138387,55 @@ export const CONTENT_ARTICLES: Article[] = [
       "중소기업",
       "중견기업",
       "무단선점"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-korea-turkmenistan-customs-assistance-agreement",
+    "slug": "2026-11-16-korea-turkmenistan-customs-assistance-agreement",
+    "title": "한·투르크메니스탄 세관상호지원협정 발효…통관 지연·불허 사유 공유",
+    "summary": "지난해 양국 교역 4,520만 달러, 한국발 수출 비중 99.9%",
+    "body": [
+      "한국과 투르크메니스탄의 관세당국이 통관 지연이나 불허 사유를 확인하는 데 협조할 수 있는 협정이 15일 발효됐다. 외교부와 관세청에 따르면 양국은 9월 15일 정상회담을 계기로 세관상호지원협정에 서명했다.",
+      "## 관세당국이 협조하는 범위",
+      "협정에는 한쪽 당국이 통관 지연·불허 내용과 근거를 확인하는 데 상대 당국이 협조하는 내용이 담겼다. 관세범죄와 마약 불법 거래 관련 정보 교환, 두 나라 관세당국 사이의 기술 지원도 포함된다. 기업이 겪는 통관 문제에 관해 관세당국이 상대국에 확인을 요청할 수 있다.",
+      "## 협정 발효 전 교역과 주요 수출품",
+      "외교부·관세청 자료에 따르면 양국 교역액은 2021년 890만 달러에서 2025년 4,520만 달러로 약 5.1배가 됐다. 지난해 교역액 대부분인 99.9%는 한국에서 투르크메니스탄으로 보낸 물품의 수출액이었다. 주요 수출품은 기계류 2,410만 달러, 자동차 및 부분품 750만 달러, 철강제품 420만 달러 순이었다.",
+      "세 품목군의 수출액을 더하면 3,580만 달러로 양국 교역액의 약 79.2%다. 교역의 증가와 품목별 비중은 협정 이전 수치다. 협정 발효 이후 통관 시간이 실제로 얼마나 달라졌는지는 이번 발표로 확인되지 않는다.",
+      "## 출처 메모",
+      "- 외교부·관세청 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789292 - 외교부·관세청 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590463&tblKey=GMN"
+    ],
+    "category": "economy",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:49:00Z",
+    "reporting": "desk",
+    "verificationNote": "외교부·관세청의 공식 발표와 제공 원자료에 근거해 통관 지연·불허 사유 확인에 협조 및 협정 발효 전 교역과 주요 수출품을 정리했다.",
+    "addedValue": "통관 지연·불허 사유 확인에 협조 및 협정 발효 전 교역과 주요 수출품을 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:38:00Z",
+    "reporterInsight": "지난해 양국 교역 4,520만 달러와 한국발 수출 비중 99.9%를 협정 발효 전 수치로 구분해 정리했습니다.",
+    "imageUrl": "/stock/2026-11-16-korea-turkmenistan-customs-assistance-agreement.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "외교부",
+      "관세청",
+      "투르크메니스탄",
+      "세관상호지원협정",
+      "통관",
+      "수출",
+      "기계류",
+      "교역"
     ],
     "isBreaking": false,
     "readCount": 0,
@@ -138147,6 +138492,56 @@ export const CONTENT_ARTICLES: Article[] = [
       "입찰",
       "현장등록",
       "공급"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-market-mobile-grievance-consultation",
+    "slug": "2026-11-16-market-mobile-grievance-consultation",
+    "title": "의성·구미·괴산에 찾아가는 민원 창구…사업 자금·개인채무 상담",
+    "summary": "17일 의성부터 26일 괴산까지, 세 지역 모두 오전 10시~오후 3시 운영 예정",
+    "body": [
+      "전통시장 상인과 소상공인이 가게 운영자금이나 개인채무 문제를 한자리에서 상담할 수 있는 현장 창구가 경북 의성·구미와 충북 괴산에 열린다. 국민권익위원회는 17일부터 세 차례에 걸쳐 ‘달리는 국민신문고’를 운영한다고 16일 밝혔다. 세 곳 모두 상담 시간은 오전 10시부터 오후 3시까지다.",
+      "## 세 지역의 상담 시간과 장소",
+      "첫 상담은 17일 의성군 보건소 2층 대회의실에서 열린다. 18일에는 구미 새마을중앙시장 2층 상인회교육장(구미중앙로9길 11), 26일에는 괴산허브센터 2층 회의실로 창구가 옮겨간다. 의성군 보건소는 의성읍 구봉길 228, 괴산허브센터는 괴산읍 읍내로11길 31에 있다.",
+      "## 정책자금·채무·복지 상담 범위",
+      "상담에는 소상공인시장진흥공단과 신용회복위원회, 한국사회복지협의회가 함께한다. 소상공인 정책자금, 개인신용·채무, 복지를 상담할 수 있다. 권익위는 현장에서 처리할 수 있는 고충은 그 자리에서 해결을 시도하고, 조사가 더 필요한 사안은 고충민원으로 접수할 계획이다.",
+      "18일 구미에서는 일반 현장 상담과 별도로 시장 상인회 임원들과의 간담회도 예정돼 있다.",
+      "## 출처 메모",
+      "- 국민권익위원회 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789287 - 국민권익위원회 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590445&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:36:00Z",
+    "eventEndsAt": "2026-11-26T15:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "국민권익위원회의 공식 발표와 제공 원자료에 근거해 세 지역의 상담 시간과 장소 및 정책자금·채무·복지 상담 범위를 정리했다.",
+    "addedValue": "세 지역의 상담 시간과 장소 및 정책자금·채무·복지 상담 범위를 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "17일 의성부터 26일 괴산까지, 세 지역 모두 오전 10시~오후 3시 운영 예정",
+    "imageUrl": "/stock/2026-11-16-market-mobile-grievance-consultation.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "권익위원회",
+      "전통시장",
+      "소상공인",
+      "정책자금",
+      "개인채무",
+      "의성",
+      "구미",
+      "괴산"
     ],
     "isBreaking": false,
     "readCount": 0,
@@ -138258,6 +138653,102 @@ export const CONTENT_ARTICLES: Article[] = [
       "사용허가",
       "온비드",
       "일반음식점"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-port-entry-spill-certificate-single-window",
+    "slug": "2026-11-16-port-entry-spill-certificate-single-window",
+    "title": "무역항 입항신고와 방제증서 신청, 16일부터 선박 정보 한 번만 입력",
+    "summary": "EDI 창구에서 두 업무 신청과 결과 확인, 기존 E-방제증서 창구도 유지",
+    "body": [
+      "국내 무역항에 들어오는 선박의 해운대리점이나 선사가 입항신고와 방제증서 발급을 함께 신청할 때 선박 정보를 한 번만 입력하면 된다. 해양수산부와 해양환경공단은 16일부터 항만물류 전자문서 중계망(EDI)을 통해 두 신청을 한 창구에서 받는 서비스를 시작한다고 밝혔다.",
+      "기존에는 중계망에서 입항신고를 마친 뒤 해양환경공단의 E-방제증서 시스템에 따로 접속해야 했다. 두 화면에 동일한 선박 정보를 다시 적는 과정이 있었다. 새 방식에서는 중계망에 선박 정보를 한 차례 입력하고 두 업무를 신청한 뒤 같은 창구에서 결과를 확인할 수 있다. 기관이 안내한 중계망은 플리즘(www.plism.com)과 유로지스허브(www.ulogishub.com)다.",
+      "## 방제증서의 역할과 기존 창구",
+      "방제증서는 선박이 특정 해역에 방제선이나 방제장비를 배치·설치했음을 증명하는 서류다. 이번 개편의 범위는 신청과 결과 확인 절차다. 중계망을 쓰지 않는 이용자는 기존 E-방제증서 시스템에서 종전과 같이 증서를 신청할 수 있다.",
+      "해수부가 공개한 지난해 집계에서 외항선 입항신고는 약 8만1천 건, 방제증서 신청은 약 2만8천 건이었다.",
+      "## 출처 메모",
+      "- 해양수산부·해양환경공단 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789248 - 해양수산부·해양환경공단 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590307&tblKey=GMN"
+    ],
+    "category": "economy",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:35:00Z",
+    "reporting": "desk",
+    "verificationNote": "해양수산부·해양환경공단의 공식 발표와 제공 원자료에 근거해 중계망에서 신청과 결과 확인 및 방제증서의 역할과 기존 창구를 정리했다.",
+    "addedValue": "중계망에서 신청과 결과 확인 및 방제증서의 역할과 기존 창구를 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "EDI 창구에서 두 업무 신청과 결과 확인, 기존 E-방제증서 창구도 유지",
+    "imageUrl": "/stock/2026-11-16-port-entry-spill-certificate-single-window.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "해양수산부",
+      "해양환경공단",
+      "입항신고",
+      "방제증서",
+      "전자문서중계망",
+      "선사",
+      "해운대리점",
+      "무역항"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-16-winter-construction-site-safety-inspections",
+    "slug": "2026-11-16-winter-construction-site-safety-inspections",
+    "title": "겨울 공사장 2,946곳 점검…흙막이·콘크리트 보온도 살핀다",
+    "summary": "16일부터 12월 24일까지, 사고 위험 높은 지하굴착·교량 등은 외부 전문가와 점검",
+    "body": [
+      "폭설과 한파에 대비해 전국 건설현장 2,946곳의 임시시설과 시공 품질을 점검하는 일정이 16일 시작된다. 국토교통부와 5개 지방국토관리청, 한국토지주택공사 등 모두 12개 기관이 12월 24일까지 점검에 참여할 예정이다.",
+      "겨울 점검에서는 강풍과 눈에 노출되는 비계와 울타리, 기온 저하에 영향을 받는 콘크리트와 흙막이를 함께 본다. 국토부는 일평균 기온이 4도 이하인 조건에서 콘크리트를 타설할 때 보온 양생 등 품질 관리가 이뤄지는지 확인할 계획이다. 지반이 얼면서 가시설이 변형될 우려가 있는 현장에서는 흙막이 상태와 변화를 확인할 계측기의 관리 상태도 살핀다.",
+      "## 고위험 현장과 특별점검",
+      "도심 지하굴착과 대규모 건축, 교량·터널 등 사고가 나면 인명피해가 클 수 있는 현장에는 외부 전문가가 함께 나간다. 사망사고가 발생한 곳과 해당 건설사가 시공하는 다른 현장은 특별점검 대상이다. 추락을 막기 위한 안전난간과 방지망 설치 여부도 점검 항목에 포함된다.",
+      "국토부는 대상 현장 가운데 50억 원 이하 규모가 61%라고 밝혔다. 점검에서 안전·품질관리 미흡이나 부실시공 등 위반이 확인되면 벌점이나 과태료 등 관련 조치를 할 방침이다.",
+      "## 출처 메모",
+      "- 국토교통부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789275 - 국토교통부 발표 PDF: https://www.korea.kr/common/download.do?fileId=198590409&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-16T11:36:00Z",
+    "reporting": "desk",
+    "verificationNote": "국토교통부의 공식 발표와 제공 원자료에 근거해 흙막이·콘크리트 보온 점검 및 고위험 현장과 특별점검을 정리했다.",
+    "addedValue": "흙막이·콘크리트 보온 점검 및 고위험 현장과 특별점검을 구분해 독자가 필요한 내용을 찾아볼 수 있도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-16T11:21:00Z",
+    "reporterInsight": "16일부터 12월 24일까지, 사고 위험 높은 지하굴착·교량 등은 외부 전문가와 점검",
+    "imageUrl": "/stock/2026-11-16-winter-construction-site-safety-inspections.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "국토교통부",
+      "건설현장",
+      "겨울철",
+      "콘크리트",
+      "흙막이",
+      "비계",
+      "안전점검",
+      "보온양생"
     ],
     "isBreaking": false,
     "readCount": 0,
