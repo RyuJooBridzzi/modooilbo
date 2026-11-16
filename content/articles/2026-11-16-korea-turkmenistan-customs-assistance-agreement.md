@@ -3,7 +3,7 @@ title: 한·투르크메니스탄 세관상호지원협정 발효…통관 지�
 slug: korea-turkmenistan-customs-assistance-agreement
 category: economy
 author: 류주형 / 취재기자
-publishedAt: 2026-11-16 11:34
+publishedAt: 2026-11-16 11:49
 reporting: desk
 tags: 외교부, 관세청, 투르크메니스탄, 세관상호지원협정, 통관, 수출, 기계류, 교역
 summary: 지난해 양국 교역 4,520만 달러, 한국발 수출 비중 99.9%
@@ -15,13 +15,15 @@ sourceBasis: primary
 visualType: ai-illustration
 aiRole: draft-assist, image
 reviewedBy: 모두일보 독립 리뷰 담당
-reviewedAt: 2026-11-16 11:21
+reviewedAt: 2026-11-16 11:38
 reporterInsight: 지난해 양국 교역 4,520만 달러와 한국발 수출 비중 99.9%를 협정 발효 전 수치로 구분해 정리했습니다.
 humanReviewClaimed: false
 judgment: routine
 ---
 
 한국과 투르크메니스탄의 관세당국이 통관 지연이나 불허 사유를 확인하는 데 협조할 수 있는 협정이 15일 발효됐다. 외교부와 관세청에 따르면 양국은 9월 15일 정상회담을 계기로 세관상호지원협정에 서명했다.
+
+## 관세당국이 협조하는 범위
 
 협정에는 한쪽 당국이 통관 지연·불허 내용과 근거를 확인하는 데 상대 당국이 협조하는 내용이 담겼다. 관세범죄와 마약 불법 거래 관련 정보 교환, 두 나라 관세당국 사이의 기술 지원도 포함된다. 기업이 겪는 통관 문제에 관해 관세당국이 상대국에 확인을 요청할 수 있다.
 
