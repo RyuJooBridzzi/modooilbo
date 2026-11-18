@@ -140348,6 +140348,614 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-19-changdong-hub-office-selection-terms",
+    "slug": "2026-11-19-changdong-hub-office-selection-terms",
+    "title": "서울창업허브 창동 4실 모집…이용료는 1년치 선납",
+    "summary": "30일 오후 5시까지 신청한다. 독립형 공간은 가입자 명부와 평가에 따라 배정하며 기업이 규모를 고르지 않는다.",
+    "body": [
+      "서울창업허브 창동이 신규 입주기업을 최대 4곳 모집한다. 접수는 30일 오후 5시까지 스타트업플러스에서 진행한다. 선정된 기업에 독립 사무공간을 주지만 무상 입주 공고는 아니다. 모집 첨부에 적힌 월 기준 이용료는 ㎡당 5350원으로 부가세가 별도이고, 입주 전 1년치를 먼저 내는 것이 원칙이다.",
+      "## 6인실 1곳·10인실 3곳…배정은 평가 뒤",
+      "6인실은 31~36㎡, 10인실은 39~56㎡다. 정해진 규모를 신청 기업이 임의로 선택하는 방식이 아니라 4대 보험 가입자 명부를 기준으로 적합한 공간을 배정하고, 발표 평가 고득점자가 우선한다. 별도 보증금과 관리비는 없지만 서울시 정책에 따라 이용료는 달라질 수 있다.",
+      "## 기본 2년과 연장 한도는 다르다",
+      "기본 입주기간은 2년이며 1년 단위 연장평가로 최대 4년까지 이용할 수 있다. 공고일 기준 창업 7년 이내, 신산업 분야는 10년 이내가 대상이다. 창조산업 가점 3점은 우대 조건이지 해당 분야만 신청할 수 있다는 뜻은 아니다. 계약 뒤 주소 이전 요건과 관련 증빙도 신청 전에 함께 살펴야 한다.",
+      "## 출처 메모",
+      "- 서울시 창동 입주 모집 안내: https://mediahub.seoul.go.kr/archives/2019977 - 스타트업플러스 창동 공고문 PDF: https://investseoul.startup-plus.kr/api/common/download?attachFilePath=%2Fproject%2Fattachment%2F7d0b125e-1777-4861-baaf-99c3c3f9a761"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-19T06:25:00Z",
+    "eventEndsAt": "2026-11-30T17:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "입주공간의 기본 이용 기간과 실제 호실 배정 및 선납 조건을 함께 살폈다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "입주공간의 기본 이용 기간과 실제 호실 배정 및 선납 조건을 함께 살폈다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:14:00Z",
+    "reporterInsight": "입주비는 배정 면적에 따라 달라지며 1년분을 선납하므로 신청 전에 예상 비용과 사업장 주소 이전 조건을 함께 살펴봐야 한다.",
+    "readerChecklist": [
+      "업력과 주소 이전 조건 확인",
+      "연간 이용료 산정",
+      "창조산업 증빙 준비"
+    ],
+    "imageUrl": "/stock/2026-11-19-changdong-hub-office-selection-terms.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "서울창업허브",
+      "창동",
+      "도봉구",
+      "입주기업",
+      "이용료",
+      "창조산업",
+      "사무공간",
+      "스타트업플러스"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-chungnam-display-rd-consulting-terms",
+    "slug": "2026-11-19-chungnam-display-rd-consulting-terms",
+    "title": "충남 디스플레이 특화단지 R&D 자문…사업장 소재부터 확인",
+    "summary": "천안·아산 특화단지 입주기업은 기초 자문과 과제 기획·연계 중 필요한 트랙을 확인할 수 있다. 예산 소진형 모집이다.",
+    "body": [
+      "충남테크노파크가 천안·아산 디스플레이 특화단지 입주기업을 대상으로 연구개발 과제 준비 컨설팅을 상시 모집한다. 기업마당의 신청기간 표기는 특정 날짜가 아니라 예산 소진 시까지다. 따라서 신청서 작성에 앞서 수행기관 공고에서 현재 접수 상태부터 확인할 필요가 있다.",
+      "## 천안·아산 주소만으로 판단할 수 없어",
+      "공고일 기준 특화단지 안에 본사, 연구소, 공장 등 사업장 가운데 하나 이상을 보유하거나 운영하는 입주기업이 대상이다. 같은 도시 소재 기업이라도 주소가 특화단지 범위 밖에 있다면 시·군 이름만으로 조건 충족을 판단할 수 없다. 신청 기업은 어느 거점을 기준으로 자격을 확인할지 먼저 정리하는 편이 좋다.",
+      "## 기초 자문과 기획·연계는 별도",
+      "Basic은 사업계획 기초자문과 신청 컨설팅, Special은 연구개발 기획과 연계 지원이다. 아직 과제 신청 방향을 잡는 기업과 구체 과제를 기획·연계할 기업이 신청 단계에서 구분해 볼 항목이다. 접수는 myha@ctp.or.kr로 하며, 컨설팅 선정이 별도 정부 연구개발 사업 선정이나 연구비 지급을 뜻하지 않는다. 신청에 필요한 서식과 중복 참여 조건은 기관 게시물의 최신 첨부를 기준으로 봐야 한다.",
+      "## 출처 메모",
+      "- 충남테크노파크 상시모집 공고: https://www.ctp.or.kr/business/datadetail.do?seq=2709361 - 기업마당 지원 트랙과 접수 조건: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124631"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-19T06:25:00Z",
+    "reporting": "desk",
+    "verificationNote": "특화단지 소재 기준과 두 컨설팅 트랙의 차이를 신청 단위로 정리했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "특화단지 소재 기준과 두 컨설팅 트랙의 차이를 신청 단위로 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:14:00Z",
+    "reporterInsight": "기업 거점의 소재 요건을 먼저 확인하고 기본·특화 유형 가운데 필요한 상담을 골라 예산 소진 전에 접수 여부를 살펴야 한다.",
+    "readerChecklist": [
+      "단지 내 거점 확인",
+      "필요 트랙 구분",
+      "잔여 예산 확인"
+    ],
+    "imageUrl": "/stock/2026-11-19-chungnam-display-rd-consulting-terms.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "충남테크노파크",
+      "디스플레이",
+      "특화단지",
+      "천안",
+      "아산",
+      "R&D",
+      "컨설팅",
+      "과제기획"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-daejeon-dunsan-parcel-worker-recruitment",
+    "slug": "2026-11-19-daejeon-dunsan-parcel-worker-recruitment",
+    "title": "대전둔산우체국 소포원 1명…25일 오후 6시 도착 기준",
+    "summary": "23일부터 방문·등기·전자우편으로 받는다. 서류전형 뒤 실기와 면접은 12월 2일 예정이다.",
+    "body": [
+      "대전둔산우체국이 소포와 방문접수 업무를 맡을 기간제 우체국소포원 1명을 뽑는다. 공고는 18일 게시됐지만 실제 응시원서 접수는 23일 시작한다. 등기로 접수할 경우 마감 날 우체국에서 발송하는 것만으로는 공고의 도착 기준을 충족하지 못한다.",
+      "## 세 가지 접수 방법과 동일한 마감",
+      "방문은 대전 서구 둔산로 111 대전둔산우체국 3층 지원과로 간다. 등기는 같은 주소 채용 담당 앞으로 보내고, 전자우편 접수 주소는 a12331000@korea.kr이다. 25일 오후 6시까지 도착한 서류만 인정하며 등기와 전자우편도 예외가 아니다. 접수 전에 공고문과 별도로 붙은 채용 관련 서류에서 제출 항목을 확인할 수 있다.",
+      "## 서류와 실기·면접은 별도 단계",
+      "1차 서류전형 합격자 발표는 30일, 2차 실기와 면접은 12월 2일, 최종 발표는 12월 7일로 공고됐다. 시험 관련 공지는 대전둔산우체국 홈페이지에 게시한다. 접수 일정과 시험 일정이 다르므로 응시자는 접수 직후에도 서류전형 결과와 다음 단계 안내를 별도로 확인할 필요가 있다.",
+      "## 출처 메모",
+      "- 우정사업본부 대전둔산우체국 채용 상세: https://kpic.koreapost.go.kr/postman/sub/sub0201_view.do?bbsDataIdx=100102550 - 정식 채용 공고 PDF: https://kpic.koreapost.go.kr/common/file.down?bbsSetIdx=256&dataType=bbs&fileIdx=100115662 - 응시 서류 서식: https://kpic.koreapost.go.kr/common/file.down?bbsSetIdx=256&dataType=bbs&fileIdx=100115663"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-19T06:26:00Z",
+    "eventEndsAt": "2026-11-25T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공고일과 접수 시작일, 등기 발송과 도착 기준을 분리했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "공고일과 접수 시작일, 등기 발송과 도착 기준을 분리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:14:00Z",
+    "reporterInsight": "응시자는 제출 방식에 따라 공고가 정한 도착 기준을 확인하고 실기와 면접 일정도 함께 살펴야 한다.",
+    "readerChecklist": [
+      "원서 양식 확인",
+      "제출 방식 선택",
+      "마감 전 도착 확인"
+    ],
+    "imageUrl": "/stock/2026-11-19-daejeon-dunsan-parcel-worker-recruitment.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "대전둔산우체국",
+      "기간제",
+      "우체국소포원",
+      "채용",
+      "방문접수",
+      "등기우편",
+      "실기시험",
+      "우정사업본부"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-danyang-tourism-corporation-grade7-hiring",
+    "slug": "2026-11-19-danyang-tourism-corporation-grade7-hiring",
+    "title": "단양관광공사 행정 2명 모집…최종시험일까지 단양 주소 유지",
+    "summary": "7급 일반행정은 30일 오후 6시 접수를 마감한다. 필기는 직업기초와 관광학을 함께 본다.",
+    "body": [
+      "단양관광공사가 기획·인사·회계와 관광·휴양시설 운영 등을 맡을 일반행정 7급 직원 2명을 공개경쟁으로 채용한다. 지원자는 공고일 이전부터 최종시험일까지 주민등록 주소를 계속 단양군에 두고 있어야 하며, 임용 예정일인 2027년 1월 4일부터 근무할 수 있어야 한다.",
+      "## 23일부터 등기 또는 이메일",
+      "공고는 23일부터 30일까지 원서를 받는다. 등기는 충북 단양군 매포읍 삼봉로 644-13 3층 공사 경영지원팀 채용 담당 앞으로, 이메일은 j5307439@dytc.or.kr로 제출한다. 30일 오후 6시까지 도착 또는 수신한 서류만 접수한다. 학력과 성별을 제한하지 않지만 미성년자 및 임용 예정일에 정년에 도달한 사람 등은 공고의 제외 기준을 살펴야 한다.",
+      "## 필기는 관광학을 포함한 100문항",
+      "서류는 자격 적합 여부를 판단하고, 이후 필기 70점과 면접 30점을 반영한다. 필기는 직업기초능력 50문항과 관광학 50문항을 합쳐 110분 동안 진행한다. 각 과목에서 40% 이상, 전 과목 총점에서 60% 이상을 얻은 응시자 중 가산점을 포함한 고득점 순으로 필기 합격자를 가린다. 면접까지 이어지는 주소 유지 조건을 접수일 현재 주소 확인만으로 대신할 수 없다.",
+      "## 출처 메모",
+      "- 단양군 게시 단양관광공사 제2026-48호 원문: https://www.danyang.go.kr/File/6b6298514ff3dcabcbb1d80b0bcc359b - 단양군 신규직원 채용 게시문 및 지원 서류: https://danyang.go.kr/dy21/981?action=read&action-value=6b3f814e74c1617de0b97319f38842f8"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-19T06:34:00Z",
+    "eventEndsAt": "2026-11-30T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "거주 요건 종료 시점과 필기 과락 기준을 지원 절차와 연결했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "거주 요건 종료 시점과 필기 과락 기준을 지원 절차와 연결했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:23:00Z",
+    "reporterInsight": "단양 주소 요건은 공고일부터 최종시험일까지 이어지므로 응시 전 거주 기간과 서류 도착 마감, 필기의 과락 기준을 확인해야 한다.",
+    "readerChecklist": [
+      "주소 요건 확인",
+      "응시서류 도착 확인",
+      "관광학과 직업기초 준비"
+    ],
+    "imageUrl": "/stock/2026-11-19-danyang-tourism-corporation-grade7-hiring.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "단양관광공사",
+      "일반행정",
+      "공개경쟁",
+      "주민등록",
+      "관광학",
+      "NCS",
+      "필기시험",
+      "채용"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-gangwon-mobility-remanufacturing-round-three",
+    "slug": "2026-11-19-gangwon-mobility-remanufacturing-round-three",
+    "title": "강원 미래차 재제조 지원 3차…도외 기업도 지역 연계가 관건",
+    "summary": "강원테크노파크는 19일 오후 6시까지 미래차 AS 부품 재제조 사업화 지원 신청을 이메일로 받는다. 지원 항목은 3000만원 규모다.",
+    "body": [
+      "강원테크노파크의 미래모빌리티 기업지원 3차 모집은 19일 오후 6시에 마감한다. 이번 항목은 미래차 부품 재제조에 관련된 제품 고도화와 홍보를 지원하며, 사업화지원 금액은 공고에 1개사 3000만원으로 표시돼 있다. 지역 주소만 보는 사업은 아니다. 도외 기업에는 강원 지역 산업과의 연계 조건이 적용된다.",
+      "## 소재 기준과 연계 기준이 다르다",
+      "강원에 본사 또는 공장이 있는 기업은 소재 요건을 확인한다. 도외 기업은 강원 미래모빌리티 산업에 직간접적으로 연계돼 있어야 한다. 공고는 차량 고장 진단, 기타 부품 제작과 재제조뿐 아니라 모터와 감속기 등 핵심 부품 장착·성능 시험, 납품처 관리와 이력 데이터베이스, 사후서비스 홍보 등을 대상 활동으로 제시한다.",
+      "## 신청은 수행기관 이메일",
+      "신청은 강원테크노파크가 안내한 eqjang@gwtp.or.kr로 받는다. 기업은 지원신청서와 계획서에 신청하려는 작업을 구분하고, 도외 기업이면 사업과 강원 산업의 관계를 설명할 근거를 함께 점검할 필요가 있다. 기업마당 요약에는 날짜만 적혀 있지만 수행기관의 붙임 1 공고문에 명시된 마감은 오후 6시다.",
+      "## 출처 메모",
+      "- 강원테크노파크 3차 모집 공고: https://www.gwtp.or.kr/gwtp/bbsNew_view.php?bbs_data=aWR4PTM3MDcmc3RhcnRQYWdlPTE1Jmxpc3RObz0zMTQmdGFibGU9Y3NfYmJzX2RhdGFfbmV3JmNvZGU9c3ViMDFiJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9JnVybD1zdWIwMWIma2V5dmFsdWU9JmJic19tYWxuYW1lPQ%3D%3D%7C%7C - 기업마당 모집 조건 및 첨부: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127910"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-19T06:27:00Z",
+    "eventEndsAt": "2026-11-19T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "도내 소재 기준과 도외 산업 연계 조건을 구분해 지원 범위를 설명했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "도내 소재 기준과 도외 산업 연계 조건을 구분해 지원 범위를 설명했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:16:00Z",
+    "reporterInsight": "강원 지역과의 연계 요건 및 사업화 항목을 먼저 대조한 뒤 마감 전에 이메일로 제출할 신청 서류를 준비해야 한다.",
+    "readerChecklist": [
+      "지역 연계 증빙 준비",
+      "지출 범위와 시험 계획 확인",
+      "원기관 마감 시각 확인"
+    ],
+    "imageUrl": "/stock/2026-11-19-gangwon-mobility-remanufacturing-round-three.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "강원테크노파크",
+      "미래차",
+      "재제조",
+      "모빌리티",
+      "제품고도화",
+      "AS",
+      "성능시험",
+      "신청 공고"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-incheon-tourism-incubator-room-types",
+    "slug": "2026-11-19-incheon-tourism-incubator-room-types",
+    "title": "인천 관광기업 입주 15곳 안팎…독립실과 공유공간 서식 구분",
+    "summary": "공고일 기준 창업 7년 이하 관광기업을 모집한다. 예비창업자는 오픈오피스만 신청할 수 있으며 이메일 접수는 25일 오후 6시까지다.",
+    "body": [
+      "인천관광공사가 2027년 인천관광기업지원센터에 입주할 관광기업을 15곳 안팎 모집한다. 공고일 기준 창업 7년 이하 관광 분야 개인·법인 사업자가 대상이며, 관광 분야 예비창업자는 오픈오피스에 한해 신청할 수 있다.",
+      "센터는 인천 연수구 센트럴로 263 IBS타워 23층에 있고 입주 기간은 2027년 1월부터 12월까지 1년이다. 공고 PDF는 명칭이 1인 공유오피스인 공간을 독립공간 항목에 넣었다. 1년 차 기준 월 6만800원은 관리비이고 임대료는 0원이다. 오픈오피스에는 임대료와 관리비가 부과되지 않는다.",
+      "## 독립실과 공유공간의 규모와 서식",
+      "4인실 3곳과 2인실 1곳, 1인 공유오피스 1곳, 오픈오피스 10곳 안팎이다. 인천관광공사는 독립공간과 공유공간에 다른 신청 양식을 붙였다. 신청 이메일은 incheontourbiz@ito.or.kr이고 기한은 25일 오후 6시다. 1차 서류, 2차 발표 심사를 진행한다.",
+      "## 기존 보육공간 중복 조건 확인",
+      "타 정부지원 보육센터 입주기업은 제외 대상이다. 인천관광기업지원센터나 인천MICE지원센터에서 입주 지원 최대 기간을 넘긴 기업도 제한되지만, 기존 공유오피스 입주기업 중 독립공간 입주 경험이 없으면 신청할 수 있다는 예외가 붙는다. 기존 임대나 보육 계약이 있는 기업은 새 공간을 선택하기 전에 해당 조건을 대조할 필요가 있다.",
+      "## 출처 메모",
+      "- 인천관광공사 제2026-174호 공고와 공간별 서식: https://www.ito.or.kr/bbs/bbsMsgDetail.do?bcd=notice&msg_seq=1149&pgno=12 - 인천관광공사 공간별 자격·비용 표가 실린 공고 PDF: https://www.ito.or.kr/bbs/bbsMsgFileDown.do?bcd=notice&fileno=1&msg_seq=1149 - K-Startup 공고 상세: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancSn=179738&schM=view"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-19T06:27:00Z",
+    "eventEndsAt": "2026-11-25T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공간별 모집 수와 서식 차이, 기존 공유공간 입주기업의 예외를 구분했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "공간별 모집 수와 서식 차이, 기존 공유공간 입주기업의 예외를 구분했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:16:00Z",
+    "reporterInsight": "독립공간과 오픈오피스는 대상과 관리비가 다르므로 창업 상태에 맞는 신청 유형과 입주 뒤 월 부담을 함께 확인해야 한다.",
+    "readerChecklist": [
+      "입주 이력 확인",
+      "공간별 서식 준비",
+      "마감 전 이메일 발송"
+    ],
+    "imageUrl": "/stock/2026-11-19-incheon-tourism-incubator-room-types.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "인천관광공사",
+      "관광 스타트업",
+      "창업기업",
+      "공유오피스",
+      "입주심사",
+      "사업계획서",
+      "연수구",
+      "이메일"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-kdca-vaccination-system-maintenance-bid",
+    "slug": "2026-11-19-kdca-vaccination-system-maintenance-bid",
+    "title": "예방접종 시스템 유지관리 9억5000만원…25일 제안서 먼저 전송",
+    "summary": "질병관리청 수요 용역은 제안서와 가격 모두 나라장터로 받는다. 공동수급 협정은 하루 전 마감이다.",
+    "body": [
+      "질병관리청의 2027년 예방접종통합관리시스템 유지관리 사업에 참여하려면 25일 오전 10시까지 나라장터에 제안서와 가격입찰서를 모두 보내야 한다. 공고 기준 사업금액은 부가가치세를 포함해 9억5000만원이며 납품기한은 2027년 12월 31일이다.",
+      "제한경쟁 총액계약으로 진행하며 낙찰자는 협상 방식으로 정한다. 공고에는 계약 체결이 늦어지면 실제 용역을 시작한 날부터 대금을 정산한다는 조건이 있다.",
+      "## 온라인 제안서를 먼저 최종 제출",
+      "공고상 제안서 최종 제출을 완료해야 가격입찰서를 보낼 수 있다. 어느 하나만 제출하면 입찰이 무효가 된다. 정성 제안서와 참가자격 확인 서류가 필수이고 정량 제안서와 요약서는 공고 목록에서 선택으로 표시됐다. 참가자격 서류는 공고의 안내에 맞춰 텍스트 기반 PDF로 묶는다.",
+      "## 공동이행은 24일 오후 6시까지",
+      "대표사를 포함해 최대 5개사, 구성원별 최소 지분 10%의 공동이행을 허용한다. 각 구성원이 입찰참가 자격을 갖춰야 한다. 협정서는 24일 오후 6시까지 전자 제출하며, 기한 전이라도 입찰서를 먼저 내면 이후 협정 제출이나 변경을 할 수 없다. 하도급은 사전 승인 사항이다.",
+      "## 출처 메모",
+      "- 조달청 나라장터 입찰공고 R26BK01772930-000: https://www.g2b.go.kr/pn/pnp/pnpe/UntyAtchFile/downloadFile.do?bidPbancNo=R26BK01772930&bidPbancOrd=000&fileSeq=2&fileType=&prcmBsneSeCd=03 - 나라장터 해당 입찰 상세 및 제안서 제출 경로: https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01772930&bidPbancOrd=000"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-19T06:34:00Z",
+    "eventEndsAt": "2026-11-25T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "제안서·가격서 제출 순서와 공동수급 협정 기한을 구분했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "제안서·가격서 제출 순서와 공동수급 협정 기한을 구분했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:23:00Z",
+    "reporterInsight": "전자입찰을 준비하는 업체는 제안서 최종 제출과 가격 전송의 순서를 확인하고 필수 자료와 선택 자료를 미리 구분해야 한다.",
+    "readerChecklist": [
+      "참가 등록 확인",
+      "제안서 먼저 제출",
+      "가격서 송신 확인"
+    ],
+    "imageUrl": "/stock/2026-11-19-kdca-vaccination-system-maintenance-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "질병관리청",
+      "예방접종",
+      "정보시스템",
+      "유지관리",
+      "제한경쟁",
+      "나라장터",
+      "공동수급",
+      "조달청"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-kida-application-maintenance-two-step-bid",
+    "slug": "2026-11-19-kida-application-maintenance-two-step-bid",
+    "title": "국방연구원 유지보수 입찰, 19일 10시 투찰·오후 30분만 방문 접수",
+    "summary": "응용체계 유지보수 1년 사업은 가격을 먼저 전자 제출해야 오후 현장에서 제안서를 낼 수 있다.",
+    "body": [
+      "한국국방연구원의 2027년 응용체계 통합유지보수 용역은 19일 오전 10시 나라장터 가격입찰을 닫는다.",
+      "제안서와 입찰 등록은 같은 날 오후 1시 30분부터 2시까지 한국국방연구원 안내실에서 받는다. 오후 접수만 맞추면 되는 입찰이 아니다.",
+      "## 오전 가격 제출을 놓치면 오후 접수 불가",
+      "가격은 나라장터에서만 받는다. 공고는 가격입찰을 마친 업체에만 제안서 제출을 허용한다. 사업 기간은 2027년 1월 1일부터 12월 31일까지다. 사업예산은 부가세를 포함해 4억580만2000원이며, 면세사업자도 투찰 단계에서는 부가세를 포함한 금액을 적용한다. 면세사업자가 낙찰되면 계약금액에서 해당 세액을 차감한다.",
+      "## 새 공동수급은 당일 구성할 수 없어",
+      "컴퓨터관련 서비스사업(1468)과 정보통신공사업(0036)을 모두 등록하고, 정보시스템유지관리서비스 직접생산확인증명서(8111189901)와 해당 기업 확인 요건을 갖춰야 한다. 공동이행은 대표사를 포함해 최대 5개사, 구성원 지분은 각각 10% 이상이지만 협정서 기한은 17일 오후 6시였다. 이미 협정을 제출한 업체와 단독 참가 예정 업체 모두 오전 제출 여부를 먼저 확인할 필요가 있다. 공고에 표시된 개찰 시각과 별도로 실제 가격 개찰은 기술평가 뒤 진행한다.",
+      "## 출처 메모",
+      "- 한국국방연구원 나라장터 공고 제KIDA2026-48호: https://www.g2b.go.kr/pn/pnp/pnpe/UntyAtchFile/downloadFile.do?bidPbancNo=R26BK01800329&bidPbancOrd=002&fileSeq=4&fileType=&prcmBsneSeCd=03 - 한국국방연구원 입찰 상세와 현장 제출 첨부: https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=244&depth=2&idx=1485"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-19T06:34:00Z",
+    "eventEndsAt": "2026-11-19T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "전자 가격입찰과 현장 제안서 접수의 순서와 공동수급 마감을 분리했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "전자 가격입찰과 현장 제안서 접수의 순서와 공동수급 마감을 분리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:23:00Z",
+    "reporterInsight": "가격 전자입찰 마감과 방문 제안서 제출 시간대가 다르므로 업체는 두 단계의 일정과 제출 경로를 각각 확인해야 한다.",
+    "readerChecklist": [
+      "업종 등록 확인",
+      "오전 가격 전자제출",
+      "오후 현장 접수 준비"
+    ],
+    "imageUrl": "/stock/2026-11-19-kida-application-maintenance-two-step-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "한국국방연구원",
+      "응용체계",
+      "유지보수",
+      "가격입찰",
+      "현장제출",
+      "나라장터",
+      "공동수급",
+      "직접생산"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-pangyo-f2-industrial-lease-documents",
+    "slug": "2026-11-19-pangyo-f2-industrial-lease-documents",
+    "title": "판교 기업성장센터 F2 임대, 12월 1~4일 현장 접수",
+    "summary": "방문하기 전에 신청할 호실 임대보증금의 10%를 내야 한다. 공고 게시 기간과 실제 현장 접수일은 다르다.",
+    "body": [
+      "판교 제2테크노밸리 기업성장센터 F2블록 산업시설에 들어갈 기업을 추가 모집한다.",
+      "판교 제2테크노밸리의 공식 안내에서 공고 게시 기간은 11월 17일부터 표시되지만, 서류를 받는 기간은 12월 1일부터 4일까지다. 공고가 게시된 날부터 방문 접수할 수 있는 구조가 아니다.",
+      "## 방문 전에 호실별 10% 준비",
+      "입주 자격을 갖춘 민간 기업 또는 지원 기관이 모집 대상이다. 신청하려는 호실 임대보증금의 10%를 서류 접수 전까지 공사가 지정한 계좌에 입금해야 한다. 이는 임대보증금 전부라는 뜻이 아니며 실제 금액은 대상 호실을 결정한 뒤 공고의 임대조건 표에서 확인해야 한다. 계좌도 공식 공고 기준으로 대조해야 한다.",
+      "## 점심 한 시간은 접수하지 않아",
+      "현장 접수 시간은 오전 10시부터 오후 4시까지이며 정오부터 오후 1시까지는 제외한다. 안내는 대기 시간을 줄이기 위해 방문 시간도 담당자와 사전에 협의하도록 요청한다. 신청 기업은 사업자 업종이 입주 조건에 해당하는지 확인하고, 호실과 보증금 자료를 준비한 뒤 방문 일정을 잡는 순서로 움직이는 편이 낫다.",
+      "## 출처 메모",
+      "- 판교 제2테크노밸리 F2블록 모집 안내: https://www.pangyo2tv.or.kr/main/main.do - 판교 제2테크노밸리 모집 공지 목록: https://www.pangyo2tv.or.kr/cmu/ongoingEventList.do"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-19T06:26:00Z",
+    "eventEndsAt": "2026-12-04T16:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "게시 기간과 현장 접수일 및 보증금 선납 기준을 구분했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "게시 기간과 현장 접수일 및 보증금 선납 기준을 구분했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:14:00Z",
+    "reporterInsight": "게시 시작일과 실제 접수기간이 다르므로 방문 일정을 미리 협의하고 신청예약금과 제출 서류를 함께 준비해야 한다.",
+    "readerChecklist": [
+      "업종과 호실 확인",
+      "보증금 기준과 지정 계좌 대조",
+      "접수 시간 협의"
+    ],
+    "imageUrl": "/stock/2026-11-19-pangyo-f2-industrial-lease-documents.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "판교",
+      "제2테크노밸리",
+      "기업성장센터",
+      "F2블록",
+      "한국토지주택공사",
+      "산업시설",
+      "임대보증금",
+      "현장접수"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-patent-filing-voucher-fee-boundary",
+    "slug": "2026-11-19-patent-filing-voucher-fee-boundary",
+    "title": "특허 바우처 17차, 500만원 중 기업 몫 250만원…30일까지",
+    "summary": "한국중소기업발전협회 공고는 특허 한 건의 출원·등록을 지원한다. 표기된 총사업비와 협회 부담액은 다르다.",
+    "body": [
+      "한국중소기업발전협회의 17차 특허출원·등록 비용 바우처 접수는 30일까지로 안내됐으나 예산 한도에 따라 일찍 마감될 수 있다. 공고 안내에 따르면 특허 한 건의 출원과 등록을 지원하며, 500만원은 기업에 들어오는 보조금이 아닌 전체 사업비다. 협회 지원 250만원과 기업 부담 250만원으로 나뉜다.",
+      "## 관납료는 사업비 표와 별도로 확인",
+      "첨부 시행계획은 사업비의 범위를 특허 출원에서 등록까지의 변리사 수수료로 설명한다. 출원이나 우선심사 신청, 등록 때 특허 당국에 납부하는 관납료는 포함하지 않는다고 안내한다. 따라서 기업은 250만원만 준비하면 모든 비용이 끝난다고 보아서는 안 된다. 해당 기술의 심사 경로에 따라 드는 관납료를 별도로 확인할 필요가 있다.",
+      "## 등록 확정이 아닌 권리화 지원",
+      "지원 대상 안내에는 스타트업, 중소기업, 1인기업과 예비창업자가 포함됐다. 공고는 기술 기반 개발 활동과 실현 가능성 등을 평가해 지원 대상을 정하며, 바우처 선정이 특허 등록을 보장하지는 않는다. 협회 소식 글 제목은 17차이나 본문 일부에 16차가 남아 있어 신청할 때는 협회가 연결한 17차 모집 페이지와 K-Startup 상세에서 회차를 대조하는 편이 안전하다. 포털에 표시된 종료 시각은 30일 오후 7시다.",
+      "## 출처 메모",
+      "- 한국중소기업발전협회 17차 공지: https://ceo-korea.org/news/notices/notice-20261111-27adcb67 - 협회 17차 모집 및 신청 안내: https://ceo-korea.org/support/notices/patent-voucher-2026-17 - K-Startup 17차 공고와 시행계획 첨부: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?pbancSn=179777&schM=view"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-19T06:27:00Z",
+    "eventEndsAt": "2026-11-30T19:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "사업비 총액과 협회 지원액을 나누고 회차와 온라인 신청 기한을 정리했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "사업비 총액과 협회 지원액을 나누고 회차와 온라인 신청 기한을 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:16:00Z",
+    "reporterInsight": "해외 특허 출원 비용을 계산할 때 기업의 부담액과 협회의 지원액을 나눠 보고 지원 대상에서 빠지는 관납료를 따로 확인해야 한다.",
+    "readerChecklist": [
+      "17차 공고 확인",
+      "기업 부담금과 관납료 비교",
+      "제출 자료 준비"
+    ],
+    "imageUrl": "/stock/2026-11-19-patent-filing-voucher-fee-boundary.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "특허",
+      "바우처",
+      "지식재산",
+      "출원",
+      "등록",
+      "기업부담",
+      "중소기업",
+      "한국중소기업발전협회"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-seedcube-changdong-office-lease-contract",
+    "slug": "2026-11-19-seedcube-changdong-office-lease-contract",
+    "title": "씨드큐브 창동 임대, 신청 화면과 첨부 회차 표시 달라",
+    "summary": "7차 공급 제목의 접수 상세는 27일 오후 5시를 표시한다. 첨부 PDF 이름은 5차로 표시돼 호실 적용 범위를 대조할 필요가 있다.",
+    "body": [
+      "스타트업플러스의 씨드큐브 창동 오피스 임대 신청 상세는 7차 공급을 제목으로 쓰고 접수기간을 27일 오후 5시까지로 표시한다. 하지만 같은 상세에 붙은 공급 공고 PDF의 이름은 5차다. 화면상 표시만 놓고서는 그 파일의 계약 대상 호실이 7차에 그대로 적용된다고 단정하기 어렵다.",
+      "## 접수 상세와 공급 첨부의 역할",
+      "신청 상세에 표시된 날짜는 해당 화면의 접수 안내다. 함께 연결된 파일은 이름뿐 아니라 PDF 본문도 5차로 표시하므로, 두 문서가 같은 회차의 계약조건을 안내하는 것으로 읽어서는 안 된다.",
+      "## 신청 전 계약 대상 호실과 조건 확인",
+      "호실을 검토하는 기업은 첨부 이름과 본문 회차, 공급 대상 호실과 면적, 임대료 및 보증금을 서로 대조할 필요가 있다. 접수 상세의 문의처는 도봉구청 청년미래과다. 현행 7차에 적용되는 첨부와 남은 호실이 확인되기 전에는 5차 첨부 표만으로 이용 가능한 공간이나 계약 비용을 확정할 수 없다.",
+      "## 출처 메모",
+      "- 스타트업플러스 씨드큐브 7차 신청 상세: https://www.startup-plus.kr/project/PRJ007532 - 신청 상세에 연결된 5차 표기 공급 공고 PDF: https://www.startup-plus.kr/api/common/download?attachFilePath=%2Fproject%2Fattachment%2F260922130455%EC%B0%BD%EB%8F%99+%EC%98%A4%ED%94%BC%EC%8A%A4+%EC%B0%BD%EC%97%85%EA%B8%B0%EC%97%85+2026%EB%85%84+5%EC%B0%A8%EA%B3%B5%EA%B8%89%28%EC%9E%84%EB%8C%80%29+%EA%B3%B5%EA%B3%A0%EB%AC%B8%28%EA%B3%84%EC%95%BD%EB%8C%80%EC%83%81%ED%98%B8%EC%8B%A4%EB%B3%80%EA%B2%BD%29.pdf"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-19T06:27:00Z",
+    "eventEndsAt": "2026-11-27T17:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "서로 다른 화면의 회차와 마감 표시를 구별해 첨부를 곧바로 현재 계약표로 읽지 않도록 했다. 공식 공고에 근거해 정리했다.",
+    "addedValue": "서로 다른 화면의 회차와 마감 표시를 구별해 첨부를 곧바로 현재 계약표로 읽지 않도록 했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T06:16:00Z",
+    "reporterInsight": "온라인 신청 화면과 첨부 안내의 회차가 다르므로 해당 회차의 호실과 계약조건을 확인한 뒤 서류를 준비해야 한다.",
+    "readerChecklist": [
+      "신청 상세의 회차 확인",
+      "호실 공고와 첨부 대조",
+      "임대조건 확인"
+    ],
+    "imageUrl": "/stock/2026-11-19-seedcube-changdong-office-lease-contract.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "씨드큐브",
+      "창동",
+      "임대",
+      "도봉구",
+      "호실",
+      "스타트업플러스",
+      "창업기업",
+      "공급공고"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "keco-small-business-esg-support-2026",
     "slug": "keco-small-business-esg-support-2026",
     "title": "한국환경공단 ESG 지원 5개사 내외…400만원 이내 컨설팅·평가, 물기업 가점",
