@@ -3,7 +3,7 @@ title: [오피니언] 희귀식물 보전, 현판 다음에는 1년 뒤 생존 �
 slug: opinion-rare-plant-conservation-survival-records
 category: opinion
 author: 류주형 / 취재기자
-publishedAt: 2026-11-18 12:02
+publishedAt: 2026-11-18 12:17
 reporting: desk
 verificationNote: 기록할 보전 성과 관련 공식 자료를 원고 출처에 연결했다.
 addedValue: 공개 범위와 기록 방법에 필요한 기준과 맥락을 독자가 구분할 수 있게 정리했다.
@@ -12,7 +12,7 @@ visualType: ai-illustration
 aiRole: research-assist, draft-assist, copyedit, image
 judgment: routine
 reviewedBy: 모두일보 독립 리뷰 담당
-reviewedAt: 2026-11-18 11:50
+reviewedAt: 2026-11-18 12:06
 reporterInsight: "보전기관이 보유한 희귀식물 개체 수와 실제 보전 성과를 구분할 수 있도록 생존 기록도 함께 살펴보자는 제안이다."
 humanReviewClaimed: false
 tags: [수목원, 희귀식물, 보전 성과, 산림청, 생존 기록, 증식, 보전기관, 오피니언]
@@ -36,3 +36,4 @@ imageCaption: AI 생성 이미지. 실제 사진이 아닙니다.
 ## 출처 메모
 
 - 산림청·국립수목원 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789626
+- 산림청·국립수목원 보전기관 지정 발표 첨부(PDF): https://www.korea.kr/common/download.do?fileId=198591858&tblKey=GMN
