@@ -141466,6 +141466,670 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-20-andong-fish-market-restaurant-lease-rebid",
+    "slug": "2026-11-20-andong-fish-market-restaurant-lease-rebid",
+    "title": "안동 도매시장 수산동 식당 3차 입찰…첫해 예정가격 3138만원",
+    "summary": "건물 245.77㎡, 계약일로부터 3년. 예정가격과 실제 낙찰 사용료는 다르다.",
+    "body": [
+      "안동시농수산물도매시장 수산동 안쪽 일반음식점 운영자 입찰이 25일 오후 4시에 마감된다.",
+      "대상 건물 면적은 245.77㎡이며, 공고가 제시한 3138만9440원은 부가가치세를 제외한 첫해 연간 예정가격이다.",
+      "## 입찰금액의 5% 이상 보증금 필요",
+      "입찰은 온비드 전자 방식이며 가격뿐 아니라 입찰금액의 5% 이상인 보증금도 마감시각까지 납부해야 한다. 개찰은 26일 오전 10시다. 경쟁입찰 예정가격과 실제 낙찰자의 사용료를 구분하고 공용 토지면적을 식당 전용면적으로 보지 않아야 한다.",
+      "## 안동 주소 유지 기간과 허용 업종",
+      "개인은 만 19세 이상이며 공고일 180일 전부터 입찰일까지 안동에 주소를 둬야 한다. 법인도 같은 기간 본점 소재지 요건을 적용한다. 허가는 계약일부터 3년이며 식당 외 용도로 쓸 수 없다. 시장 관리사무소가 운영 수익을 보장하지 않으므로 사용허가 조건과 현장을 함께 확인해야 한다.",
+      "## 출처 메모",
+      "- 안동시 입찰 재공고: https://www.andong.go.kr/portal/saeol/gosi/view.do?isLinkage=Y&mId=0401040000&notAncmtMgtNo=65551 - 재공고문 PDF: https://eminwon.andong.go.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=%EC%95%88%EB%8F%99%EC%8B%9C%EB%86%8D%EC%88%98%EC%82%B0%EB%AC%BC%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5%20%EC%88%98%EC%82%B0%EB%8F%99%20%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90(%EB%82%98%EC%B8%A1)%20%EC%9E%84%EB%8C%80%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%84%A0%EC%A0%95%20%EC%9E%85%EC%B0%B0%20%EC%9E%AC%EA%B3%B5%EA%B3%A0(3%EC%B0%A8).pdf&sys_file_nm=%EC%95%88%EB%8F%99%EC%8B%9C%EB%86%8D%EC%88%98%EC%82%B0%EB%AC%BC%EB%8F%84%EB%A7%A4%EC%8B%9C%EC%9E%A5%20%EC%88%98%EC%82%B0%EB%8F%99%20%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90(%EB%82%98%EC%B8%A1)%20%EC%9E%84%EB%8C%80%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%84%A0%EC%A0%95%20%EC%9E%85%EC%B0%B0%20%EC%9E%AC%EA%B3%B5%EA%B3%A0(3%EC%B0%A8)_ofr_ofr_Id9ol7jk7E9R7wIJ_20261118103943727_1.pdf&file_path=/ntishome/file/upload/ofr/ofr/20261118 - 공유재산 사용허가 조건 PDF: https://eminwon.andong.go.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0(%EC%88%98%EC%82%B0%EB%8F%99%20%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90)%20%EC%82%AC%EC%9A%A9%ED%97%88%EA%B0%80%20%EC%A1%B0%EA%B1%B4.pdf&sys_file_nm=%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0(%EC%88%98%EC%82%B0%EB%8F%99%20%EC%9D%BC%EB%B0%98%EC%9D%8C%EC%8B%9D%EC%A0%90)%20%EC%82%AC%EC%9A%A9%ED%97%88%EA%B0%80%20%EC%A1%B0%EA%B1%B4_ofr_ofr_Id9ol7jk7E9R7wIJ_20261118103943727_2.pdf&file_path=/ntishome/file/upload/ofr/ofr/20261118"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-20T06:21:00Z",
+    "eventEndsAt": "2026-11-25T16:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 건물 245.77㎡, 계약일로부터 3년. 예정가격과 실제 낙찰 사용료는 다르다.",
+    "addedValue": "건물 245.77㎡, 계약일로부터 3년. 예정가격과 실제 낙찰 사용료는 다르다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:10:00Z",
+    "reporterInsight": "건물 245.77㎡, 계약일로부터 3년. 예정가격과 실제 낙찰 사용료는 다르다.",
+    "readerChecklist": [
+      "입찰금액의 5% 이상 보증금 필요",
+      "안동 주소 유지 기간과 허용 업종",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-andong-fish-market-restaurant-lease-rebid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "안동시",
+      "농수산물도매시장",
+      "수산동",
+      "일반음식점",
+      "사용허가",
+      "온비드",
+      "임대입찰",
+      "입찰보증금"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-busan-seogu-seafood-equipment-cost-share",
+    "slug": "2026-11-20-busan-seogu-seafood-equipment-cost-share",
+    "title": "부산 서구 수산가공 설비비 60% 지원…냉장창고는 제외",
+    "summary": "이물선별기 등 가공 설비가 대상이다. 부가세와 설비 구입·설치비의 기업 부담을 나눠야 한다.",
+    "body": [
+      "부산 서구가 수산식품 가공설비 지원사업의 추가 신청을 27일까지 받는다. 공고문상 보조금은 지원 대상 설비 구입·설치비의 60%, 자부담은 40%다. 부가가치세는 별도로 계산한다.",
+      "## 설비가 가공용인지 먼저 확인",
+      "이물선별기, 금속검출기, 포장설비처럼 가공에 직접 쓰이는 설비가 대상이다. 원료나 완제품 보관이 주목적인 냉동·냉장설비와 정수시설 등은 지원에서 제외된다. 필요 장비 목록에서 생산 공정에 직접 쓰는 장비와 부대시설을 먼저 구분하는 것이 좋다.",
+      "## 확정 지원액은 평가 후 결정",
+      "수산가공품을 생산하는 개인·법인이 신청할 수 있지만 공고는 대기업과 2023~2025년에 같은 사업의 지원을 받은 자를 제외한다. 설치 대상지 지적도와 토지이용계획확인원 등도 필요하다. 접수처는 부산 서구청 서관 1층 해양산림과이며, 신청 순서대로 모두 지원하는 사업은 아니다. 평가로 우선순위를 정하고 사업비 범위에서 선정한다.",
+      "## 출처 메모",
+      "- 서구 공고문·신청 서식: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128030 - 수산식품산업의 육성 및 지원에 관한 법률 시행령: https://www.law.go.kr/법령/수산식품산업의육성및지원에관한법률시행령"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "최은영",
+      "role": "국제부 기자"
+    },
+    "publishedAt": "2026-11-20T06:25:00Z",
+    "eventEndsAt": "2026-11-27T23:59:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 이물선별기 등 가공 설비가 대상이다. 부가세와 설비 구입·설치비의 기업 부담을 나눠야 한다.",
+    "addedValue": "이물선별기 등 가공 설비가 대상이다. 부가세와 설비 구입·설치비의 기업 부담을 나눠야 한다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "이물선별기 등 가공 설비가 대상이다. 부가세와 설비 구입·설치비의 기업 부담을 나눠야 한다.",
+    "readerChecklist": [
+      "설비가 가공용인지 먼저 확인",
+      "확정 지원액은 평가 후 결정",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-busan-seogu-seafood-equipment-cost-share.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "부산서구",
+      "수산식품",
+      "가공설비",
+      "설치비",
+      "보조금",
+      "자부담",
+      "수산가공",
+      "방문접수"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-future-auto-parts-specialist-designation",
+    "slug": "2026-11-20-future-auto-parts-specialist-designation",
+    "title": "미래차 부품 전문기업 신청…매출 50%·연구개발비 3% 중 하나",
+    "summary": "직전 네 분기 기준과 별도 평가 80점 요건을 구분해야 한다. 임시저장은 접수로 인정하지 않는다.",
+    "body": [
+      "산업통상부의 미래자동차 부품 전문기업 지정은 미래차 부품 매출 비중 50% 이상과 관련 연구개발비 비중 3% 이상 가운데 하나를 기준으로 삼는다.",
+      "두 비율은 신청 분기 직전 네 분기를 기준으로 계산한다. 이 요건을 충족하더라도 바로 지정되는 것은 아니다.",
+      "## 회사 실적과 기술·경영 평가는 별도",
+      "두 비율은 첫 단계의 수치 조건이다. 공고는 기술수준과 경영역량 평가에서 100점 만점에 80점 이상을 별도로 요구하고 최종 심의를 거쳐 지정한다. 사업 참여 제한 등 공고에 적힌 다른 자격 조건도 함께 확인해야 한다.",
+      "## 12월 21일은 공고문에 기재된 접수 종료일",
+      "산업통상부 공고문은 신청 기간을 11월 19일부터 12월 21일까지로 안내한다. 기업마당의 현행 상세도 같은 날짜를 안내한다. 원공고에는 당일 종료 시각이 나와 있지 않다. 미래차 전환 종합정보시스템에 서류를 올린 뒤 최종 신청까지 해야 하며, 임시저장 상태는 접수로 인정하지 않는다.",
+      "## 출처 메모",
+      "- 산업통상부 원공고와 첨부: https://www.motir.go.kr/kor/article/ATCLc01b2801b/71417/view - 기업마당 지원사업 요약·공고문: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127812 - 미래차 전환 종합정보시스템 신청: https://biz.katech.re.kr/core/?cid=61"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-20T06:26:00Z",
+    "eventEndsAt": "2026-12-21T23:59:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 직전 네 분기 기준과 별도 평가 80점 요건을 구분해야 한다. 임시저장은 접수로 인정하지 않는다.",
+    "addedValue": "직전 네 분기 기준과 별도 평가 80점 요건을 구분해야 한다. 임시저장은 접수로 인정하지 않는다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "직전 네 분기 기준과 별도 평가 80점 요건을 구분해야 한다. 임시저장은 접수로 인정하지 않는다.",
+    "readerChecklist": [
+      "회사 실적과 기술·경영 평가는 별도",
+      "12월 21일은 공고문에 기재된 접수 종료일",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-future-auto-parts-specialist-designation.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "미래자동차",
+      "부품기업",
+      "산업통상부",
+      "전문기업",
+      "연구개발비",
+      "매출액",
+      "기술평가",
+      "한국자동차연구원"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-gwanggyo-aict-four-unit-lease-bid",
+    "slug": "2026-11-20-gwanggyo-aict-four-unit-lease-bid",
+    "title": "광교 융합기술연구원 2층 임대, 계약면적 155㎡ 중 전용 101㎡",
+    "summary": "A동 2층 일부의 첫해 임대료 기초금액은 2761만5654원이다. 관리비와 입주심사를 따로 확인해야 한다.",
+    "body": [
+      "차세대융합기술연구원이 광교테크노밸리 A동 4개 층의 입주기업을 모집한다. 그중 2층 일부는 계약면적 154.97㎡ 가운데 101㎡가 전용 공간이고 53.97㎡는 공용면적이다. 2층의 가격·면적은 다른 층의 조건에 적용되지 않는다.",
+      "## 첫해 임대료와 관리비 구분",
+      "2층 공고의 연간 임대료 기초금액은 부가가치세 포함 2761만5654원이다. 계약기간은 체결일부터 5년 이내이며, 월별 임대료와 관리비는 별도로 계산한다. 관리비는 계약면적을 기준으로 실비 정산한다고 명시했다. 공고에 적힌 임대보증금 조건도 입찰보증금과 별도로 확인해야 한다.",
+      "## 최고가 투찰 후에도 적격 심사",
+      "온비드 전자입찰과 입찰보증금 납부는 27일 오후 6시까지이며 개찰은 30일 오전 10시다. 최고가 낙찰예정자도 입주심사위원회의 입주 적격 평가를 받아야 최종 낙찰자가 된다. 공간의 용도와 실제 면적·시설은 해당 층 공고와 현장에서 따로 확인할 필요가 있다.",
+      "## 출처 메모",
+      "- 차세대융합기술연구원 공고 및 층별 첨부: https://bizinfo.go.kr/biz/bizb/selectBIZB200Detail.do?mvnEntrprsRcritPblancId=MVNP_000000000000827 - 온비드 전자입찰 안내: https://www.onbid.co.kr"
+    ],
+    "category": "deals",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-20T06:21:00Z",
+    "eventEndsAt": "2026-11-27T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. A동 2층 일부의 첫해 임대료 기초금액은 2761만5654원이다. 관리비와 입주심사를 따로 확인해야 한다.",
+    "addedValue": "A동 2층 일부의 첫해 임대료 기초금액은 2761만5654원이다. 관리비와 입주심사를 따로 확인해야 한다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:10:00Z",
+    "reporterInsight": "A동 2층 일부의 첫해 임대료 기초금액은 2761만5654원이다. 관리비와 입주심사를 따로 확인해야 한다.",
+    "readerChecklist": [
+      "첫해 임대료와 관리비 구분",
+      "최고가 투찰 후에도 적격 심사",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-gwanggyo-aict-four-unit-lease-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "광교테크노밸리",
+      "차세대융합기술연구원",
+      "연구공간",
+      "임대",
+      "전용면적",
+      "온비드",
+      "입주심사",
+      "공유재산"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-gwanggyo-biohub-lab-station-entry-terms",
+    "slug": "2026-11-20-gwanggyo-biohub-lab-station-entry-terms",
+    "title": "광교 바이오허브 입주, 본사 아니어도 6개월 내 주소 이전 가능",
+    "summary": "사업장 네 가지 중 하나를 이전할 수 있다. 예비창업자는 협약 후 6개월 안에 창업하는 조건이다.",
+    "body": [
+      "경기도경제과학진흥원이 광교 바이오허브 랩 스테이션에 입주할 기업을 모집한다.",
+      "선정 기업의 주소 이전 대상은 본사에 한정되지 않는다. 공고는 입주 후 6개월 안에 본사·지점·기업부설연구소·연구개발전담부서 중 하나를 이전하도록 했다.",
+      "## 예비창업자와 기존 기업의 기준일 차이",
+      "전국의 바이오 분야 예비창업자와 11월 18일 공고일 기준 창업 7년 미만 기업이 대상이다. 예비창업자는 주소 이전과 달리 협약 후 6개월 이내 창업 조건으로 신청할 수 있다. 생화학 실험 공간인 웨트랩은 3개사 이상, 드라이랩은 1개사로 안내됐으며 웨트랩 수는 기존 입주기업 평가 결과에 따라 확정된다.",
+      "## 기본 2년과 연장 심사 구별",
+      "입주 예정 기간은 2027년 2월부터 2029년 1월까지다. 한 차례 연장은 심의를 통과해야 하므로 처음부터 4년이 보장되는 것은 아니다. 신청 기한은 12월 3일 오후 5시다. 경기기업비서 지원사업에서 ‘광교 바이오허브 랩 스테이션’ 또는 경기도 공고 제2026-2579호를 찾아 신청한다. 제출 서식과 공간별 조건은 기업마당 공식 상세 첨부에서도 볼 수 있다. 경기기업비서의 개별 주소는 비로그인 상태에서 직접 열리지 않아 로그인 이후 접수 상태는 확인하지 않았다.",
+      "## 출처 메모",
+      "- 경기기업비서 공식 신청 플랫폼: https://egbiz.or.kr/ - 기업마당 공고문·운영지침: https://bizinfo.go.kr/biz/bizb/selectBIZB200Detail.do?mvnEntrprsRcritPblancId=MVNP_000000000000826"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-20T06:26:00Z",
+    "eventEndsAt": "2026-12-03T17:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 사업장 네 가지 중 하나를 이전할 수 있다. 예비창업자는 협약 후 6개월 안에 창업하는 조건이다.",
+    "addedValue": "사업장 네 가지 중 하나를 이전할 수 있다. 예비창업자는 협약 후 6개월 안에 창업하는 조건이다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "사업장 네 가지 중 하나를 이전할 수 있다. 예비창업자는 협약 후 6개월 안에 창업하는 조건이다.",
+    "readerChecklist": [
+      "예비창업자와 기존 기업의 기준일 차이",
+      "기본 2년과 연장 심사 구별",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-gwanggyo-biohub-lab-station-entry-terms.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "광교",
+      "바이오허브",
+      "입주기업",
+      "창업기업",
+      "주소이전",
+      "웨트랩",
+      "드라이랩",
+      "경기도경제과학진흥원"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-gyeonggi-digital-openlab-demo-day-submission",
+    "slug": "2026-11-20-gyeonggi-digital-openlab-demo-day-submission",
+    "title": "경기 디지털오픈랩 IR, 27일 오전 10시 마감…첨부는 ZIP 하나",
+    "summary": "경기 소재 업력 7년 미만 AI·ICT 기술창업기업이 대상이다. 기준 점수와 선정 여부는 별개다.",
+    "body": [
+      "경기도경제과학진흥원 디지털오픈랩이 IR 데모데이에 참가할 기술창업기업을 27일 오전 10시까지 모집한다. 종료 시각이 자정이 아닌 오전이고, 안내문상 모집 규모의 두 배를 넘으면 일찍 마감될 수 있다.",
+      "## IR 자료 외 증명서도 함께 제출",
+      "대상은 경기도 소재 업력 7년 미만 AI·ICT 기술창업기업이다. 신청자는 온라인 프로그램 페이지에 신청 정보를 입력하고 신청서 PDF, 자유 양식의 IR 자료, 사업자등록증, 국세·지방세 완납증명서, 재무제표를 하나의 ZIP에 묶는다. 재무제표가 없는 경우에만 부가가치세 과세표준증명원으로 대체할 수 있다. 납세증명서와 재무제표 또는 대체 증명원은 공고일 이후 발급 및 유효기간 조건을 확인해야 한다.",
+      "## 서면 60점은 선정 보장이 아니다",
+      "공고는 서면평가 60점 이상인 기업 중 고득점순으로 선정한다고 안내한다. 연락은 신청서에 적은 이메일로 이뤄지며 선정 기업은 판교 스타트업 캠퍼스에서 발표·네트워킹에 참여한다. 이는 투자자 피드백과 접점을 제공하는 프로그램으로 투자 계약이나 자금 지원을 보장하지 않는다.",
+      "## 출처 메모",
+      "- 디지털오픈랩 원공고·신청: https://digitalopenlab.kr/business/educationlistView.do?idx=12634 - 경기도 일자리 플랫폼 제출 안내: https://job.gg.go.kr/entSprt/detail.do?seq=5367 - 기업마당 공고문 첨부: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127990"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-20T06:25:00Z",
+    "eventEndsAt": "2026-11-27T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 경기 소재 업력 7년 미만 AI·ICT 기술창업기업이 대상이다. 기준 점수와 선정 여부는 별개다.",
+    "addedValue": "경기 소재 업력 7년 미만 AI·ICT 기술창업기업이 대상이다. 기준 점수와 선정 여부는 별개다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "경기 소재 업력 7년 미만 AI·ICT 기술창업기업이 대상이다. 기준 점수와 선정 여부는 별개다.",
+    "readerChecklist": [
+      "IR 자료 외 증명서도 함께 제출",
+      "서면 60점은 선정 보장이 아니다",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-gyeonggi-digital-openlab-demo-day-submission.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "경기도",
+      "디지털오픈랩",
+      "투자유치",
+      "기술창업",
+      "데모데이",
+      "ICT",
+      "발표자료",
+      "서면평가"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-hanam-nutrition-plus-food-supply-bid",
+    "slug": "2026-11-20-hanam-nutrition-plus-food-supply-bid",
+    "title": "하남 영양플러스 식품 단가입찰…냉장탑차 2대 조건",
+    "summary": "예정금액 1억2620만원과 투찰 기준인 품목 단가 합계 20만4830원은 다른 숫자다.",
+    "body": [
+      "하남시보건소가 내년 영양플러스 보충식품 공급업체를 단가 전자입찰로 선정한다.",
+      "공고에 제시된 예정금액은 1억2620만원이지만 업체가 가격을 산정하는 기준은 품목별 단가의 합계인 20만4830원이다. 두 금액을 같은 투찰 기준으로 보면 안 된다.",
+      "## 배송 능력도 참가 조건",
+      "조제분유 등 24종에는 대체식품이 포함되며 상자와 배송비도 가격 범위에 들어간다. 신청 업체는 보관시설 또는 점포와 냉장탑차 두 대 이상을 갖춰야 한다. 임차 차량도 인정하지만 내부 온도계와 5도 이하 유지 조건이 붙는다. 보험 가입 증빙과 지정 가구로 배송할 능력도 필요하다.",
+      "## 경기 소재 기준과 실제 투찰 시간",
+      "식품판매업 영업신고와 중기업·소기업·소상공인 확인서 외에 경기도 소재 요건을 함께 확인해야 한다. 공고는 소재지 기준을 공고일 180일 전부터 적용하되 신규사업자 예외를 둔다. 나라장터 가격 제출은 20일 오전 10시에 시작해 27일 오전 10시에 마감하며, 개찰은 같은 날 오전 11시다.",
+      "## 출처 메모",
+      "- 하남시보건소 입찰 공고: https://www.hanam.go.kr/sosik/selectGosiData.do?key=10056&not_ancmt_mgt_no=53282&not_ancmt_se_code=02 - 공고문 PDF: https://eminwon.hanam.gyeonggi.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=%EA%B3%B5%EA%B3%A0%EB%AC%B8(2027%EB%85%84%20%EC%98%81%EC%96%91%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%82%AC%EC%97%85%20%EB%B3%B4%EC%B6%A9%EC%8B%9D%ED%92%88%20%EA%B5%AC%EC%9E%85).pdf&sys_file_nm=%EA%B3%B5%EA%B3%A0%EB%AC%B8(2027%EB%85%84%20%EC%98%81%EC%96%91%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%82%AC%EC%97%85%20%EB%B3%B4%EC%B6%A9%EC%8B%9D%ED%92%88%20%EA%B5%AC%EC%9E%85)_ofr_ofr_1uBIITKo7Z_odgEB_20261118164705974_1.pdf&file_path=/ntishome/file/upload/ofr/ofr/20261118 - 과업지시서 PDF: https://eminwon.hanam.gyeonggi.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=2027%20%EB%B3%B4%EC%B6%A9%EC%8B%9D%ED%92%88%20%EA%B5%AC%EB%A7%A4%EA%B3%84%EC%95%BD%20%EA%B3%BC%EC%97%85%EC%A7%80%EC%8B%9C%EC%84%9C.pdf&sys_file_nm=2027%20%EB%B3%B4%EC%B6%A9%EC%8B%9D%ED%92%88%20%EA%B5%AC%EB%A7%A4%EA%B3%84%EC%95%BD%20%EA%B3%BC%EC%97%85%EC%A7%80%EC%8B%9C%EC%84%9C_ofr_ofr_1uBIITKo7Z_odgEB_20261118164705974_2.pdf&file_path=/ntishome/file/upload/ofr/ofr/20261118"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-20T06:21:00Z",
+    "eventEndsAt": "2026-11-27T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 예정금액 1억2620만원과 투찰 기준인 품목 단가 합계 20만4830원은 다른 숫자다.",
+    "addedValue": "예정금액 1억2620만원과 투찰 기준인 품목 단가 합계 20만4830원은 다른 숫자다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:10:00Z",
+    "reporterInsight": "예정금액 1억2620만원과 투찰 기준인 품목 단가 합계 20만4830원은 다른 숫자다.",
+    "readerChecklist": [
+      "배송 능력도 참가 조건",
+      "경기 소재 기준과 실제 투찰 시간",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-hanam-nutrition-plus-food-supply-bid.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "하남시",
+      "영양플러스",
+      "보충식품",
+      "단가입찰",
+      "냉장배송",
+      "나라장터",
+      "식품판매업",
+      "적격심사"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-hanam-senior-center-cleaning-quotation",
+    "slug": "2026-11-20-hanam-senior-center-cleaning-quotation",
+    "title": "하남 노인복지관 청소 견적 25일 10시 마감…공동계약 불가",
+    "summary": "기초금액 9478만9000원. 하남 소재와 건물청소서비스 직접생산 증명이 모두 필요하다.",
+    "body": [
+      "하남시가 내년 노인복지관 청소용역의 전자 견적을 25일 오전 10시까지 받는다. 기초금액은 부가가치세 포함 9478만9000원이다. 계약은 청소원 배치·관리를 포함하며 기간은 내년 1월 1일부터 12월 31일까지다.",
+      "## 관내 업체도 증빙 세 종류 확인",
+      "소기업 또는 소상공인으로서 하남 소재 요건 외에 건물위생관리업 등록과 건물청소서비스 직접생산확인증명서가 필요하다. 하남 소재 여부는 법인의 경우 등기부상 본점, 개인사업자는 사업자등록증이나 관계 법령에 따른 인허가·신고 서류에 기재된 사업장 주소로 판단한다. 소재 요건은 공고일 전일부터 개찰일까지 유지해야 하고, 낙찰자는 계약 체결일까지 유지해야 한다. 공동계약과 하도급은 허용하지 않는다.",
+      "## 88%는 기초금액이 아니라 예정가격 기준",
+      "예정가격 이하, 예정가격의 88% 이상인 견적 중 가장 낮은 금액을 낸 업체부터 자격을 검토한다. 기초금액에 단순히 88%를 곱한 값을 확정 낙찰선으로 볼 수 없다. 개찰은 25일 오전 11시이며 최초 개찰에 선정 업체가 없으면 공고상 당일 재견적 가능성도 있다.",
+      "## 출처 메모",
+      "- 하남시 견적 공고: https://www.hanam.go.kr/sosik/selectGosiData.do?key=10056&not_ancmt_mgt_no=53268&not_ancmt_se_code=02 - 공고문 PDF: https://eminwon.hanam.gyeonggi.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=%EA%B3%B5%EA%B3%A0%EB%AC%B8%5B2027%EB%85%84%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EB%B3%B5%EC%A7%80%EA%B4%80%20%EC%B2%AD%EC%86%8C%20%EC%9A%A9%EC%97%AD%5D.pdf&sys_file_nm=%EA%B3%B5%EA%B3%A0%EB%AC%B8%5B2027%EB%85%84%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EB%B3%B5%EC%A7%80%EA%B4%80%20%EC%B2%AD%EC%86%8C%20%EC%9A%A9%EC%97%AD%5D_ofr_ofr_1uBIITKo7AW5VQDG_20261118091920533_1.pdf&file_path=/ntishome/file/upload/ofr/ofr/20261118 - 과업지시서 PDF: https://eminwon.hanam.gyeonggi.kr/emwp/jsp/ofr/FileDown.jsp?user_file_nm=%EA%B3%BC%EC%97%85%EC%A7%80%EC%8B%9C%EC%84%9C(%EB%85%B8%EC%9D%B8%EB%B3%B5%EC%A7%80%EA%B4%80%20%EC%B2%AD%EC%86%8C).pdf&sys_file_nm=%EA%B3%BC%EC%97%85%EC%A7%80%EC%8B%9C%EC%84%9C(%EB%85%B8%EC%9D%B8%EB%B3%B5%EC%A7%80%EA%B4%80%20%EC%B2%AD%EC%86%8C)_ofr_ofr_1uBIITKo7AW5VQDG_20261118091920533_2.pdf&file_path=/ntishome/file/upload/ofr/ofr/20261118"
+    ],
+    "category": "bids",
+    "author": {
+      "name": "남동균",
+      "role": "문화·스포츠부 기자"
+    },
+    "publishedAt": "2026-11-20T06:25:00Z",
+    "eventEndsAt": "2026-11-25T10:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 기초금액 9478만9000원. 하남 소재와 건물청소서비스 직접생산 증명이 모두 필요하다.",
+    "addedValue": "기초금액 9478만9000원. 하남 소재와 건물청소서비스 직접생산 증명이 모두 필요하다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "기초금액 9478만9000원. 하남 소재와 건물청소서비스 직접생산 증명이 모두 필요하다.",
+    "readerChecklist": [
+      "관내 업체도 증빙 세 종류 확인",
+      "88%는 기초금액이 아니라 예정가격 기준",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-hanam-senior-center-cleaning-quotation.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "하남시",
+      "노인복지관",
+      "청소용역",
+      "수의견적",
+      "직접생산확인",
+      "건물위생관리업",
+      "나라장터",
+      "소상공인"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-incheon-bio-prototype-external-manufacturing",
+    "slug": "2026-11-20-incheon-bio-prototype-external-manufacturing",
+    "title": "인천 바이오 시제품 지원 최대 2215만원…선집행과 기업부담금 따로",
+    "summary": "인천테크노파크가 시제품 제조비를 사후 정산한다. 기업은 지원금의 20%를 협약 뒤 별도로 납부한다.",
+    "body": [
+      "인천 바이오 시제품 제조 지원에서 최대 2215만원은 기업당 지원 한도다. 인천테크노파크 공고는 기업이 먼저 비용을 쓰고 이후 정산하도록 정했다. 지원금의 20%에 해당하는 기업부담금도 협약 후 14일 안에 지정 계좌에 내야 한다.",
+      "## 지원금 20%와 부가세는 별개",
+      "한도까지 지원받는 경우 협약에 따른 기업부담금은 443만원이다. 견적 공급가액이 한도를 넘으면 초과분도 기업 몫이며, 부가가치세는 지원 대상에서 빠진다. 협약 시점의 부담금과 제조 대금 선집행에 필요한 현금을 구분해야 한다.",
+      "## 인천 소재와 신청 마감",
+      "본사·공장·연구소 가운데 한 곳이 인천에 있고 접수 시작일 기준 영업 중인 중소·벤처기업을 대상으로 한다. 의료제품과 바이오 소재·부품·장비 관련 기업은 대상에 포함되지만 뷰티·식품 분야 제품은 제외된다. 지원 기간은 12월부터 내년 2월 26일까지로 안내됐으며 신청은 비즈오케이에서 27일 오후 1시까지 받는다.",
+      "## 출처 메모",
+      "- 인천테크노파크 공고: https://itp.or.kr/intro.asp?seq=11311&tmid=13 - 기업마당 공고문 첨부: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128013 - 비즈오케이 공고·접수: https://bizok.incheon.go.kr/open_content/support.do?act=detail&policyno=7212"
+    ],
+    "category": "grants",
+    "author": {
+      "name": "서영호",
+      "role": "공공입찰 전담기자"
+    },
+    "publishedAt": "2026-11-20T06:25:00Z",
+    "eventEndsAt": "2026-11-27T13:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 인천테크노파크가 시제품 제조비를 사후 정산한다. 기업은 지원금의 20%를 협약 뒤 별도로 납부한다.",
+    "addedValue": "인천테크노파크가 시제품 제조비를 사후 정산한다. 기업은 지원금의 20%를 협약 뒤 별도로 납부한다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "인천테크노파크가 시제품 제조비를 사후 정산한다. 기업은 지원금의 20%를 협약 뒤 별도로 납부한다.",
+    "readerChecklist": [
+      "지원금 20%와 부가세는 별개",
+      "인천 소재와 신청 마감",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-incheon-bio-prototype-external-manufacturing.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "인천테크노파크",
+      "인천",
+      "바이오헬스",
+      "제품화",
+      "시제품",
+      "중소기업",
+      "기업부담금",
+      "사후정산"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-kosha-suwon-information-desk-contract",
+    "slug": "2026-11-20-kosha-suwon-information-desk-contract",
+    "title": "안전보건공단 수원 안내원 1명…고용24 화면에서 직접 접수 안 돼",
+    "summary": "11월 30일 오후 6시까지. 공단 채용 사이트와 방문·우편 접수 안내를 따로 확인해야 한다.",
+    "body": [
+      "한국산업안전보건공단 경기광역본부가 수원 전자산업 안전보건센터에서 근무할 기간제 안내원 한 명을 모집한다. 고용24에서 공고를 볼 수 있지만 해당 페이지의 직접 입사지원 기능은 열려 있지 않다. 공고가 지정한 접수 경로는 공단 채용 사이트, 방문, 우편이다.",
+      "## 근무와 보수는 연도를 구분",
+      "평일 오전 9시부터 오후 6시까지 휴게 한 시간을 포함하고 실제 근무는 하루 8시간이다. 근무 기간은 임용예정일부터 2027년 8월 31일까지로 안내됐다. 공고에 표시된 세전 일급은 8만2560원이며 2027년 지급분에는 그해 최저시급 기준과 공공부문 처우개선 지침을 적용한다고 적었다.",
+      "## 서류·면접 전형과 지정 서식",
+      "지원은 30일 오후 6시까지다. 직무능력 기반 입사지원서와 직무수행계획서, 개인정보 수집·이용 동의서 등 공단 서식이 안내돼 있다. 방문·우편 접수처는 근무 장소인 전자산업 안전보건센터가 아니라 공단 경기광역본부 경영지원팀이다. 우편은 모든 서류가 30일 오후 6시까지 접수처에 도착한 경우에만 인정된다.",
+      "## 출처 메모",
+      "- 고용24 안내원 직무·접수 상세 및 첨부: https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=K180012611190081 - 안전보건공단 자체 채용 사이트: https://kosha.applyin.co.kr - 안전보건공단 공고문 PDF: https://www.alio.go.kr/download/download.json?fileNo=3088684"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-20T06:26:00Z",
+    "eventEndsAt": "2026-11-30T18:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 11월 30일 오후 6시까지. 공단 채용 사이트와 방문·우편 접수 안내를 따로 확인해야 한다.",
+    "addedValue": "11월 30일 오후 6시까지. 공단 채용 사이트와 방문·우편 접수 안내를 따로 확인해야 한다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "11월 30일 오후 6시까지. 공단 채용 사이트와 방문·우편 접수 안내를 따로 확인해야 한다.",
+    "readerChecklist": [
+      "근무와 보수는 연도를 구분",
+      "서류·면접 전형과 지정 서식",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-kosha-suwon-information-desk-contract.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "안전보건공단",
+      "수원",
+      "안내원",
+      "기간제",
+      "공공채용",
+      "고용24",
+      "직무수행계획",
+      "일급"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-pnuh-nursing-admin-health-recruitment",
+    "slug": "2026-11-20-pnuh-nursing-admin-health-recruitment",
+    "title": "부산대병원 33명 모집…진료지원 간호는 임상 3년 필요",
+    "summary": "간호 30명, 의료사회복지사 2명, 방사선사 1명이다. 직종에 따라 영어성적과 자격증 기준이 다르다.",
+    "body": [
+      "부산대학교병원이 간호·행정·보건직 33명의 지원서를 12월 3일 오후 5시까지 온라인으로 받는다.",
+      "진료지원 간호사 30명은 간호사 면허에 더해 인정되는 병원에서 임상 경력 3년 이상이어야 하며 야간·교대근무가 가능해야 한다.",
+      "## 간호와 행정·보건의 필수 요건 차이",
+      "간호직의 경력 인정 기관은 공고상 병원·종합병원과 군병원이며 요양병원 근무 경력은 인정되지 않는다. 행정 6급 두 명은 의료사회복지사 자격증과 영어성적, 보건 6급 한 명은 방사선사 면허와 영어성적이 필요하다. 산부인과 초음파 관련 경험 등은 보건직의 우대 사항과 필수 요건을 나눠 확인해야 한다.",
+      "## 영어 기준도 직종별로 다르다",
+      "공고는 토익 기준으로 행정 700점, 보건 600점 이상을 예시하며 다른 인정 시험과 세부 조건도 명시했다. 지원자는 시험 종류별 점수뿐 아니라 성적 발표일 기준도 대조할 필요가 있다. 마감은 병원 채용 페이지 기준 오후 5시이며 등록된 지원서의 필수 자격 입력 여부를 확인해야 한다.",
+      "## 출처 메모",
+      "- 부산대학교병원 채용 상세: https://pnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271252 - 병원 채용 공고문 PDF: https://pnuh.recruiter.co.kr/mrs2/attachFile/downloadFile?fileUid=ab39a1e4-72bf-414e-a00f-a70af018b1e8.pdf"
+    ],
+    "category": "labor",
+    "author": {
+      "name": "유승현",
+      "role": "사회부 기자"
+    },
+    "publishedAt": "2026-11-20T06:21:00Z",
+    "eventEndsAt": "2026-12-03T17:00:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 간호 30명, 의료사회복지사 2명, 방사선사 1명이다. 직종에 따라 영어성적과 자격증 기준이 다르다.",
+    "addedValue": "간호 30명, 의료사회복지사 2명, 방사선사 1명이다. 직종에 따라 영어성적과 자격증 기준이 다르다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:10:00Z",
+    "reporterInsight": "간호 30명, 의료사회복지사 2명, 방사선사 1명이다. 직종에 따라 영어성적과 자격증 기준이 다르다.",
+    "readerChecklist": [
+      "간호와 행정·보건의 필수 요건 차이",
+      "영어 기준도 직종별로 다르다",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-pnuh-nursing-admin-health-recruitment.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "부산대학교병원",
+      "진료지원간호사",
+      "간호채용",
+      "의료사회복지사",
+      "방사선사",
+      "임상경력",
+      "공인영어",
+      "공개채용"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-20-ulsan-battery-testing-equipment-voucher",
+    "slug": "2026-11-20-ulsan-battery-testing-equipment-voucher",
+    "title": "울산 배터리 장비 바우처 최대 600만원…장비·일정 먼저 확인",
+    "summary": "울산테크노파크 내부 장비 시험 이용료 지원이다. 상시 접수도 시스템 가입 승인이 먼저 필요하다.",
+    "body": [
+      "울산테크노파크가 이차전지 관련 중소·중견기업의 장비 활용 비용을 기업당 최대 600만원 지원한다. 지원 대상은 본부 안의 장비로 진행하는 전지 실증과 성능·안전성 시험 이용료다. 외부 장비 구입비 전반을 지원하는 사업은 아니다.",
+      "## 요청한 시험을 실제로 맡길 수 있는지 확인",
+      "공고는 보유 장비와 인력으로 직접 지원 가능한 범위에서 시험을 지원하고 가능 여부와 일정을 사전에 확인하도록 안내한다. 다른 사업에서 유사하거나 중복되는 지원을 받은 것으로 확인된 신청은 공고상 제외 대상이다. 지원 기간은 선정일부터 공고상 사업 기간인 내년 2월까지다.",
+      "## 울산 사업장과 가입 승인 확인",
+      "울산에 사업장을 두고 전담인력이 상주하는 관련 기업이 대상이다. 관외에서 울산 이전을 준비하는 기업에는 별도 증빙 요건이 있다. 온라인 접수는 상시로 안내됐지만 지원 목표에 도달하면 조기 종료될 수 있다. 기업지원사업관리시스템은 가입 승인 전에는 접수할 수 없다.",
+      "## 출처 메모",
+      "- 울산테크노파크 원공고: https://www.utp.or.kr/include/contents.php?mnuno=M0000018&seq=615&task=view - 기업마당 첨부 공고문·신청서: https://bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128011 - 울산테크노파크 기업지원사업관리시스템: https://platform.utp.or.kr/"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "김영환",
+      "role": "경제부 기자"
+    },
+    "publishedAt": "2026-11-20T06:26:00Z",
+    "reporting": "desk",
+    "verificationNote": "공식 공고와 적용 조건을 바탕으로 정리했다. 울산테크노파크 내부 장비 시험 이용료 지원이다. 상시 접수도 시스템 가입 승인이 먼저 필요하다.",
+    "addedValue": "울산테크노파크 내부 장비 시험 이용료 지원이다. 상시 접수도 시스템 가입 승인이 먼저 필요하다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-20T06:14:00Z",
+    "reporterInsight": "울산테크노파크 내부 장비 시험 이용료 지원이다. 상시 접수도 시스템 가입 승인이 먼저 필요하다.",
+    "readerChecklist": [
+      "요청한 시험을 실제로 맡길 수 있는지 확인",
+      "울산 사업장과 가입 승인 확인",
+      "원공고 첨부 확인"
+    ],
+    "imageUrl": "/stock/2026-11-20-ulsan-battery-testing-equipment-voucher.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "울산",
+      "울산테크노파크",
+      "이차전지",
+      "바우처",
+      "장비활용",
+      "시험지원",
+      "중소기업",
+      "산업기술"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "keco-small-business-esg-support-2026",
     "slug": "keco-small-business-esg-support-2026",
     "title": "한국환경공단 ESG 지원 5개사 내외…400만원 이내 컨설팅·평가, 물기업 가점",
