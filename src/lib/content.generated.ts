@@ -140348,6 +140348,108 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-19-aerial-work-platform-guard-recall-status",
+    "slug": "2026-11-19-aerial-work-platform-guard-recall-status",
+    "title": "고소작업대 방호장치 개조 적발, 차주 경고 뒤 회수는 예정",
+    "summary": "익산지청이 밝힌 개선 절차 대조…개선명령 불응 시 현장점검, 회수 완료 대수는 공개되지 않아",
+    "body": [
+      "고용노동부 익산지청은 과부하방지장치를 무효화할 수 있도록 고소작업대를 개조한 제조업체를 적발하고 개선조치에 착수했다고 19일 밝혔다. 발표문에서 이미 시행한 조치와 뒤따를 절차를 나눠 보면, 차주 안내·경고 공문은 발송됐고 무효화 장치의 회수·폐기는 예정된 조치였다.",
+      "지청에 따르면 업체는 처음에 안전인증을 받은 장비를 제조·판매한 뒤, 방호기능을 무효화할 수 있게 개조했다. 과부하방지장치는 장비가 허용 범위를 넘어 전도 위험이 커지면 작동을 제한하는 장치다. 지청은 제조업체 대표와 법인에 대한 사법조치 방침도 밝혔다. 공개자료에서 확인되는 단계는 지청의 위반 판단과 조치 방침이다.",
+      "## 발표된 조치와 다음 단계",
+      "지청은 개선명령 등을 통해 무효화 장치를 회수·폐기하고, 안전인증 기준 미달 사항이 해소될 때까지 인증표시 사용을 제한할 예정이라고 설명했다. 차주가 개선명령에 따르지 않으면 현장점검에 나서 작동기록 등을 확인하고, 허용 범위를 넘겨 사용한 사실이 확인되면 사법조치와 사용중지명령을 하겠다는 방침이다. 공문 발송, 현장점검, 사용중지에는 각각 다른 시점과 조건이 붙는다.",
+      "## 회수 완료 여부의 확인 범위",
+      "지청이 근거로 든 산업안전보건법 제87조는 안전인증 기준에 맞지 않는 기계의 제조·양도·사용 등을 규율하고, 위반에 대한 조치 근거도 둔다. 최초 인증 당시의 상태와 개조 이후 현장에서 쓰이는 상태를 따로 확인해야 하는 이유다. 발표에는 전체 판매 대수와 회수 대상 대수, 회수를 마친 대수 등이 나오지 않아 개선 완료 여부를 수치로 확인하기는 어렵다.",
+      "## 출처 메모",
+      "- 고용노동부 익산지청 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789867 - 국가법령정보센터 산업안전보건법 제87조: https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0087&lsiSeq=283449&urlMode=lsScJoRltInfoR - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592770&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:18:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "발표된 조치와 다음 단계와 회수 완료 여부의 확인 범위를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:06:00Z",
+    "reporterInsight": "안전인증 위반에 따른 경고와 회수 예정, 불응할 때 가능한 후속 조치는 단계별로 구분해 이해할 필요가 있다.",
+    "imageUrl": "/stock/2026-11-19-aerial-work-platform-guard-recall-status.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "고용노동부",
+      "고소작업대",
+      "방호장치",
+      "산업안전보건법",
+      "개선명령",
+      "회수",
+      "안전인증",
+      "익산지청"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-campus-patent-contest-analysis-approaches",
+    "slug": "2026-11-19-campus-patent-contest-analysis-approaches",
+    "title": "대학생 특허대회 두 최고상, NAND는 기술 공백을 보고 로봇은 적용성을 봤다",
+    "summary": "참가 1522개 조 중 79개 조 수상…산업 과제에 따라 달랐던 특허 분석의 출발점",
+    "body": [
+      "지식재산처가 19일 발표한 캠퍼스 특허 유니버시아드 수상작 설명을 비교하면, 대통령상 팀은 NAND 메모리의 분쟁 위험과 새로 연구할 기술을 함께 살폈고 국무총리상 팀은 로봇에 적용할 수 있는 특허를 중심으로 전략을 세웠다.",
+      "이화여대 ‘이크크’ 팀의 대통령상 과제는 SK하이닉스가 제시한 인공지능 맞춤형 NAND 메모리 기술이다. 지식재산처에 따르면 팀은 특허 동향을 분석해 핵심 특허의 분쟁 예방 전략과, 기존 특허가 상대적으로 덜 다룬 영역을 활용한 연구개발 방향을 각각 제안했다. 특허를 실제로 침해했는지 판단한 결과나 새 기술의 상용화 실적은 발표 범위에 들어 있지 않다.",
+      "## 과제별 수상작 분석",
+      "숙명여대 ‘파이(PAI)’ 팀은 한국전자통신연구원의 로봇 기술 과제를 분석해 국무총리상에 선정됐다. 발표문은 제품에 적용하기 좋은 기술에 주목한 뒤 핵심 특허와 분석에 활용한 유효 특허를 서로 연결했다고 설명했다. 두 작품이 보여주는 분석 방법의 차이는 비교할 수 있지만, 공개된 수상작 설명만으로 특허 목록이나 전략의 성능을 재현하기는 어렵다.",
+      "## 참가와 수상의 집계 단위",
+      "올해는 전국 71개 대학에서 1522개 조가 참가했고 31개 대학 79개 조가 수상작에 이름을 올렸다. 팀 수 기준 수상 비율은 79를 1522로 나눈 약 5.19%다. 지도교수상과 단체상을 포함한 전체 상의 수와 수상팀 수는 집계 단위가 다르다. 지식재산처는 사전 발표에서 시상식 일정을 19일 오후 5시 서울 서초구 엘타워로 안내했다.",
+      "## 출처 메모",
+      "- 지식재산처 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789865 - 지식재산처 공식 상세·첨부 안내: https://www.kipo.go.kr/ko/kpoBultnDetail.do?aprchId=BUT0000029&menuCd=SCD0200618&ntatcSeq=21122&sysCd=SCD02"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:20:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "과제별 수상작 분석와 참가와 수상의 집계 단위를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:09:00Z",
+    "reporterInsight": "두 특허 과제는 서로 다른 평가 지점을 보여준다. 출원 전략을 세울 때는 기술 공백과 현장 적용성을 각각 살펴볼 수 있다.",
+    "imageUrl": "/stock/2026-11-19-campus-patent-contest-analysis-approaches.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "지식재산처",
+      "특허대회",
+      "캠퍼스",
+      "NAND",
+      "로봇",
+      "특허분석",
+      "대학생",
+      "수상"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-19-changdong-hub-office-selection-terms",
     "slug": "2026-11-19-changdong-hub-office-selection-terms",
     "title": "서울창업허브 창동 4실 모집…이용료는 1년치 선납",
@@ -140622,6 +140724,57 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-19-hope-ladder-housing-restart-case-comparison",
+    "slug": "2026-11-19-hope-ladder-housing-restart-case-comparison",
+    "title": "국민임대 거쳐 제주 새 출발 준비, 폐업 뒤엔 창업 프로그램 신청",
+    "summary": "희망사다리 영상 공모 177편 중 19편 선정…주거 안정과 폐업 이후 지원의 역할을 비교",
+    "body": [
+      "‘우리는 국민임대를 떠났습니다’와 ‘등불’은 모두 공공정책을 이용한 뒤의 선택을 다루지만, 두 수상작에 등장하는 지원의 역할은 서로 다르다. 문화체육관광부가 19일 공개한 작품 설명에서 대상은 주거가 안정된 뒤 이동을 준비한 가정에, 최우수상은 가게를 닫은 뒤 새 일을 모색한 사람에 초점을 맞췄다.",
+      "## 영상에 나타난 지원 경로",
+      "대상 작품은 국민임대주택에서 지낸 부부가 제주에서 새로운 출발을 준비하는 이야기다. 작품 설명에서 확인되는 정책은 국민임대주택이며 제주로 옮긴 뒤의 정착 성과나 별도의 이주 지원까지 확인되는 것은 아니다. 문체부가 AI 활용 영상으로 소개한 최우수상 ‘등불’은 7년간 운영한 식당을 닫은 인물이 케이패스와 희망리턴패키지 등을 거쳐 ‘모두의 창업’ 2기에 지원하는 과정을 담았다. 도전의 다음 단계는 신청이며, 창업 성공이나 사업 선정을 보여주는 자료는 확인되지 않았다.",
+      "## 두 사례를 비교할 때의 한계",
+      "두 작품을 비교하면 하나는 이후 선택을 준비할 주거의 기반, 다른 하나는 폐업 이후 다시 시도할 수 있는 개별 지원의 연결을 보여준다. 출품작의 줄거리에 바탕을 둔 비교이므로 사업 전체의 효과를 측정한 결과나 독립 현장 인터뷰로 해석할 수 없다. 작품 속 지원을 이용하려는 독자는 대상과 자격, 신청 절차를 사업별 공식 안내에서 확인할 수 있다.",
+      "문체부는 7월 30일부터 10월 4일까지 177편을 접수해 19편을 선정했다. 응모작 수를 기준으로 계산한 수상작 비율은 약 10.7%다. 문체부는 시상식과 토크콘서트의 시작 시각을 19일 오후 2시로, 장소를 서울 중구 정동1928 아트센터로 사전 안내했다.",
+      "## 출처 메모",
+      "- 문화체육관광부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789840 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592705&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:20:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "영상에 나타난 지원 경로와 두 사례를 비교할 때의 한계를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:09:00Z",
+    "reporterInsight": "수상 사례를 살펴볼 때는 각 당사자가 이용한 주거·창업 지원의 순서와 지원 프로그램에서 소개한 재출발 경로를 함께 봐야 한다.",
+    "imageUrl": "/stock/2026-11-19-hope-ladder-housing-restart-case-comparison.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "희망사다리",
+      "국민임대",
+      "폐업",
+      "재창업",
+      "문화체육관광부",
+      "영상공모",
+      "주거안정",
+      "사례"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-19-incheon-tourism-incubator-room-types",
     "slug": "2026-11-19-incheon-tourism-incubator-room-types",
     "title": "인천 관광기업 입주 15곳 안팎…독립실과 공유공간 서식 구분",
@@ -140790,6 +140943,108 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-19-nuclear-power-difference-contract-settlement",
+    "slug": "2026-11-19-nuclear-power-difference-contract-settlement",
+    "title": "원전 차액계약, 시장가격이 기준보다 높으면 한수원이 한전에 차액 지급",
+    "summary": "1MWh에 단가 차 10원/kWh 가정하면 1만원…부처 인가 거쳐 2027년부터 5년 적용 예정",
+    "body": [
+      "원전 전력의 시장가격이 계약 기준가격보다 높을 때와 낮을 때는 차액 지급 방향이 바뀐다. 시장가격이 높으면 발전사업자인 한국수력원자력이 구매자인 한국전력공사에 차액을 주고, 시장가격이 낮으면 한전이 한수원에 지급한다. 기후에너지환경부가 발표한 정부승인차액계약의 핵심은 시장에서 거래한 뒤 계약분의 가격 차를 따로 정산하는 방식이다.",
+      "## 시장가격에 따른 차액",
+      "계약전력량을 1MWh로 놓고 두 가격의 차이를 1kWh당 10원으로 가정하면, 1MWh는 1000kWh이므로 정산 차액은 1만원이다. 시장가격이 기준가격보다 10원 높으면 한수원에서 한전으로 1만원이 이동하고, 10원 낮으면 같은 금액이 반대로 이동한다. 계산에 넣은 양과 가격 차는 정산 방향을 설명하기 위한 가정이다.",
+      "## 심의와 인가 일정",
+      "정부 자료에 따르면 발전기는 전력거래소의 급전 지시를 받아 기존처럼 시장에서 거래한다. 계약 조건에 따른 별도 정산은 시장 거래 뒤에 이루어진다. 부처가 제시한 32.1%는 2025년 전력시장 거래량 중 원전이 차지한 몫이다. 공개자료에서 확인되는 것은 전력시장 내 원전의 거래량 비중이다. 전체 요금 효과를 계산하려면 실제 계약전력량과 기준가격 등이 필요하다.",
+      "한수원과 한전은 10월 30일 계약서에 공동 날인했고 전기위원회는 11월 13일 심의를 마쳤다. 부처는 19일 기념식 일정을 공개했다. 전기사업법상 계약에는 장관 인가가 필요하며, 부처 발표는 인가를 거쳐 2027년 1월 1일부터 5년간 전력거래에 적용할 예정이라고 설명했다.",
+      "## 출처 메모",
+      "- 기후에너지환경부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789829 - 국가법령정보센터 전기사업법 제34조: https://www.law.go.kr/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=900609923 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592684&tblKey=GMN"
+    ],
+    "category": "industry",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:17:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "시장가격에 따른 차액와 심의와 인가 일정를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:06:00Z",
+    "reporterInsight": "시장가격과 계약가격의 차이는 계약 당사자가 정산한다. 계약 인가 절차와 예시의 단위 환산을 구분해 정산 구조를 읽을 수 있다.",
+    "imageUrl": "/stock/2026-11-19-nuclear-power-difference-contract-settlement.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "원전",
+      "전력시장",
+      "차액계약",
+      "한수원",
+      "한전",
+      "전기위원회",
+      "전기사업법",
+      "정산"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-obesity-drug-illegal-sales-reporting-channel",
+    "slug": "2026-11-19-obesity-drug-illegal-sales-reporting-channel",
+    "title": "비만치료제 불법판매, 식약처 전용 신고 창구와 특별팀 운영",
+    "summary": "온라인 게시물 차단 요청과 현장점검·수사를 구분…신고는 공식 웹페이지 또는 전화로",
+    "body": [
+      "식품의약품안전처가 GLP-1 계열 비만치료제의 불법판매를 신고할 전용 창구를 운영한다. 식약처의 19일 발표와 실제 신고센터 안내를 대조한 결과, 독자가 확인할 수 있는 신고 경로는 식약처 누리집의 ‘비만치료제 불법판매 신고센터’와 위해사범중앙조사단 전화(043-719-1089)다.",
+      "## 차단 요청과 현장 조치",
+      "식약처가 밝힌 특별팀은 온라인 모니터링반, 현장점검반, 수사반으로 나뉜다. 카페·블로그의 불법판매 알선·광고 게시물, 개인 간 중고거래 등은 온라인 점검 대상이다. 기관은 위반 게시물을 적발하면 방송미디어통신심의위원회 등에 차단을 요청할 계획이라고 밝혔다. 게시물 차단 요청과 현장점검·수사는 같은 조치가 아니며, 발표문은 각 신고가 어떤 기준으로 배정되고 언제 처리되는지까지 설명하지 않았다.",
+      "## 공식 신고 경로",
+      "10월 6일 식약처가 공개한 949건은 특별팀 출범 전인 1~9월 적발 게시물 수다. 새 신고센터의 접수 실적과 집계 기준이 다르다. 신고센터 페이지를 열어 안내를 확인했으며, 개별 신고 이후에 결과가 어떤 방식으로 통지되는지는 공개자료에서 확인되지 않았다.",
+      "온라인 창구의 신고 대상은 불법판매·알선·광고 의심 사례다. 접수 페이지의 안내에 따라 신고할 수 있다.",
+      "## 출처 메모",
+      "- 식품의약품안전처 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789843 - 식약처 비만치료제 불법판매 신고센터: https://www.mfds.go.kr/brd/m_1062/list.do - 식약처 10월 6일 점검 결과: https://www.mfds.go.kr/brd/m_99/view.do?seq=50395 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592711&tblKey=GMN"
+    ],
+    "category": "society",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:18:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "차단 요청과 현장 조치와 공식 신고 경로를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:06:00Z",
+    "reporterInsight": "불법 판매 의심 게시물은 공식 신고창구에서 접수한다. 게시물 적발 통계와 새 창구의 처리 절차는 각각의 기준으로 봐야 한다.",
+    "imageUrl": "/stock/2026-11-19-obesity-drug-illegal-sales-reporting-channel.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "식품의약품안전처",
+      "비만치료제",
+      "불법판매",
+      "신고센터",
+      "온라인판매",
+      "차단요청",
+      "현장점검",
+      "신고"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-19-pangyo-f2-industrial-lease-documents",
     "slug": "2026-11-19-pangyo-f2-industrial-lease-documents",
     "title": "판교 기업성장센터 F2 임대, 12월 1~4일 현장 접수",
@@ -140901,6 +141156,108 @@ export const CONTENT_ARTICLES: Article[] = [
     "type": "article"
   },
   {
+    "id": "2026-11-19-public-self-procurement-correction-patterns",
+    "slug": "2026-11-19-public-self-procurement-correction-patterns",
+    "title": "공공기관 자체조달 시정요구, 참가자격·공고기간 두 유형이 90.9%",
+    "summary": "4만5689건 점검해 2049건 시정 요구…기관 간 위반율 차이는 같은 기관의 전후 효과와 구분해야",
+    "body": [
+      "공공기관이 자체 발주한 입찰을 대상으로 한 조달청 점검에서 참가자격 부당 제한과 공고기간 미준수가 위반 유형의 대부분을 차지했다. 조달청이 19일 공개한 자료에서 두 유형의 비율을 더하니 90.9%였다. 입찰 참여 기회를 살피려면 어떤 기업이 들어올 수 있는지와 공고를 보고 준비할 시간이 충분한지를 함께 봐야 하는 이유다.",
+      "## 시정요구의 두 주요 유형",
+      "조달청은 2026년 10월 말까지 자체조달 4만5689건을 점검해 2049건에 시정을 요구했다. 두 수로 계산한 전체 점검 대비 시정요구 비율은 약 4.48%다. 시정요구의 위반 유형별 비중은 참가자격 부당 제한 56.2%, 공고기간 미준수 34.7%, 협상계약 관련 기준 위반 6.1% 순이었다. 90.9%는 공표된 위반 유형 비중 두 개를 합한 값이다. 유형별 정확한 건수는 공표 비율의 반올림 전 값을 알아야 계산할 수 있다.",
+      "## 기관 집단별 수치 해석",
+      "시정요구 경험 유무에 따라 나눈 기관별 수치도 차이가 났다. 지방정부는 경험이 없는 집단 14.4%, 있는 집단 5.0%로 9.4%포인트 차이가 났고, 교육기관은 각각 35.2%, 3.1%로 32.1%포인트 벌어졌다. 발표문은 경험 유무에 따른 평균을 제시한다. 같은 기관이 시정요구를 받기 전과 받은 이후에 얼마나 달라졌는지, 기관별 점검 대상이 얼마나 유사했는지는 제시하지 않았다.",
+      "조달청은 2027년부터 인공지능 기반 모니터링을 본격 가동할 계획이라고 밝혔다. 앞으로 점검 효과를 판단하려면 기관 유형별 조사 대상과 공고 조건을 함께 공개해 비슷한 여건에서 달라진 부분을 가려낼 필요가 있다.",
+      "## 출처 메모",
+      "- 조달청 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789861 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592756&tblKey=GMN"
+    ],
+    "category": "economy",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:17:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "시정요구의 두 주요 유형와 기관 집단별 수치 해석를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:06:00Z",
+    "reporterInsight": "자체조달 점검은 참가자격과 공고기간에서 시정 요구가 집중됐다. 기관 집단별 비율을 비교할 때는 각 집단의 점검 대상을 함께 봐야 한다.",
+    "imageUrl": "/stock/2026-11-19-public-self-procurement-correction-patterns.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "조달청",
+      "자체조달",
+      "시정요구",
+      "참가자격",
+      "공고기간",
+      "공공기관",
+      "지방정부",
+      "교육기관"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-restart-day-awards-and-investor-pitches",
+    "slug": "2026-11-19-restart-day-awards-and-investor-pitches",
+    "title": "‘재도전의 날’ 포상·시상 대상 17명, 투자 발표는 별도 프로그램",
+    "summary": "기업인·지원기관 직원·우수사례 입상자를 시상…오후 기업 발표와 투자자 발표의 방향은 달라",
+    "body": [
+      "중소벤처기업부가 19일 서울 세텍 행사에 앞서 공개한 ‘2026 재도전의 날’ 일정표는 포상·시상과 투자 발표를 별도 프로그램으로 구분했다. 중기부 발표 본문에 나온 포상·시상 대상은 17명이다. 오전 세부 일정표가 명시한 수여분은 장관상 13점이다. 오후 프로그램에는 전국 예선을 거친 기업의 발표와 투자자의 전략 설명이 배치됐다.",
+      "## 포상과 기업 발표의 차이",
+      "시상 대상은 기업 대표 8명, 지원기관 직원 4명, 우수사례 공모전 입상자 5명이다. 합계는 17명이다. 장관상 13점과 재도전 지원기관장상 4점 역시 17점이지만, 이 수치는 같은 시상을 수여 주체별로 다시 나눈 것이다. 기관장상 4점의 수여 시각은 공개된 일정표에 따로 표시되지 않았다.",
+      "## 리버스 IR과 실제 투자 구분",
+      "중기부가 공개한 오후 일정표에는 전국 예선을 통과한 재도전기업의 투자유치대회 결선과 ‘리버스 IR’이 포함됐다. 결선에서는 기업이 사업을 소개하고, 리버스 IR에서는 재도전펀드를 운용하는 벤처캐피털이 자신들의 투자 방향과 전략을 설명한다. 기업 발표는 투자 유치가, 투자자 발표는 투자 기준을 설명하는 것이 목적이다. 일정에는 멘토와의 교류도 포함됐다. 시간표상 오후 3시 45분으로 안내된 투자유치대회 시상은 유공 포상과 별도였다.",
+      "발표 자료는 행사 구성과 예정 시상을 알려 준다. 투자자가 실제로 투자했는지, 계약이 체결됐는지, 자금이 집행됐는지는 이후 결과 확인이 필요하다.",
+      "## 출처 메모",
+      "- 중소벤처기업부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789835 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592695&tblKey=GMN"
+    ],
+    "category": "startup",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:20:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "포상과 기업 발표의 차이와 리버스 IR과 실제 투자 구분를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:09:00Z",
+    "reporterInsight": "재도전 행사 시간표에서 유공자 포상과 투자유치 발표를 각각 확인할 수 있다. 시상 일정이 투자나 계약의 성과를 뜻하지는 않는다.",
+    "imageUrl": "/stock/2026-11-19-restart-day-awards-and-investor-pitches.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "중소벤처기업부",
+      "재도전",
+      "포상",
+      "IR",
+      "투자유치",
+      "벤처캐피털",
+      "재도전펀드",
+      "우수사례"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
     "id": "2026-11-19-seedcube-changdong-office-lease-contract",
     "slug": "2026-11-19-seedcube-changdong-office-lease-contract",
     "title": "씨드큐브 창동 임대, 신청 화면과 첨부 회차 표시 달라",
@@ -140950,6 +141307,108 @@ export const CONTENT_ARTICLES: Article[] = [
       "스타트업플러스",
       "창업기업",
       "공급공고"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-service-tender-comprehensive-review-value",
+    "slug": "2026-11-19-service-tender-comprehensive-review-value",
+    "title": "용역 입찰 427건 중 종합심사 4건, 예정금액은 전체의 9.7%",
+    "summary": "건수 기준 0.94%…종합심사 평균 111억5000만원과 전체 평균 10억7200만원 비교",
+    "body": [
+      "조달청이 11월 23일부터 30일까지 집행할 예정인 용역 입찰 427건 가운데 종합심사는 4건이다. 건수로는 약 0.94%인데, 4건에 잡힌 예정금액은 446억원으로 전체 4578억원의 약 9.74%다. 네 사업은 모두 공사 시공단계 등의 건설사업관리용역이었다.",
+      "조달청의 19일 발표에 붙은 계약방법별 표를 같은 기간으로 맞춰 계산했다. 종합심사 4건의 건당 예정금액은 평균 111억5000만원이다. 전체는 4578억원을 427건으로 나눈 약 10억7200만원으로, 종합심사 묶음의 평균은 이보다 약 10.4배 크다. 공고별 금액이 서로 달라 평균을 개별 계약의 금액으로 적용할 수는 없다.",
+      "## 종합심사 금액의 구성",
+      "붙임의 주요 입찰 내역에서 종합심사 네 건은 고양탄현·서울영등포·밀양나노 아파트의 건설사업관리용역 세 건과 국가 핵심광물 비축기지 건설사업관리용역 한 건이었다. 개별 추정가격을 합하면 446억4600만원으로, 억원 단위로 적힌 요약표의 446억원과 맞는다. 고양탄현공원 건설사업관리용역 한 건의 추정가격이 232억4100만원으로, 네 건 합산액의 약 52%를 차지한다.",
+      "## 일정표와 공고 마감의 차이",
+      "협상계약은 386건·3697억원, 적격심사는 31건·396억원으로 잡혔다. 집계 기간은 조달청의 용역 입찰 예정 기간이다. 붙임 표의 개찰 예정일과 사업별 공고의 입찰서 마감은 서로 다른 항목이며, 취소나 금액 변경이 생기면 예정 집계도 달라질 수 있다.",
+      "## 출처 메모",
+      "- 조달청 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789860 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592754&tblKey=GMN"
+    ],
+    "category": "economy",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:17:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "종합심사 금액의 구성와 일정표와 공고 마감의 차이를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:06:00Z",
+    "reporterInsight": "종합심사 대상의 건수 비중과 예정액 비중을 함께 보면 전체 평균 대비 개별 사업 규모가 어느 정도인지 파악할 수 있다.",
+    "imageUrl": "/stock/2026-11-19-service-tender-comprehensive-review-value.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "조달청",
+      "용역입찰",
+      "종합심사",
+      "예정금액",
+      "건설사업관리",
+      "협상계약",
+      "적격심사",
+      "개찰"
+    ],
+    "isBreaking": false,
+    "readCount": 0,
+    "type": "article"
+  },
+  {
+    "id": "2026-11-19-venture-investment-growth-manufacturing-contribution",
+    "slug": "2026-11-19-venture-investment-growth-manufacturing-contribution",
+    "title": "벤처투자 증가분 2조7886억원, 두 제조 업종이 절반 차지",
+    "summary": "ICT제조 6265억원·전기·기계·장비 7783억원 증가…1~3분기 누계의 전년 대비 기여도",
+    "body": [
+      "올해 1~3분기 국내 신규 벤처투자 증가액의 절반은 정보통신기술(ICT) 제조와 전기·기계·장비 분야에서 나왔다. 중소벤처기업부가 11월 18일 공개한 업종별 표와 전체 투자 표를 같은 기간끼리 비교해 보니, 두 업종의 합산 증가액은 1조4048억원으로 전체 순증액 2조7886억원의 50.38%였다.",
+      "ICT제조 투자는 전년 1~3분기 9687억원에서 올해 1조5952억원으로 6265억원 늘었다. 전기·기계·장비는 1조4664억원에서 2조2447억원으로 7783억원 증가했다. 두 업종의 증가액을 합산한 뒤 전체 신규투자의 증가액으로 나눴다. 전체 투자는 전년 같은 기간 9조8362억원에서 올해 12조6248억원으로 늘었다.",
+      "## 증가율과 증가액의 차이",
+      "ICT제조의 증가율은 64.7%로 전기·기계·장비의 53.1%보다 높았다. 반면 늘어난 금액은 투자 규모가 더 큰 전기·기계·장비가 ICT제조보다 1518억원 많았다. 두 업종을 서로 비교할 때 증가율과 증가액의 순서가 달랐다.",
+      "## 전체 투자액과 순증액의 구분",
+      "집계는 벤처투자회사·조합과 신기술사업금융회사·조합의 신규투자 실적을 합친 것이다. 50.38%의 분모는 전년 동기 대비 전체 신규투자 순증액이다. 올해 투자 총액에서 두 업종이 차지한 비중이나 3분기 단독 성과, 신규 펀드 결성액에 적용할 수 있는 비율은 아니다.",
+      "## 출처 메모",
+      "- 중소벤처기업부 공식 발표: https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789863 - 공식 발표 첨부 원문: https://www.korea.kr/common/download.do?fileId=198592761&tblKey=GMN"
+    ],
+    "category": "economy",
+    "author": {
+      "name": "류주형",
+      "role": "취재기자"
+    },
+    "publishedAt": "2026-11-19T16:17:00Z",
+    "reporting": "desk",
+    "verificationNote": "제공 원고가 인용한 공식 발표와 첨부를 출처 메모에 연결했다.",
+    "addedValue": "증가율과 증가액의 차이와 전체 투자액과 순증액의 구분를 각각 살펴 수치와 적용 범위가 혼동되지 않도록 정리했다.",
+    "sourceBasis": "primary",
+    "visualType": "ai-illustration",
+    "aiRole": [
+      "research-assist",
+      "draft-assist",
+      "copyedit",
+      "image"
+    ],
+    "reviewedBy": "모두일보 독립 리뷰 담당",
+    "reviewedAt": "2026-11-19T16:06:00Z",
+    "reporterInsight": "벤처투자 증가분에서 두 제조 업종이 차지한 몫을 보면 전년 동기 대비 투자 확대에 어떤 업종이 기여했는지 파악할 수 있다.",
+    "imageUrl": "/stock/2026-11-19-venture-investment-growth-manufacturing-contribution.jpg",
+    "imageCaption": "AI 생성 이미지. 실제 사진이 아닙니다.",
+    "tags": [
+      "벤처투자",
+      "중소벤처기업부",
+      "ICT제조",
+      "기계장비",
+      "투자증가",
+      "전기장비",
+      "신규투자",
+      "업종별통계"
     ],
     "isBreaking": false,
     "readCount": 0,
